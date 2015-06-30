@@ -16,9 +16,9 @@
             "id": "5592feb3aa24e0191856a24f",
             "image": {
                 "sizes": {
-                    "Original": {
+                    "Best": {
                         "height": 125,
-                        "sizeName": "Original",
+                        "sizeName": "Best",
                         "url": "http://media.onsugar.com/files/2011/02/07/1/296/2966851/5e86da01c614f979_Spanx_Slimming_Apparel_125x125.jpg",
                         "width": 125
                     }
@@ -127,9 +127,9 @@
             "id": "5592feb2aa24e0191856a24d",
             "image": {
                 "sizes": {
-                    "Original": {
+                    "Best": {
                         "height": 125,
-                        "sizeName": "Original",
+                        "sizeName": "Best",
                         "url": "http://media.onsugar.com/files/2011/02/07/1/296/2966851/5e86da01c614f979_Spanx_Slimming_Apparel_125x125.jpg",
                         "width": 125
                     }
@@ -238,9 +238,9 @@
             "id": "5592feb2aa24e0191856a24b",
             "image": {
                 "sizes": {
-                    "Original": {
+                    "Best": {
                         "height": 125,
-                        "sizeName": "Original",
+                        "sizeName": "Best",
                         "url": "http://media.onsugar.com/files/2011/02/07/1/296/2966851/5e86da01c614f979_Spanx_Slimming_Apparel_125x125.jpg",
                         "width": 125
                     }
