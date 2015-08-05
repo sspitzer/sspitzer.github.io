@@ -3,13 +3,13 @@
         "limit": 50,
         "offset": 0,
         "since": 1435696819612,
-        "total": 3
+        "total": 1
     },
     "notifications": [
         {
             "alertId": "16986",
             "date": {
-                "date": "2015-06-29",
+                "date": "2015-08-05",
                 "friendly": "null hours ago",
                 "timestamp": 1435619043
             },
@@ -19,17 +19,17 @@
                     "Best": {
                         "height": 125,
                         "sizeName": "Best",
-                        "url": "http://media.onsugar.com/files/2011/02/07/1/296/2966851/5e86da01c614f979_Spanx_Slimming_Apparel_125x125.jpg",
+                        "url": "http://resources.shopstyle.com/im/retailers/logos/Levis_US-default@2x.png"
                         "width": 125
                     }
                 }
             },
-            "message": "Buy 1 Get 1 Free",
+            "message": "Up to 75% off sale styles at a Levi's nearby you!",
             "messageTags": [
                 {
                     "length": 16,
                     "object": {
-                        "checkoutCode": "SOME_CODE",
+                        "checkoutCode": "LEVIS75",
                         "endDate": "2015-07-10",
                         "largeImage": {
                             "sizes": {
@@ -106,234 +106,12 @@
                             }
                         },
                         "type": "Offline",
-                        "url": "http://levis.com"
+                        "url": "http://www.levi.com/US/en_US/category/sale/women/all?ab=home_carousel_banner_EOSS_75_w_080415"
                     },
                     "objectId": "16986",
                     "objectType": "Promotion",
                     "offset": 0,
-                    "text": "Buy 1 Get 1 Free"
-                }
-            ],
-            "type": "OfflineAlert",
-            "unread": true
-        },
-        {
-            "alertId": "16987",
-            "date": {
-                "date": "2015-06-29",
-                "friendly": "null hours ago",
-                "timestamp": 1435619043
-            },
-            "id": "5592feb2aa24e0191856a24d",
-            "image": {
-                "sizes": {
-                    "Best": {
-                        "height": 125,
-                        "sizeName": "Best",
-                        "url": "http://media.onsugar.com/files/2011/02/07/1/296/2966851/5e86da01c614f979_Spanx_Slimming_Apparel_125x125.jpg",
-                        "width": 125
-                    }
-                }
-            },
-            "message": "Up to 50% Off",
-            "messageTags": [
-                {
-                    "length": 13,
-                    "object": {
-                        "checkoutCode": "SOME_CODE",
-                        "endDate": "2015-07-10",
-                        "largeImage": {
-                            "sizes": {
-                                "Large": {
-                                    "height": 130,
-                                    "sizeName": "Large",
-                                    "width": 160
-                                },
-                                "Medium": {
-                                    "height": 85,
-                                    "sizeName": "Medium",
-                                    "width": 105
-                                },
-                                "Small": {
-                                    "height": 85,
-                                    "sizeName": "Small",
-                                    "width": 105
-                                }
-                            }
-                        },
-                        "locale": "en_US",
-                        "promotionId": 16987,
-                        "retailer": {
-                            "effectiveContentLocale": "en_US",
-                            "handle": "Levis US",
-                            "id": "992",
-                            "logo": {
-                                "sizes": {
-                                    "default": {
-                                        "url": "http://www.shopstylelocal.com:8080/im/retailers/logos/Levis_US-default.png"
-                                    },
-                                    "default@2x": {
-                                        "url": "http://www.shopstylelocal.com:8080/im/retailers/logos/Levis_US-default@2x.png"
-                                    },
-                                    "featured": {
-                                        "url": "http://www.shopstylelocal.com:8080/im/retailers/logos/Levis_US-featured.png"
-                                    },
-                                    "featured@2x": {
-                                        "url": "http://www.shopstylelocal.com:8080/im/retailers/logos/Levis_US-featured@2x.png"
-                                    },
-                                    "mobile": {
-                                        "url": "http://www.shopstylelocal.com:8080/im/retailers/logos/Levis_US-mobile.png"
-                                    },
-                                    "mobile@2x": {
-                                        "url": "http://www.shopstylelocal.com:8080/im/retailers/logos/Levis_US-mobile@2x.png"
-                                    }
-                                }
-                            },
-                            "name": "Levi's",
-                            "urlIdentifier": "Levis-US",
-                            "userHandle": "LeviS",
-                            "userId": 24954331,
-                            "userImage": "http://www.shopstylelocal.com:8080/im/retailers/logos/Levis_US-default@2x.png"
-                        },
-                        "startDate": "2015-06-28",
-                        "text": "Up to 50% Off",
-                        "tinyImage": {
-                            "sizes": {
-                                "Large": {
-                                    "height": 125,
-                                    "sizeName": "Large",
-                                    "width": 125
-                                },
-                                "Medium": {
-                                    "height": 105,
-                                    "sizeName": "Medium",
-                                    "width": 105
-                                },
-                                "Small": {
-                                    "height": 77,
-                                    "sizeName": "Small",
-                                    "width": 77
-                                }
-                            }
-                        },
-                        "type": "Offline",
-                        "url": "http://levis.com"
-                    },
-                    "objectId": "16987",
-                    "objectType": "Promotion",
-                    "offset": 0,
-                    "text": "Up to 50% Off"
-                }
-            ],
-            "type": "OfflineAlert",
-            "unread": true
-        },
-        {
-            "alertId": "16985",
-            "date": {
-                "date": "2015-06-29",
-                "friendly": "null hours ago",
-                "timestamp": 1435619043
-            },
-            "id": "5592feb2aa24e0191856a24b",
-            "image": {
-                "sizes": {
-                    "Best": {
-                        "height": 125,
-                        "sizeName": "Best",
-                        "url": "http://media.onsugar.com/files/2011/02/07/1/296/2966851/5e86da01c614f979_Spanx_Slimming_Apparel_125x125.jpg",
-                        "width": 125
-                    }
-                }
-            },
-            "message": "30% Off",
-            "messageTags": [
-                {
-                    "length": 7,
-                    "object": {
-                        "checkoutCode": "SOME_CODE",
-                        "endDate": "2015-07-10",
-                        "largeImage": {
-                            "sizes": {
-                                "Large": {
-                                    "height": 130,
-                                    "sizeName": "Large",
-                                    "width": 160
-                                },
-                                "Medium": {
-                                    "height": 85,
-                                    "sizeName": "Medium",
-                                    "width": 105
-                                },
-                                "Small": {
-                                    "height": 85,
-                                    "sizeName": "Small",
-                                    "width": 105
-                                }
-                            }
-                        },
-                        "locale": "en_US",
-                        "promotionId": 16985,
-                        "retailer": {
-                            "effectiveContentLocale": "en_US",
-                            "handle": "Levis US",
-                            "id": "992",
-                            "logo": {
-                                "sizes": {
-                                    "default": {
-                                        "url": "http://www.shopstylelocal.com:8080/im/retailers/logos/Levis_US-default.png"
-                                    },
-                                    "default@2x": {
-                                        "url": "http://www.shopstylelocal.com:8080/im/retailers/logos/Levis_US-default@2x.png"
-                                    },
-                                    "featured": {
-                                        "url": "http://www.shopstylelocal.com:8080/im/retailers/logos/Levis_US-featured.png"
-                                    },
-                                    "featured@2x": {
-                                        "url": "http://www.shopstylelocal.com:8080/im/retailers/logos/Levis_US-featured@2x.png"
-                                    },
-                                    "mobile": {
-                                        "url": "http://www.shopstylelocal.com:8080/im/retailers/logos/Levis_US-mobile.png"
-                                    },
-                                    "mobile@2x": {
-                                        "url": "http://www.shopstylelocal.com:8080/im/retailers/logos/Levis_US-mobile@2x.png"
-                                    }
-                                }
-                            },
-                            "name": "Levi's",
-                            "urlIdentifier": "Levis-US",
-                            "userHandle": "LeviS",
-                            "userId": 24954331,
-                            "userImage": "http://www.shopstylelocal.com:8080/im/retailers/logos/Levis_US-default@2x.png"
-                        },
-                        "startDate": "2015-06-28",
-                        "text": "30% Off",
-                        "tinyImage": {
-                            "sizes": {
-                                "Large": {
-                                    "height": 125,
-                                    "sizeName": "Large",
-                                    "width": 125
-                                },
-                                "Medium": {
-                                    "height": 105,
-                                    "sizeName": "Medium",
-                                    "width": 105
-                                },
-                                "Small": {
-                                    "height": 77,
-                                    "sizeName": "Small",
-                                    "width": 77
-                                }
-                            }
-                        },
-                        "type": "Offline",
-                        "url": "http://levis.com"
-                    },
-                    "objectId": "16985",
-                    "objectType": "Promotion",
-                    "offset": 0,
-                    "text": "30% Off"
+                    "text": "Up to 75% off sale styles at a Levi's nearby you!"
                 }
             ],
             "type": "OfflineAlert",
