@@ -1,0 +1,273 @@
+{
+    "metadata": {
+        "limit": 3,
+        "offset": 0,
+        "since": 1438717184993,
+        "total": 3
+    },
+    "notifications": [
+        {
+            "alertId": "98",
+            "date": {
+                "date": "2015-07-30",
+                "friendly": "null days ago",
+                "timestamp": 1438283693
+            },
+            "id": "45ba77ade4b022c9892b68eb",
+            "image": {
+                "id": "c2dac149c27b8fe7e9b33c5ac72342a6",
+                "sizes": {
+                    "Best": {
+                        "actualHeight": 900,
+                        "actualWidth": 595,
+                        "height": 900,
+                        "sizeName": "Best",
+                        "url": "https://resources.shopstyle.com/pim/c2/da/c2dac149c27b8fe7e9b33c5ac72342a6_best.jpg",
+                        "width": 720
+                    },
+                    "IPhone": {
+                        "actualHeight": 360,
+                        "actualWidth": 238,
+                        "height": 360,
+                        "sizeName": "IPhone",
+                        "url": "https://resources.shopstyle.com/mim/c2/da/c2dac149c27b8fe7e9b33c5ac72342a6.jpg",
+                        "width": 288
+                    },
+                    "IPhoneSmall": {
+                        "actualHeight": 125,
+                        "actualWidth": 83,
+                        "height": 125,
+                        "sizeName": "IPhoneSmall",
+                        "url": "https://resources.shopstyle.com/mim/c2/da/c2dac149c27b8fe7e9b33c5ac72342a6_small.jpg",
+                        "width": 100
+                    },
+                    "Large": {
+                        "actualHeight": 205,
+                        "actualWidth": 136,
+                        "height": 205,
+                        "sizeName": "Large",
+                        "url": "https://resources.shopstyle.com/sim/c2/da/c2dac149c27b8fe7e9b33c5ac72342a6/lucky-brand-striped-henley-blouse.jpg",
+                        "width": 164
+                    },
+                    "Medium": {
+                        "actualHeight": 140,
+                        "actualWidth": 93,
+                        "height": 140,
+                        "sizeName": "Medium",
+                        "url": "https://resources.shopstyle.com/sim/c2/da/c2dac149c27b8fe7e9b33c5ac72342a6_medium/lucky-brand-striped-henley-blouse.jpg",
+                        "width": 112
+                    },
+                    "Original": {
+                        "actualHeight": 900,
+                        "actualWidth": 595,
+                        "sizeName": "Original",
+                        "url": "https://resources.shopstyle.com/pim/c2/da/c2dac149c27b8fe7e9b33c5ac72342a6_best.jpg"
+                    },
+                    "Small": {
+                        "actualHeight": 40,
+                        "actualWidth": 26,
+                        "height": 40,
+                        "sizeName": "Small",
+                        "url": "https://resources.shopstyle.com/pim/c2/da/c2dac149c27b8fe7e9b33c5ac72342a6_small.jpg",
+                        "width": 32
+                    },
+                    "XLarge": {
+                        "actualHeight": 410,
+                        "actualWidth": 271,
+                        "height": 410,
+                        "sizeName": "XLarge",
+                        "url": "https://resources.shopstyle.com/pim/c2/da/c2dac149c27b8fe7e9b33c5ac72342a6_xlarge.jpg",
+                        "width": 328
+                    }
+                }
+            },
+            "message": "Use REDHOT to Save an Extra 20% at Macy's Through Aug. 2 \u2014 Shop Now\r\n",
+            "messageTags": [
+                {
+                    "length": 69,
+                    "object": {
+                        "category": {
+                            "hasColorFilter": true,
+                            "hasHeelHeightFilter": false,
+                            "hasSizeFilter": false,
+                            "id": "womens-clothes",
+                            "localizedId": "womens-clothes",
+                            "name": "Clothing",
+                            "numId": 544,
+                            "parentId": "women",
+                            "shortName": "Clothing"
+                        },
+                        "filters": [
+                            {
+                                "id": "0",
+                                "name": "On Sale",
+                                "type": "Discount"
+                            },
+                            {
+                                "id": "2",
+                                "name": "Macy's",
+                                "type": "Retailer",
+                                "urlIdentifier": "Macys-US"
+                            }
+                        ],
+                        "freeTextSearches": []
+                    },
+                    "objectId": "fl=d0&fl=r2&cat=544",
+                    "objectType": "ProductQuery",
+                    "offset": 0,
+                    "text": "Use REDHOT to Save an Extra 20% at Macy's Through Aug. 2 \u2014 Shop Now\r\n"
+                }
+            ],
+            "type": "QuerySaleAlert",
+            "unread": false
+        },
+        {
+            "alertId": "98",
+            "date": {
+                "date": "2015-07-30",
+                "friendly": "null days ago",
+                "timestamp": 1438283693
+            },
+            "id": "55ba77ade4b022c9892b68eb",
+            "image": {
+                "id": "c2dac149c27b8fe7e9b33c5ac72342a6",
+                "sizes": {
+                    "Best": {
+                        "actualHeight": 900,
+                        "actualWidth": 595,
+                        "height": 900,
+                        "sizeName": "Best",
+                        "url": "https://resources.shopstyle.com/pim/c2/da/c2dac149c27b8fe7e9b33c5ac72342a6_best.jpg",
+                        "width": 720
+                    },
+                    "IPhone": {
+                        "actualHeight": 360,
+                        "actualWidth": 238,
+                        "height": 360,
+                        "sizeName": "IPhone",
+                        "url": "https://resources.shopstyle.com/mim/c2/da/c2dac149c27b8fe7e9b33c5ac72342a6.jpg",
+                        "width": 288
+                    },
+                    "IPhoneSmall": {
+                        "actualHeight": 125,
+                        "actualWidth": 83,
+                        "height": 125,
+                        "sizeName": "IPhoneSmall",
+                        "url": "https://resources.shopstyle.com/mim/c2/da/c2dac149c27b8fe7e9b33c5ac72342a6_small.jpg",
+                        "width": 100
+                    },
+                    "Large": {
+                        "actualHeight": 205,
+                        "actualWidth": 136,
+                        "height": 205,
+                        "sizeName": "Large",
+                        "url": "https://resources.shopstyle.com/sim/c2/da/c2dac149c27b8fe7e9b33c5ac72342a6/lucky-brand-striped-henley-blouse.jpg",
+                        "width": 164
+                    },
+                    "Medium": {
+                        "actualHeight": 140,
+                        "actualWidth": 93,
+                        "height": 140,
+                        "sizeName": "Medium",
+                        "url": "https://resources.shopstyle.com/sim/c2/da/c2dac149c27b8fe7e9b33c5ac72342a6_medium/lucky-brand-striped-henley-blouse.jpg",
+                        "width": 112
+                    },
+                    "Original": {
+                        "actualHeight": 900,
+                        "actualWidth": 595,
+                        "sizeName": "Original",
+                        "url": "https://resources.shopstyle.com/pim/c2/da/c2dac149c27b8fe7e9b33c5ac72342a6_best.jpg"
+                    },
+                    "Small": {
+                        "actualHeight": 40,
+                        "actualWidth": 26,
+                        "height": 40,
+                        "sizeName": "Small",
+                        "url": "https://resources.shopstyle.com/pim/c2/da/c2dac149c27b8fe7e9b33c5ac72342a6_small.jpg",
+                        "width": 32
+                    },
+                    "XLarge": {
+                        "actualHeight": 410,
+                        "actualWidth": 271,
+                        "height": 410,
+                        "sizeName": "XLarge",
+                        "url": "https://resources.shopstyle.com/pim/c2/da/c2dac149c27b8fe7e9b33c5ac72342a6_xlarge.jpg",
+                        "width": 328
+                    }
+                }
+            },
+            "message": "Use REDHOT to Save an Extra 20% at Macy's Through Aug. 2 \u2014 Shop Now\r\n",
+            "messageTags": [
+                {
+                    "length": 69,
+                    "object": {
+                        "category": {
+                            "hasColorFilter": true,
+                            "hasHeelHeightFilter": false,
+                            "hasSizeFilter": false,
+                            "id": "womens-clothes",
+                            "localizedId": "womens-clothes",
+                            "name": "Clothing",
+                            "numId": 544,
+                            "parentId": "women",
+                            "shortName": "Clothing"
+                        },
+                        "filters": [
+                            {
+                                "id": "0",
+                                "name": "On Sale",
+                                "type": "Discount"
+                            },
+                            {
+                                "id": "2",
+                                "name": "Macy's",
+                                "type": "Retailer",
+                                "urlIdentifier": "Macys-US"
+                            }
+                        ],
+                        "freeTextSearches": []
+                    },
+                    "objectId": "fl=d0&fl=r2&cat=544",
+                    "objectType": "ProductQuery",
+                    "offset": 0,
+                    "text": "Use REDHOT to Save an Extra 20% at Macy's Through Aug. 2 \u2014 Shop Now\r\n"
+                }
+            ],
+            "type": "MassPushAlert",
+            "unread": false
+        },
+        {
+            "alertId": "76",
+            "date": {
+                "date": "2015-08-04",
+                "friendly": "2 min. ago",
+                "timestamp": 1438717035
+            },
+            "id": "55c1146b1208bfae89ff8fc2",
+            "image": {
+                "sizes": {
+                    "Best": {
+                        "height": 175,
+                        "sizeName": "Best",
+                        "url": "http://c.nordstromimage.com/Assets/IDEV/common/pop-in-7-adam-b7a6bb8b-603b-4790-87ad-a37f0120bbb2-fil-file.jpg",
+                        "width": 300
+                    }
+                }
+            },
+            "message": "nordstrom pop up shop",
+            "messageTags": [
+                {
+                    "length": 21,
+                    "object": {
+                        "url": "http://shop.nordstrom.com/c/pop-in-olivia-kim"
+                    },
+                    "objectType": "URL",
+                    "offset": 0,
+                    "text": "nordstrom pop up shop"
+                }
+            ],
+            "type": "MassPushAlert",
+            "unread": true
+        }
+    ]
+}
