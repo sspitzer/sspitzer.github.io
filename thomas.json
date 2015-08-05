@@ -81,7 +81,7 @@
                     }
                 }
             },
-            "message": "Use REDHOT to Save an Extra 20% at Macy's Through Aug. 2 \u2014 Shop Now\r\n",
+            "message": "QSA Use REDHOT to Save an Extra 20% at Macy's Through Aug. 2 \u2014 Shop Now\r\n",
             "messageTags": [
                 {
                     "length": 69,
@@ -115,7 +115,7 @@
                     "objectId": "fl=d0&fl=r2&cat=544",
                     "objectType": "ProductQuery",
                     "offset": 0,
-                    "text": "Use REDHOT to Save an Extra 20% at Macy's Through Aug. 2 \u2014 Shop Now\r\n"
+                    "text": "QSA Use REDHOT to Save an Extra 20% at Macy's Through Aug. 2 \u2014 Shop Now\r\n"
                 }
             ],
             "type": "QuerySaleAlert",
@@ -196,7 +196,7 @@
                     }
                 }
             },
-            "message": "Use REDHOT to Save an Extra 20% at Macy's Through Aug. 2 \u2014 Shop Now\r\n",
+            "message": "MPA Use REDHOT to Save an Extra 20% at Macy's Through Aug. 2 \u2014 Shop Now\r\n",
             "messageTags": [
                 {
                     "length": 69,
@@ -230,7 +230,7 @@
                     "objectId": "fl=d0&fl=r2&cat=544",
                     "objectType": "ProductQuery",
                     "offset": 0,
-                    "text": "Use REDHOT to Save an Extra 20% at Macy's Through Aug. 2 \u2014 Shop Now\r\n"
+                    "text": "MPA Use REDHOT to Save an Extra 20% at Macy's Through Aug. 2 \u2014 Shop Now\r\n"
                 }
             ],
             "type": "MassPushAlert",
