@@ -1,0 +1,271 @@
+{
+    "metadata": {
+        "retailer": {
+            "effectiveContentLocale": "en_US",
+            "favIcon": "http://s3.amazonaws.com/extimg.shopstyle-test.com/favicons/retailers/Saks-Fifth-Avenue-US.ico",
+            "handle": "Saks Fifth Avenue",
+            "id": "7",
+            "logo": {
+                "sizes": {
+                    "default": {
+                        "url": "http://www.shopstylelocal.com:8080/im/retailers/logos/Saks_Fifth_Avenue-default.png"
+                    },
+                    "default@2x": {
+                        "url": "http://www.shopstylelocal.com:8080/im/retailers/logos/Saks_Fifth_Avenue-default@2x.png"
+                    },
+                    "featured": {
+                        "url": "http://www.shopstylelocal.com:8080/im/retailers/logos/Saks_Fifth_Avenue-featured.png"
+                    },
+                    "featured@2x": {
+                        "url": "http://www.shopstylelocal.com:8080/im/retailers/logos/Saks_Fifth_Avenue-featured@2x.png"
+                    },
+                    "mobile": {
+                        "url": "http://www.shopstylelocal.com:8080/im/retailers/logos/Saks_Fifth_Avenue-mobile.png"
+                    },
+                    "mobile@2x": {
+                        "url": "http://www.shopstylelocal.com:8080/im/retailers/logos/Saks_Fifth_Avenue-mobile@2x.png"
+                    }
+                }
+            },
+            "name": "Saks Fifth Avenue",
+            "urlIdentifier": "Saks-Fifth-Avenue-US",
+            "userHandle": "SaksFifthAvenue",
+            "userId": 24965123,
+            "userImage": "http://www.shopstylelocal.com:8080/im/retailers/logos/Saks_Fifth_Avenue-default@2x.png"
+        }
+    },
+    "offlineStores": [
+        {
+            "address": "1200 El Camino Real",
+            "country": "us",
+            "displayHours": "Mon-Thu 9:00 AM-10:00 PM; Fri 9:00 AM-11:00 PM; Sat 8:00 AM-11:00 PM; Sun 9:00 AM-9:00 PM",
+            "hours": {
+                "Friday": [
+                    "9:00",
+                    "23:00"
+                ],
+                "Monday": [
+                    "9:00",
+                    "22:00"
+                ],
+                "Saturday": [
+                    "8:00",
+                    "23:00"
+                ],
+                "Sunday": [
+                    "9:00",
+                    "21:00"
+                ],
+                "Thursday": [
+                    "9:00",
+                    "22:00"
+                ],
+                "Tuesday": [
+                    "9:00",
+                    "22:00"
+                ],
+                "Wednesday": [
+                    "9:00",
+                    "22:00"
+                ]
+            },
+            "latitude": 37.675059,
+            "locality": "Colma",
+            "longitude": -122.458906,
+            "name": "Kohl's",
+            "phone": "(650) 992-0155",
+            "postcode": "94014",
+            "region": "CA",
+            "website": "http://www.kohls.com/"
+        },
+        {
+            "address": "2201 S Shore Ctr",
+            "country": "us",
+            "displayHours": "Mon-Thu 9:00 AM-10:00 PM; Fri 9:00 AM-11:00 PM; Sat 8:00 AM-11:00 PM; Sun 9:00 AM-9:00 PM",
+            "hours": {
+                "Friday": [
+                    "9:00",
+                    "23:00"
+                ],
+                "Monday": [
+                    "9:00",
+                    "22:00"
+                ],
+                "Saturday": [
+                    "8:00",
+                    "23:00"
+                ],
+                "Sunday": [
+                    "9:00",
+                    "21:00"
+                ],
+                "Thursday": [
+                    "9:00",
+                    "22:00"
+                ],
+                "Tuesday": [
+                    "9:00",
+                    "22:00"
+                ],
+                "Wednesday": [
+                    "9:00",
+                    "22:00"
+                ]
+            },
+            "latitude": 37.758109,
+            "locality": "Alameda",
+            "longitude": -122.252723,
+            "name": "Kohl's",
+            "neighborhood": [
+                "South Shore"
+            ],
+            "phone": "(510) 263-0308",
+            "postcode": "94501",
+            "region": "CA",
+            "website": "http://www.kohls.com/"
+        },
+        {
+            "address": "384 Post St",
+            "country": "us",
+            "displayHours": "Mon-Wed 10:00 AM-7:00 PM; Thu-Sat 10:00 AM-8:00 PM; Sun 12:00 PM-7:00 PM",
+            "hours": {
+                "Friday": [
+                    "10:00",
+                    "20:00"
+                ],
+                "Monday": [
+                    "10:00",
+                    "19:00"
+                ],
+                "Saturday": [
+                    "10:00",
+                    "20:00"
+                ],
+                "Sunday": [
+                    "12:00",
+                    "19:00"
+                ],
+                "Thursday": [
+                    "10:00",
+                    "20:00"
+                ],
+                "Tuesday": [
+                    "10:00",
+                    "19:00"
+                ],
+                "Wednesday": [
+                    "10:00",
+                    "19:00"
+                ]
+            },
+            "latitude": 37.788437,
+            "locality": "San Francisco",
+            "longitude": -122.408173,
+            "name": "Saks Fifth Avenue",
+            "neighborhood": [
+                "NOMA",
+                "Union Square",
+                "Civic Center"
+            ],
+            "phone": "(415) 986-4300",
+            "postcode": "94108",
+            "region": "CA",
+            "website": "http://www.saksfifthavenue.com"
+        },
+        {
+            "address": "63 Serramonte Ctr",
+            "country": "us",
+            "displayHours": "Mon-Sat 10:00 AM-9:00 PM; Sun 11:00 AM-7:00 PM",
+            "hours": {
+                "Friday": [
+                    "10:00",
+                    "21:00"
+                ],
+                "Monday": [
+                    "10:00",
+                    "21:00"
+                ],
+                "Saturday": [
+                    "10:00",
+                    "21:00"
+                ],
+                "Sunday": [
+                    "11:00",
+                    "19:00"
+                ],
+                "Thursday": [
+                    "10:00",
+                    "21:00"
+                ],
+                "Tuesday": [
+                    "10:00",
+                    "21:00"
+                ],
+                "Wednesday": [
+                    "10:00",
+                    "21:00"
+                ]
+            },
+            "latitude": 37.671923,
+            "locality": "Daly City",
+            "longitude": -122.469179,
+            "name": "JCPenney",
+            "neighborhood": [
+                "Crown Colony",
+                "Serramonte"
+            ],
+            "phone": "(650) 731-3401",
+            "postcode": "94015",
+            "region": "CA",
+            "website": "http://www.jcpenney.com"
+        },
+        {
+            "address": "150 Stockton St",
+            "country": "us",
+            "displayHours": "Mon-Wed 10:00 AM-7:00 PM; Thu 10:00 AM-8:00 PM; Fri-Sat 10:00 AM-7:00 PM; Sun 12:00 PM-6:00 PM",
+            "hours": {
+                "Friday": [
+                    "10:00",
+                    "19:00"
+                ],
+                "Monday": [
+                    "10:00",
+                    "19:00"
+                ],
+                "Saturday": [
+                    "10:00",
+                    "19:00"
+                ],
+                "Sunday": [
+                    "12:00",
+                    "18:00"
+                ],
+                "Thursday": [
+                    "10:00",
+                    "20:00"
+                ],
+                "Tuesday": [
+                    "10:00",
+                    "19:00"
+                ],
+                "Wednesday": [
+                    "10:00",
+                    "19:00"
+                ]
+            },
+            "latitude": 37.78728,
+            "locality": "San Francisco",
+            "longitude": -122.40628,
+            "name": "Neiman Marcus",
+            "neighborhood": [
+                "Financial District",
+                "Civic Center",
+                "Union Square"
+            ],
+            "phone": "(877) 634-6264",
+            "postcode": "94108",
+            "region": "CA",
+            "website": "http://www.neimanmarcus.com/"
+        }
+    ]
+}
