@@ -1,0 +1,36 @@
+{
+    "variants": [
+        {
+            "available": true,
+            "currentPrice": 159.99,
+            "id": "55ae37dde4b02f6cd68eff43",
+            "onSale": false,
+            "productImageUrl": "",
+            "sku": "ecco-4"
+        },
+        {
+            "available": true,
+            "currentPrice": 159.99,
+            "id": "55ae37dde4b02f6cd68eff45",
+            "onSale": false,
+            "productImageUrl": "",
+            "sku": "ecco-5"
+        },
+        {
+            "available": true,
+            "currentPrice": 159.99,
+            "id": "55ae37dde4b02f6cd68eff49",
+            "onSale": false,
+            "productImageUrl": "",
+            "sku": "ecco-7"
+        },
+        {
+            "available": true,
+            "currentPrice": 159.99,
+            "id": "55ae37dde4b02f6cd68eff4b",
+            "onSale": false,
+            "productImageUrl": "",
+            "sku": "ecco-8"
+        }
+    ]
+}
