@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "limit": 10,
+        "offset": 0,
+        "total": 1
+    },
+    "promotions": [
+        {
+            "checkoutCode": "SSTYLE15",
+            "endDate": "2015-12-27",
+            "largeImage": {
+                "sizes": {
+                    "Best": {
+                        "height": 700,
+                        "sizeName": "Best",
+                        "url": "http://media1.popsugar-assets.com/files/docs/Untitled-1_14404397513322.jpg",
+                        "width": 700
+                    }
+                }
+            },
+            "locale": "en_US",
+            "promotionId": 17395,
+            "pushText": "You're close to a Levi's store! Shop the new Women's Denim Collection and get $10 off using SSTYLE15. ",
+            "retailer": {
+                "brand": {
+                    "id": "345",
+                    "name": "Levi's",
+                    "urlIdentifier": "levis",
+                    "userHandle": "LeviS",
+                    "userId": 24954331,
+                    "userImage": "http://www.shopstylelocal.com:8080/im/retailers/logos/Levis_US-default@2x.png"
+                },
+                "deeplinkSupport": false,
+                "effectiveContentLocale": "en_US",
+                "handle": "Levis US",
+                "hostDomain": "levi.com",
+                "id": "992",
+                "logo": {
+                    "sizes": {
+                        "default": {
+                            "url": "http://www.shopstylelocal.com:8080/im/retailers/logos/Levis_US-default.png"
+                        },
+                        "default@2x": {
+                            "url": "http://www.shopstylelocal.com:8080/im/retailers/logos/Levis_US-default@2x.png"
+                        },
+                        "featured": {
+                            "url": "http://www.shopstylelocal.com:8080/im/retailers/logos/Levis_US-featured.png"
+                        },
+                        "featured@2x": {
+                            "url": "http://www.shopstylelocal.com:8080/im/retailers/logos/Levis_US-featured@2x.png"
+                        },
+                        "mobile": {
+                            "url": "http://www.shopstylelocal.com:8080/im/retailers/logos/Levis_US-mobile.png"
+                        },
+                        "mobile@2x": {
+                            "url": "http://www.shopstylelocal.com:8080/im/retailers/logos/Levis_US-mobile@2x.png"
+                        }
+                    }
+                },
+                "name": "Levi's",
+                "urlIdentifier": "Levis-US",
+                "userHandle": "LeviS",
+                "userId": 24954331,
+                "userImage": "http://www.shopstylelocal.com:8080/im/retailers/logos/Levis_US-default@2x.png"
+            },
+            "startDate": "2015-08-26",
+            "text": "Get $10 off using SSTYLE15",
+            "tinyImage": {
+                "sizes": {
+                    "Best": {
+                        "height": 700,
+                        "sizeName": "Best",
+                        "url": "http://media1.popsugar-assets.com/files/docs/Untitled-1_14404397513322.jpg",
+                        "width": 700
+                    }
+                }
+            },
+            "title": "Shop the new Women's Denim Collection",
+            "type": "Offline",
+            "url": "http://pubads.g.doubleclick.net/gampad/clk?id=168402003&iu=/5485/sugar.pop/track"
+        }
+    ]
+}
