@@ -71,7 +71,13 @@
             "id": "5528bc15e4b081cbd4084a2c",
             "onSale": false,
             "productImageUrl": "https://res.cloudinary.com/cosmiccart/image/upload/v1428949277/inventory/f133bc82b25ffa645d3e6ceb74baccb7-17106641.jpg",
-            "size": "Small",
+            "size": {
+                "canonicalSize": {
+                    "id": "83",
+                    "name": "S (4-6)"
+                },
+                "name": "S"
+            },
             "sku": "208631583"
         },
         {
