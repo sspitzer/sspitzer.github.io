@@ -1,0 +1,26 @@
+[
+    {
+        "address1": "1 Test Lane",
+        "city": "Walnut Creek",
+        "country": "US",
+        "email": "johnSmith@popsugar.com",
+        "firstName": "John",
+        "id": 44000402,
+        "lastName": "Smith",
+        "phone": "9255556572",
+        "postalCode": "94598",
+        "state": "Walnut Creek"
+    },
+    {
+        "address1": "8 Another Test Lane",
+        "city": "San Francisco",
+        "country": "US",
+        "email": "johnSmith@popsugar.com",
+        "firstName": "John",
+        "id": 44000403,
+        "lastName": "Smith",
+        "phone": "9255556572",
+        "postalCode": "94109",
+        "state": "San Francisco"
+    }
+]

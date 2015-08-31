@@ -1,0 +1,38 @@
+{
+    "cartlets": [
+        {
+            "cartItems": [
+                {
+                    "id": "2",
+                    "productId": "474361224",
+                    "quantity": 1,
+                    "shippingTotal": 0.0,
+                    "sku": "55ae37dde4b02f6cd68eff4a",
+                    "subTotal": 11.48,
+                    "taxTotal": 0.0,
+                    "total": 11.48,
+                    "unitPrice": 11.48
+                }
+            ],
+            "retailerId": 3,
+            "selectedShippingOption": {
+                "id": "1",
+                "methodTitle": "Standard $5.00",
+                "price": 5.0
+            }
+        }
+    ],
+    "shippingAddress": {
+        "address1": "1 Test Lane",
+        "city": "Walnut Creek",
+        "country": "US",
+        "email": "johnSmith@popsugar.com",
+        "firstName": "John",
+        "id": 44000402,
+        "lastName": "Smith",
+        "phone": "9255556572",
+        "postalCode": "94598",
+        "state": "Walnut Creek"
+    },
+    "userId": 219
+}

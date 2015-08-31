@@ -1,0 +1,21 @@
+{
+    "cartlets": [
+        {
+            "cartItems": [
+                {
+                    "id": "1",
+                    "productId": "486322237",
+                    "quantity": 1,
+                    "shippingTotal": 0.0,
+                    "sku": "5528bc15e4b081cbd4084a26",
+                    "subTotal": 24.99,
+                    "taxTotal": 0.0,
+                    "total": 24.99,
+                    "unitPrice": 24.99
+                }
+            ],
+            "retailerId": 3
+        }
+    ],
+    "userId": 219
+}
