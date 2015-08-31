@@ -1,6 +1,7 @@
 [
     {
         "address1": "1 Test Lane",
+        "address2": "Apartment 3G",
         "city": "Walnut Creek",
         "country": "US",
         "email": "johnSmith@popsugar.com",
@@ -13,6 +14,7 @@
     },
     {
         "address1": "8 Another Test Lane",
+        "address2": "Suite 230",
         "city": "San Francisco",
         "country": "US",
         "email": "johnSmith@popsugar.com",
