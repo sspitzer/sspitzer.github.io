@@ -9,7 +9,7 @@
         "lastName": "Smith",
         "phone": "9255556572",
         "postalCode": "94598",
-        "state": "Walnut Creek"
+        "state": "CA"
     },
     {
         "address1": "8 Another Test Lane",
@@ -21,6 +21,6 @@
         "lastName": "Smith",
         "phone": "9255556572",
         "postalCode": "94109",
-        "state": "San Francisco"
+        "state": "CA"
     }
 ]
