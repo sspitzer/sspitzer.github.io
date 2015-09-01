@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "limit": 50,
+        "offset": 0,
+        "since": 1441134856170,
+        "total": 1
+    },
+    "notifications": [
+        {
+            "alertId": "17407",
+            "date": 1441134854762,
+            "id": "55e5f906beb5c715a9843956",
+            "image": {
+                "sizes": {
+                    "Best": {
+                        "height": 125,
+                        "sizeName": "Best",
+                        "url": "http://media.onsugar.com/files/2011/02/07/1/296/2966851/5e86da01c614f979_Spanx_Slimming_Apparel_125x125.jpg",
+                        "width": 125
+                    }
+                }
+            },
+            "message": "Offline Promotion Test",
+            "messageTags": [
+                {
+                    "length": 22,
+                    "object": {
+                        "checkoutCode": "TEST_CODE",
+                        "endDate": "2015-09-11",
+                        "locale": "en_US",
+                        "promotionId": 17407,
+                        "retailer": {
+                            "brand": {
+                                "id": "345",
+                                "name": "Levi's",
+                                "urlIdentifier": "levis",
+                                "userHandle": "LeviS",
+                                "userId": 24954331,
+                                "userImage": "http://www.shopstylelocal.com:8080/im/retailers/logos/Levis_US-default@2x.png"
+                            },
+                            "deeplinkSupport": false,
+                            "effectiveContentLocale": "en_US",
+                            "handle": "Levis US",
+                            "hostDomain": "levi.com",
+                            "id": "992",
+                            "logo": {
+                                "sizes": {
+                                    "default": {
+                                        "url": "http://www.shopstylelocal.com:8080/im/retailers/logos/Levis_US-default.png"
+                                    },
+                                    "default@2x": {
+                                        "url": "http://www.shopstylelocal.com:8080/im/retailers/logos/Levis_US-default@2x.png"
+                                    },
+                                    "featured": {
+                                        "url": "http://www.shopstylelocal.com:8080/im/retailers/logos/Levis_US-featured.png"
+                                    },
+                                    "featured@2x": {
+                                        "url": "http://www.shopstylelocal.com:8080/im/retailers/logos/Levis_US-featured@2x.png"
+                                    },
+                                    "mobile": {
+                                        "url": "http://www.shopstylelocal.com:8080/im/retailers/logos/Levis_US-mobile.png"
+                                    },
+                                    "mobile@2x": {
+                                        "url": "http://www.shopstylelocal.com:8080/im/retailers/logos/Levis_US-mobile@2x.png"
+                                    }
+                                }
+                            },
+                            "name": "Levi's",
+                            "urlIdentifier": "Levis-US",
+                            "userHandle": "LeviS",
+                            "userId": 24954331,
+                            "userImage": "http://www.shopstylelocal.com:8080/im/retailers/logos/Levis_US-default@2x.png"
+                        },
+                        "startDate": "2015-08-29",
+                        "text": "15% Off Apparel at Levi's",
+                        "title": "Offline Promotion Test",
+                        "type": "Offline",
+                        "url": "http://somewebsite.com"
+                    },
+                    "objectId": "17407",
+                    "objectType": "Promotion",
+                    "offset": 0,
+                    "text": "Offline Promotion Test"
+                }
+            ],
+            "type": "OfflineAlert",
+            "unread": true
+        }
+    ]
+}
