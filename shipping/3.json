@@ -1,0 +1,21 @@
+{
+    "shippingOptions": {
+        "3": [
+            {
+                "id": "1",
+                "methodTitle": "Standard $5.00",
+                "price": 5.0
+            },
+            {
+                "id": "2",
+                "methodTitle": "Expedited $10.00",
+                "price": 10.0
+            },
+            {
+                "id": "3",
+                "methodTitle": "Overnight $15.00",
+                "price": 15.0
+            }
+        ]
+    }
+}
