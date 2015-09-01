@@ -1,0 +1,11 @@
+{
+    "shippingOptions": {
+        "3": [
+            {
+                "id": "1",
+                "methodTitle": "Standard $5.00",
+                "price": 5.0
+            }
+        ]
+    }
+}
