@@ -7,7 +7,7 @@
                     "productId": "474361224",
                     "quantity": 1,
                     "shippingTotal": 0.0,
-                    "sku": "55ae37dde4b02f6cd68eff4a",
+                    "sku": "208631673",
                     "subTotal": 24.99,
                     "taxTotal": 0.0,
                     "total": 24.99,
@@ -16,17 +16,17 @@
                         "available": true,
                         "color": "Warm Orange",
                         "currentPrice": 24.99,
-                        "id": "474361224",
+                        "id": "5528bc15e4b081cbd4084a26",
                         "onSale": false,
-                        "productImageUrl": "https://res.cloudinary.com/cosmiccart/image/upload/v1429013639/inventory/8c2e9e312b0b739362a4e8fcf27a33d0-17106637.jpg",
+                        "productImageUrl": "https://resources.shopstyle.com/pim/a1/b5/a1b5ff6e35b31178d020476891859807_best.jpg",
                         "size": {
                             "canonicalSize": {
-                                "id": "1169",
-                                "name": "XXL (20-22)"
+                                "id": "89",
+                                "name": "XL (16-18)"
                             },
-                            "name": "XXL"
+                            "name": "XL"
                         },
-                        "sku": "55ae37dde4b02f6cd68eff4a"
+                        "sku": "208631673"
                     }
                 }
             ],
