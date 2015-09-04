@@ -3,9 +3,10 @@
         {
             "available": true,
             "color": "Warm Orange",
-            "currentPrice": 24.99,
             "id": "5528bc15e4b081cbd4084a24",
             "onSale": false,
+            "price": 24.99,
+            "priceLabel": "$24.99",
             "productImageUrl": "https://resources.shopstyle.com/pim/a1/b5/a1b5ff6e35b31178d020476891859807_best.jpg",
             "size": {
                 "canonicalSize": {
@@ -19,9 +20,10 @@
         {
             "available": true,
             "color": "Warm Orange",
-            "currentPrice": 24.99,
             "id": "5528bc15e4b081cbd4084a26",
             "onSale": false,
+            "price": 24.99,
+            "priceLabel": "$24.99",
             "productImageUrl": "https://resources.shopstyle.com/pim/a1/b5/a1b5ff6e35b31178d020476891859807_best.jpg",
             "size": {
                 "canonicalSize": {
@@ -35,9 +37,10 @@
         {
             "available": true,
             "color": "Warm Orange",
-            "currentPrice": 24.99,
             "id": "5528bc15e4b081cbd4084a28",
             "onSale": false,
+            "price": 24.99,
+            "priceLabel": "$24.99",
             "productImageUrl": "https://resources.shopstyle.com/pim/a1/b5/a1b5ff6e35b31178d020476891859807_best.jpg",
             "size": {
                 "canonicalSize": {
@@ -51,9 +54,10 @@
         {
             "available": true,
             "color": "Warm Orange",
-            "currentPrice": 24.99,
             "id": "5528bc15e4b081cbd4084a2a",
             "onSale": false,
+            "price": 24.99,
+            "priceLabel": "$24.99",
             "productImageUrl": "https://resources.shopstyle.com/pim/a1/b5/a1b5ff6e35b31178d020476891859807_best.jpg",
             "size": {
                 "canonicalSize": {
@@ -67,9 +71,10 @@
         {
             "available": true,
             "color": "Warm Orange",
-            "currentPrice": 24.99,
             "id": "5528bc15e4b081cbd4084a2c",
             "onSale": false,
+            "price": 24.99,
+            "priceLabel": "$24.99",
             "productImageUrl": "https://resources.shopstyle.com/pim/a1/b5/a1b5ff6e35b31178d020476891859807_best.jpg",
             "size": {
                 "canonicalSize": {
@@ -83,9 +88,10 @@
         {
             "available": true,
             "color": "Warm Orange",
-            "currentPrice": 24.99,
             "id": "5528bc15e4b081cbd4084a2e",
             "onSale": false,
+            "price": 24.99,
+            "priceLabel": "$24.99",
             "productImageUrl": "https://resources.shopstyle.com/pim/a1/b5/a1b5ff6e35b31178d020476891859807_best.jpg",
             "size": {
                 "canonicalSize": {
@@ -99,9 +105,10 @@
         {
             "available": true,
             "color": "Sunnyside Gold",
-            "currentPrice": 24.99,
             "id": "5528bc15e4b081cbd4084a30",
             "onSale": false,
+            "price": 24.99,
+            "priceLabel": "$24.99",
             "productImageUrl": "https://resources.shopstyle.com/pim/77/90/77900884150d6b73f94bbf3b95284fae_best.jpg",
             "size": {
                 "canonicalSize": {
@@ -115,9 +122,10 @@
         {
             "available": true,
             "color": "Sunnyside Gold",
-            "currentPrice": 24.99,
             "id": "5528bc15e4b081cbd4084a32",
             "onSale": false,
+            "price": 24.99,
+            "priceLabel": "$24.99",
             "productImageUrl": "https://resources.shopstyle.com/pim/77/90/77900884150d6b73f94bbf3b95284fae_best.jpg",
             "size": {
                 "canonicalSize": {
@@ -131,9 +139,10 @@
         {
             "available": true,
             "color": "Sunnyside Gold",
-            "currentPrice": 24.99,
             "id": "5528bc15e4b081cbd4084a34",
             "onSale": false,
+            "price": 24.99,
+            "priceLabel": "$24.99",
             "productImageUrl": "https://resources.shopstyle.com/pim/77/90/77900884150d6b73f94bbf3b95284fae_best.jpg",
             "size": {
                 "canonicalSize": {
@@ -147,9 +156,10 @@
         {
             "available": true,
             "color": "Sunnyside Gold",
-            "currentPrice": 24.99,
             "id": "5528bc15e4b081cbd4084a36",
             "onSale": false,
+            "price": 24.99,
+            "priceLabel": "$24.99",
             "productImageUrl": "https://resources.shopstyle.com/pim/77/90/77900884150d6b73f94bbf3b95284fae_best.jpg",
             "size": {
                 "canonicalSize": {
@@ -163,9 +173,10 @@
         {
             "available": true,
             "color": "Sunnyside Gold",
-            "currentPrice": 24.99,
             "id": "5528bc15e4b081cbd4084a38",
             "onSale": false,
+            "price": 24.99,
+            "priceLabel": "$24.99",
             "productImageUrl": "https://resources.shopstyle.com/pim/77/90/77900884150d6b73f94bbf3b95284fae_best.jpg",
             "size": {
                 "canonicalSize": {
@@ -179,9 +190,10 @@
         {
             "available": true,
             "color": "Sunnyside Gold",
-            "currentPrice": 24.99,
             "id": "5528bc15e4b081cbd4084a3a",
             "onSale": false,
+            "price": 24.99,
+            "priceLabel": "$24.99",
             "productImageUrl": "https://resources.shopstyle.com/pim/77/90/77900884150d6b73f94bbf3b95284fae_best.jpg",
             "size": {
                 "canonicalSize": {

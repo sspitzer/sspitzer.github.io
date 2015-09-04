@@ -3,9 +3,10 @@
         {
             "available": true,
             "color": "ROSE",
-            "currentPrice": 107.5,
             "id": "1689949379534694",
             "onSale": false,
+            "price": 107.5,
+            "priceLabel": "$107.50",
             "productImageUrl": "https://resources.shopstyle.com/pim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21_best.jpg",
             "size": {
                 "canonicalSize": {
@@ -19,9 +20,10 @@
         {
             "available": true,
             "color": "ROSE",
-            "currentPrice": 225.0,
             "id": "1689949379534981",
             "onSale": false,
+            "price": 225,
+            "priceLabel": "$225",
             "productImageUrl": "https://resources.shopstyle.com/pim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21_best.jpg",
             "size": {
                 "canonicalSize": {
@@ -35,9 +37,10 @@
         {
             "available": true,
             "color": "ROSE",
-            "currentPrice": 107.5,
             "id": "1689949379535037",
             "onSale": false,
+            "price": 107.5,
+            "priceLabel": "$107.50",
             "productImageUrl": "https://resources.shopstyle.com/pim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21_best.jpg",
             "size": {
                 "canonicalSize": {
@@ -51,9 +54,10 @@
         {
             "available": true,
             "color": "ROSE",
-            "currentPrice": 112.5,
             "id": "1689949379535405",
             "onSale": false,
+            "price": 112.5,
+            "priceLabel": "$112.50",
             "productImageUrl": "https://resources.shopstyle.com/pim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21_best.jpg",
             "size": {
                 "canonicalSize": {
@@ -67,9 +71,10 @@
         {
             "available": true,
             "color": "ROSE",
-            "currentPrice": 112.5,
             "id": "1689949379537706",
             "onSale": false,
+            "price": 112.5,
+            "priceLabel": "$112.50",
             "productImageUrl": "https://resources.shopstyle.com/pim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21_best.jpg",
             "size": {
                 "canonicalSize": {

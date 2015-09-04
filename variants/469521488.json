@@ -3,9 +3,10 @@
         {
             "available": true,
             "color": "NAVY GINGHAM",
-            "currentPrice": 47.0,
             "id": "1689949379537748",
             "onSale": false,
+            "price": 47.0,
+            "priceLabel": "$47.00",
             "productImageUrl": "https://resources.shopstyle.com/pim/51/39/513944202078acd65465e72101d78ab1_best.jpg",
             "size": {
                 "canonicalSize": {
@@ -19,9 +20,10 @@
         {
             "available": true,
             "color": "NAVY GINGHAM",
-            "currentPrice": 47.0,
             "id": "1689949379539898",
             "onSale": false,
+            "price": 47.0,
+            "priceLabel": "$47.00",
             "productImageUrl": "https://resources.shopstyle.com/pim/51/39/513944202078acd65465e72101d78ab1_best.jpg",
             "size": {
                 "canonicalSize": {
@@ -35,9 +37,10 @@
         {
             "available": true,
             "color": "NAVY GINGHAM",
-            "currentPrice": 47.0,
             "id": "1689949379540065",
             "onSale": false,
+            "price": 47.0,
+            "priceLabel": "$47.00",
             "productImageUrl": "https://resources.shopstyle.com/pim/51/39/513944202078acd65465e72101d78ab1_best.jpg",
             "size": {
                 "canonicalSize": {

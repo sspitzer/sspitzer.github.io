@@ -3,9 +3,10 @@
         {
             "available": true,
             "color": "MINK GREY",
-            "currentPrice": 115.0,
             "id": "5045458927887",
             "onSale": false,
+            "price": 115.0,
+            "priceLabel": "$115.00",
             "productImageUrl": "https://resources.shopstyle.com/pim/4d/72/4d729950dcc9c71f2095933da5a213ef_best.jpg",
             "size": {
                 "canonicalSize": {
@@ -19,9 +20,10 @@
         {
             "available": true,
             "color": "MINK GREY",
-            "currentPrice": 115.0,
             "id": "5045458927795",
             "onSale": false,
+            "price": 115.0,
+            "priceLabel": "$115.00",
             "productImageUrl": "https://resources.shopstyle.com/pim/4d/72/4d729950dcc9c71f2095933da5a213ef_best.jpg",
             "size": {
                 "canonicalSize": {
@@ -35,9 +37,10 @@
         {
             "available": true,
             "color": "MINK GREY",
-            "currentPrice": 115.0,
             "id": "5045458927702",
             "onSale": false,
+            "price": 115.0,
+            "priceLabel": "$115.00",
             "productImageUrl": "https://resources.shopstyle.com/pim/4d/72/4d729950dcc9c71f2095933da5a213ef_best.jpg",
             "size": {
                 "canonicalSize": {
@@ -51,9 +54,10 @@
         {
             "available": true,
             "color": "MINK GREY",
-            "currentPrice": 115.0,
             "id": "5045458927856",
             "onSale": false,
+            "price": 115.0,
+            "priceLabel": "$115.00",
             "productImageUrl": "https://resources.shopstyle.com/pim/4d/72/4d729950dcc9c71f2095933da5a213ef_best.jpg",
             "size": {
                 "canonicalSize": {
@@ -67,9 +71,10 @@
         {
             "available": true,
             "color": "MINK GREY",
-            "currentPrice": 115.0,
             "id": "5045458927733",
             "onSale": false,
+            "price": 115.0,
+            "priceLabel": "$115.00",
             "productImageUrl": "https://resources.shopstyle.com/pim/4d/72/4d729950dcc9c71f2095933da5a213ef_best.jpg",
             "size": {
                 "canonicalSize": {
