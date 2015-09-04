@@ -1,0 +1,84 @@
+{
+    "variants": [
+        {
+            "available": true,
+            "color": "MINK GREY",
+            "currentPrice": 115.0,
+            "id": "5045458927887",
+            "onSale": false,
+            "productImageUrl": "https://resources.shopstyle.com/pim/4d/72/4d729950dcc9c71f2095933da5a213ef_best.jpg",
+            "size": {
+                "canonicalSize": {
+                    "id": "320",
+                    "name": "9 Months"
+                },
+                "name": "9 MONTHS"
+            },
+            "sku": "5045458927887"
+        },
+        {
+            "available": true,
+            "color": "MINK GREY",
+            "currentPrice": 115.0,
+            "id": "5045458927795",
+            "onSale": false,
+            "productImageUrl": "https://resources.shopstyle.com/pim/4d/72/4d729950dcc9c71f2095933da5a213ef_best.jpg",
+            "size": {
+                "canonicalSize": {
+                    "id": "317",
+                    "name": "3 Months"
+                },
+                "name": "3 MONTHS"
+            },
+            "sku": "5045458927795"
+        },
+        {
+            "available": true,
+            "color": "MINK GREY",
+            "currentPrice": 115.0,
+            "id": "5045458927702",
+            "onSale": false,
+            "productImageUrl": "https://resources.shopstyle.com/pim/4d/72/4d729950dcc9c71f2095933da5a213ef_best.jpg",
+            "size": {
+                "canonicalSize": {
+                    "id": "321",
+                    "name": "12 Months (1T)"
+                },
+                "name": "12 MONTHS"
+            },
+            "sku": "5045458927702"
+        },
+        {
+            "available": true,
+            "color": "MINK GREY",
+            "currentPrice": 115.0,
+            "id": "5045458927856",
+            "onSale": false,
+            "productImageUrl": "https://resources.shopstyle.com/pim/4d/72/4d729950dcc9c71f2095933da5a213ef_best.jpg",
+            "size": {
+                "canonicalSize": {
+                    "id": "319",
+                    "name": "6 Months"
+                },
+                "name": "6 MONTHS"
+            },
+            "sku": "5045458927856"
+        },
+        {
+            "available": true,
+            "color": "MINK GREY",
+            "currentPrice": 115.0,
+            "id": "5045458927733",
+            "onSale": false,
+            "productImageUrl": "https://resources.shopstyle.com/pim/4d/72/4d729950dcc9c71f2095933da5a213ef_best.jpg",
+            "size": {
+                "canonicalSize": {
+                    "id": "322",
+                    "name": "18 Months"
+                },
+                "name": "18 MONTHS"
+            },
+            "sku": "5045458927733"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "variants": [
+        {
+            "available": true,
+            "color": "NAVY GINGHAM",
+            "currentPrice": 47.0,
+            "id": "1689949379537748",
+            "onSale": false,
+            "productImageUrl": "https://resources.shopstyle.com/pim/51/39/513944202078acd65465e72101d78ab1_best.jpg",
+            "size": {
+                "canonicalSize": {
+                    "id": "375",
+                    "name": "XXXS (1-2)"
+                },
+                "name": "2"
+            },
+            "sku": "1689949379537748"
+        },
+        {
+            "available": true,
+            "color": "NAVY GINGHAM",
+            "currentPrice": 47.0,
+            "id": "1689949379539898",
+            "onSale": false,
+            "productImageUrl": "https://resources.shopstyle.com/pim/51/39/513944202078acd65465e72101d78ab1_best.jpg",
+            "size": {
+                "canonicalSize": {
+                    "id": "376",
+                    "name": "XXS (3-4)"
+                },
+                "name": "4"
+            },
+            "sku": "1689949379539898"
+        },
+        {
+            "available": true,
+            "color": "NAVY GINGHAM",
+            "currentPrice": 47.0,
+            "id": "1689949379540065",
+            "onSale": false,
+            "productImageUrl": "https://resources.shopstyle.com/pim/51/39/513944202078acd65465e72101d78ab1_best.jpg",
+            "size": {
+                "canonicalSize": {
+                    "id": "377",
+                    "name": "XS (5-6)"
+                },
+                "name": "6"
+            },
+            "sku": "1689949379540065"
+        }
+    ]
+}
