@@ -1,0 +1,197 @@
+{
+    "cartlets": [
+        {
+            "cartItems": [
+                {
+                    "id": "1000000",
+                    "productId": "123",
+                    "quantity": 1,
+                    "shippingTotal": 0.0,
+                    "sku": "123",
+                    "subTotal": 2,
+                    "taxTotal": 0.0,
+                    "total": 29.99,
+                    "unitPrice": 29.99,
+                    "variant": {
+                        "available": true,
+                        "brandedName": "Versace Boxed Cotton Jersey Tee",
+                        "color": "BLACK",
+                        "id": "123",
+                        "name": "Boxed Cotton Jersey Tee",
+                        "onSale": false,
+                        "price": 29.99,
+                        "priceLabel": "$29.99",
+                        "productImageUrl": "https://resources.shopstyle.com/pim/b0/86/b086693ddef77fb9363b01ea1fc3ce6e_best.jpg",
+                        "size": {
+                            "canonicalSize": {
+                                "id": "322",
+                                "name": "L"
+                            },
+                            "name": "L"
+                        },
+                        "sku": "123",
+                        "unbrandedName": "Boxed Cotton Jersey Tee"
+                    }
+                }
+            ],
+            "retailer": {
+                "deeplinkSupport": true,
+                "effectiveContentLocale": "en_US",
+                "favIcon": "http://s3.amazonaws.com/extimg.shopstyle.com/favicons/retailers/DansStore.ico",
+                "handle": "Dan's Store",
+                "hostDomain": "dansstore.com",
+                "id": "1000000",
+                "logo": {
+                    "sizes": {
+                        "default": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/dansstore.png"
+                        },
+                        "default@2x": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/dansstore@2x.png"
+                        },
+                        "featured": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/dansstore.png"
+                        },
+                        "featured@2x": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/dansstore@2x.png"
+                        },
+                        "mobile": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/dansstore.png"
+                        },
+                        "mobile@2x": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/dansstore@2x.png"
+                        }
+                    }
+                },
+                "name": "Dan's Store",
+                "urlIdentifier": "Dans-Store",
+                "userHandle": "DansStore",
+                "userId": 1000000,
+                "userImage": "http://resources.shopstyle.com/im/retailers/logos/dansstore@2x.png"
+            },
+            "selectedShippingOption": {
+                "id": "1",
+                "methodTitle": "Standard $5.00",
+                "price": 5.0
+            }
+        },
+        {
+            "cartItems": [
+                {
+                    "id": "7",
+                    "productId": "5528bc15e4b081cbd4084a24",
+                    "quantity": 1,
+                    "shippingTotal": 0.0,
+                    "sku": "208631678",
+                    "subTotal": 24.99,
+                    "taxTotal": 0.0,
+                    "total": 24.99,
+                    "unitPrice": 24.99,
+                    "variant": {
+                        "available": true,
+                        "brandedName": "Merona Women's Tunic - MeronaTM",
+                        "color": "Warm Orange",
+                        "id": "5528bc15e4b081cbd4084a24",
+                        "name": "Merona\u00ae Women's Tunic - MeronaTM",
+                        "onSale": false,
+                        "price": 24.99,
+                        "priceLabel": "$24.99",
+                        "productImageUrl": "https://resources.shopstyle.com/pim/a1/b5/a1b5ff6e35b31178d020476891859807_best.jpg",
+                        "size": {
+                            "canonicalSize": {
+                                "id": "1169",
+                                "name": "XXL (20-22)"
+                            },
+                            "name": "XXL"
+                        },
+                        "sku": "208631678",
+                        "unbrandedName": "Women's Tunic - MeronaTM"
+                    }
+                },
+                {
+                    "id": "7",
+                    "productId": "5045458927733",
+                    "quantity": 1,
+                    "shippingTotal": 0.0,
+                    "sku": "5045458927733",
+                    "subTotal": 115.0,
+                    "taxTotal": 0.0,
+                    "total": 115.0,
+                    "unitPrice": 115.0,
+                    "variant": {
+                        "available": true,
+                        "brandedName": "Burberry Baby's Sleeveless Check Blouse",
+                        "color": "MINK GREY",
+                        "id": "5045458927733",
+                        "name": "Burberry Baby's Sleeveless Check Blouse",
+                        "onSale": false,
+                        "price": 115.0,
+                        "priceLabel": "$115.00",
+                        "productImageUrl": "https://resources.shopstyle.com/pim/4d/72/4d729950dcc9c71f2095933da5a213ef_best.jpg",
+                        "size": {
+                            "canonicalSize": {
+                                "id": "322",
+                                "name": "18 Months"
+                            },
+                            "name": "18 MONTHS"
+                        },
+                        "sku": "5045458927733",
+                        "unbrandedName": "Baby's Sleeveless Check Blouse"
+                    }
+                }
+            ],
+            "retailer": {
+                "deeplinkSupport": true,
+                "effectiveContentLocale": "en_US",
+                "favIcon": "http://s3.amazonaws.com/extimg.shopstyle.com/favicons/retailers/Saks-Fifth-Avenue-US.ico",
+                "handle": "Saks Fifth Avenue",
+                "hostDomain": "saksfifthavenue.com",
+                "id": "7",
+                "logo": {
+                    "sizes": {
+                        "default": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default.png"
+                        },
+                        "default@2x": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default@2x.png"
+                        },
+                        "featured": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-featured.png"
+                        },
+                        "featured@2x": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-featured@2x.png"
+                        },
+                        "mobile": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-mobile.png"
+                        },
+                        "mobile@2x": {
+                            "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-mobile@2x.png"
+                        }
+                    }
+                },
+                "name": "Saks Fifth Avenue",
+                "urlIdentifier": "Saks-Fifth-Avenue-US",
+                "userHandle": "SaksFifthAvenue",
+                "userId": 24965123,
+                "userImage": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default@2x.png"
+            },
+            "selectedShippingOption": {
+                "id": "1",
+                "methodTitle": "Standard $5.00",
+                "price": 5.0
+            }
+        }
+    ],
+    "shippingAddress": {
+        "address1": "1 Test Lane",
+        "city": "Walnut Creek",
+        "country": "US",
+        "email": "johnSmith@popsugar.com",
+        "firstName": "John",
+        "id": 44000402,
+        "lastName": "Smith",
+        "phone": "9255556572",
+        "postalCode": "94598",
+        "state": "CA"
+    }
+}
