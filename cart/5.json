@@ -14,13 +14,429 @@
                     "unitPrice": 29.99,
                     "variant": {
                         "available": true,
-                        "brandedName": "Versace Boxed Cotton Jersey Tee",
                         "color": "BLACK",
                         "id": "123",
-                        "name": "Boxed Cotton Jersey Tee",
                         "onSale": false,
                         "price": 29.99,
                         "priceLabel": "$29.99",
+                        "product": {
+                            "alternateImages": [],
+                            "badges": [],
+                            "brand": {
+                                "id": "2199",
+                                "logo": {
+                                    "sizes": {
+                                        "default": {
+                                            "url": "http://s3.amazonaws.com/extimg.shopstyle.com/brandLogos/Versace-default.png"
+                                        },
+                                        "default@2x": {
+                                            "url": "http://s3.amazonaws.com/extimg.shopstyle.com/brandLogos/Versace-default@2x.png"
+                                        },
+                                        "featured": {
+                                            "url": "http://s3.amazonaws.com/extimg.shopstyle.com/brandLogos/Versace-featured.png"
+                                        },
+                                        "featured@2x": {
+                                            "url": "http://s3.amazonaws.com/extimg.shopstyle.com/brandLogos/Versace-featured@2x.png"
+                                        },
+                                        "mobile": {
+                                            "url": "http://s3.amazonaws.com/extimg.shopstyle.com/brandLogos/Versace-mobile.png"
+                                        },
+                                        "mobile@2x": {
+                                            "url": "http://s3.amazonaws.com/extimg.shopstyle.com/brandLogos/Versace-mobile@2x.png"
+                                        }
+                                    }
+                                },
+                                "name": "Versace",
+                                "urlIdentifier": "versace",
+                                "userHandle": "Versace",
+                                "userId": 24966267,
+                                "userImage": "http://s3.amazonaws.com/extimg.shopstyle.com/brandLogos/Versace-default@2x.png"
+                            },
+                            "brandedName": "Versace Boxed Cotton Jersey Tee",
+                            "categories": [
+                                {
+                                    "id": "mens-tees-and-tshirts",
+                                    "localizedId": "mens-tees-and-tshirts",
+                                    "name": "Tees",
+                                    "numId": 218,
+                                    "shortName": "Tees"
+                                }
+                            ],
+                            "clickUrl": "http://api.shopstyle.com/action/apiVisitRetailer?id=482206254&pid=iOS_app_v3",
+                            "colors": [
+                                {
+                                    "canonicalColors": [
+                                        {
+                                            "id": "16",
+                                            "name": "Black",
+                                            "rank": 8
+                                        }
+                                    ],
+                                    "image": {
+                                        "id": "b086693ddef77fb9363b01ea1fc3ce6e",
+                                        "sizes": {
+                                            "Best": {
+                                                "actualHeight": 400,
+                                                "actualWidth": 280,
+                                                "height": 900,
+                                                "sizeName": "Best",
+                                                "url": "https://resources.shopstyle.com/pim/b0/86/b086693ddef77fb9363b01ea1fc3ce6e_best.jpg",
+                                                "width": 720
+                                            },
+                                            "IPhone": {
+                                                "actualHeight": 360,
+                                                "actualWidth": 252,
+                                                "height": 360,
+                                                "sizeName": "IPhone",
+                                                "url": "https://resources.shopstyle.com/mim/b0/86/b086693ddef77fb9363b01ea1fc3ce6e.jpg",
+                                                "width": 288
+                                            },
+                                            "IPhoneSmall": {
+                                                "actualHeight": 125,
+                                                "actualWidth": 88,
+                                                "height": 125,
+                                                "sizeName": "IPhoneSmall",
+                                                "url": "https://resources.shopstyle.com/mim/b0/86/b086693ddef77fb9363b01ea1fc3ce6e_small.jpg",
+                                                "width": 100
+                                            },
+                                            "Large": {
+                                                "actualHeight": 205,
+                                                "actualWidth": 144,
+                                                "height": 205,
+                                                "sizeName": "Large",
+                                                "url": "https://resources.shopstyle.com/sim/b0/86/b086693ddef77fb9363b01ea1fc3ce6e/versace-boxed-cotton-jersey-tee.jpg",
+                                                "width": 164
+                                            },
+                                            "Medium": {
+                                                "actualHeight": 140,
+                                                "actualWidth": 98,
+                                                "height": 140,
+                                                "sizeName": "Medium",
+                                                "url": "https://resources.shopstyle.com/sim/b0/86/b086693ddef77fb9363b01ea1fc3ce6e_medium/versace-boxed-cotton-jersey-tee.jpg",
+                                                "width": 112
+                                            },
+                                            "Original": {
+                                                "actualHeight": 400,
+                                                "actualWidth": 280,
+                                                "sizeName": "Original",
+                                                "url": "https://resources.shopstyle.com/pim/b0/86/b086693ddef77fb9363b01ea1fc3ce6e_best.jpg"
+                                            },
+                                            "Small": {
+                                                "actualHeight": 40,
+                                                "actualWidth": 28,
+                                                "height": 40,
+                                                "sizeName": "Small",
+                                                "url": "https://resources.shopstyle.com/pim/b0/86/b086693ddef77fb9363b01ea1fc3ce6e_small.jpg",
+                                                "width": 32
+                                            },
+                                            "XLarge": {
+                                                "actualHeight": 400,
+                                                "actualWidth": 280,
+                                                "height": 410,
+                                                "sizeName": "XLarge",
+                                                "url": "https://resources.shopstyle.com/pim/b0/86/b086693ddef77fb9363b01ea1fc3ce6e_xlarge.jpg",
+                                                "width": 328
+                                            }
+                                        }
+                                    },
+                                    "name": "NERO",
+                                    "rgb": "000000"
+                                },
+                                {
+                                    "canonicalColors": [
+                                        {
+                                            "id": "15",
+                                            "name": "White",
+                                            "rank": 9
+                                        }
+                                    ],
+                                    "image": {
+                                        "id": "8f9c6af3cfbc3a709766e767ead6e9b7",
+                                        "sizes": {
+                                            "Best": {
+                                                "actualHeight": 400,
+                                                "actualWidth": 280,
+                                                "height": 900,
+                                                "sizeName": "Best",
+                                                "url": "https://resources.shopstyle.com/pim/8f/9c/8f9c6af3cfbc3a709766e767ead6e9b7_best.jpg",
+                                                "width": 720
+                                            },
+                                            "IPhone": {
+                                                "actualHeight": 360,
+                                                "actualWidth": 252,
+                                                "height": 360,
+                                                "sizeName": "IPhone",
+                                                "url": "https://resources.shopstyle.com/mim/8f/9c/8f9c6af3cfbc3a709766e767ead6e9b7.jpg",
+                                                "width": 288
+                                            },
+                                            "IPhoneSmall": {
+                                                "actualHeight": 125,
+                                                "actualWidth": 88,
+                                                "height": 125,
+                                                "sizeName": "IPhoneSmall",
+                                                "url": "https://resources.shopstyle.com/mim/8f/9c/8f9c6af3cfbc3a709766e767ead6e9b7_small.jpg",
+                                                "width": 100
+                                            },
+                                            "Large": {
+                                                "actualHeight": 205,
+                                                "actualWidth": 144,
+                                                "height": 205,
+                                                "sizeName": "Large",
+                                                "url": "https://resources.shopstyle.com/sim/8f/9c/8f9c6af3cfbc3a709766e767ead6e9b7/versace-boxed-cotton-jersey-tee.jpg",
+                                                "width": 164
+                                            },
+                                            "Medium": {
+                                                "actualHeight": 140,
+                                                "actualWidth": 98,
+                                                "height": 140,
+                                                "sizeName": "Medium",
+                                                "url": "https://resources.shopstyle.com/sim/8f/9c/8f9c6af3cfbc3a709766e767ead6e9b7_medium/versace-boxed-cotton-jersey-tee.jpg",
+                                                "width": 112
+                                            },
+                                            "Original": {
+                                                "actualHeight": 400,
+                                                "actualWidth": 280,
+                                                "sizeName": "Original",
+                                                "url": "https://resources.shopstyle.com/pim/8f/9c/8f9c6af3cfbc3a709766e767ead6e9b7_best.jpg"
+                                            },
+                                            "Small": {
+                                                "actualHeight": 40,
+                                                "actualWidth": 28,
+                                                "height": 40,
+                                                "sizeName": "Small",
+                                                "url": "https://resources.shopstyle.com/pim/8f/9c/8f9c6af3cfbc3a709766e767ead6e9b7_small.jpg",
+                                                "width": 32
+                                            },
+                                            "XLarge": {
+                                                "actualHeight": 400,
+                                                "actualWidth": 280,
+                                                "height": 410,
+                                                "sizeName": "XLarge",
+                                                "url": "https://resources.shopstyle.com/pim/8f/9c/8f9c6af3cfbc3a709766e767ead6e9b7_xlarge.jpg",
+                                                "width": 328
+                                            }
+                                        }
+                                    },
+                                    "name": "BIANCO",
+                                    "rgb": "FFFFFF"
+                                }
+                            ],
+                            "commentCount": 0,
+                            "currency": "USD",
+                            "description": "<ul><li>A smooth, stretchy cotton jersey staple packaged in a signature gift box</li><li>Crewneck</li><li>Short sleeves</li><li>Pullover style</li><li>Includes gift box</li><li>Cotton/elastane</li><li>Machine wash</li><li>Imported</li></ul>",
+                            "extractDate": "2015-06-21",
+                            "favoriteCount": 217,
+                            "hasFavorite": true,
+                            "id": 482206254,
+                            "image": {
+                                "id": "b086693ddef77fb9363b01ea1fc3ce6e",
+                                "sizes": {
+                                    "Best": {
+                                        "actualHeight": 400,
+                                        "actualWidth": 280,
+                                        "height": 900,
+                                        "sizeName": "Best",
+                                        "url": "https://resources.shopstyle.com/pim/b0/86/b086693ddef77fb9363b01ea1fc3ce6e_best.jpg",
+                                        "width": 720
+                                    },
+                                    "IPhone": {
+                                        "actualHeight": 360,
+                                        "actualWidth": 252,
+                                        "height": 360,
+                                        "sizeName": "IPhone",
+                                        "url": "https://resources.shopstyle.com/mim/b0/86/b086693ddef77fb9363b01ea1fc3ce6e.jpg",
+                                        "width": 288
+                                    },
+                                    "IPhoneSmall": {
+                                        "actualHeight": 125,
+                                        "actualWidth": 88,
+                                        "height": 125,
+                                        "sizeName": "IPhoneSmall",
+                                        "url": "https://resources.shopstyle.com/mim/b0/86/b086693ddef77fb9363b01ea1fc3ce6e_small.jpg",
+                                        "width": 100
+                                    },
+                                    "Large": {
+                                        "actualHeight": 205,
+                                        "actualWidth": 144,
+                                        "height": 205,
+                                        "sizeName": "Large",
+                                        "url": "https://resources.shopstyle.com/sim/b0/86/b086693ddef77fb9363b01ea1fc3ce6e/versace-boxed-cotton-jersey-tee.jpg",
+                                        "width": 164
+                                    },
+                                    "Medium": {
+                                        "actualHeight": 140,
+                                        "actualWidth": 98,
+                                        "height": 140,
+                                        "sizeName": "Medium",
+                                        "url": "https://resources.shopstyle.com/sim/b0/86/b086693ddef77fb9363b01ea1fc3ce6e_medium/versace-boxed-cotton-jersey-tee.jpg",
+                                        "width": 112
+                                    },
+                                    "Original": {
+                                        "actualHeight": 400,
+                                        "actualWidth": 280,
+                                        "sizeName": "Original",
+                                        "url": "https://resources.shopstyle.com/pim/b0/86/b086693ddef77fb9363b01ea1fc3ce6e_best.jpg"
+                                    },
+                                    "Small": {
+                                        "actualHeight": 40,
+                                        "actualWidth": 28,
+                                        "height": 40,
+                                        "sizeName": "Small",
+                                        "url": "https://resources.shopstyle.com/pim/b0/86/b086693ddef77fb9363b01ea1fc3ce6e_small.jpg",
+                                        "width": 32
+                                    },
+                                    "XLarge": {
+                                        "actualHeight": 400,
+                                        "actualWidth": 280,
+                                        "height": 410,
+                                        "sizeName": "XLarge",
+                                        "url": "https://resources.shopstyle.com/pim/b0/86/b086693ddef77fb9363b01ea1fc3ce6e_xlarge.jpg",
+                                        "width": 328
+                                    }
+                                }
+                            },
+                            "inStock": true,
+                            "lastModified": "2015-09-01",
+                            "lastPriceDropDate": {
+                                "date": "2015-08-05",
+                                "friendly": "Wed, Aug 5",
+                                "timestamp": 1438767397
+                            },
+                            "locale": "en_US",
+                            "name": "Boxed Cotton Jersey Tee",
+                            "pageUrl": "http://www.shopstyle.com/p/versace-boxed-cotton-jersey-tee/482206254?pid=iOS_app_v3",
+                            "preOwned": false,
+                            "price": 64,
+                            "priceLabel": "$64",
+                            "promotionalDeal": {
+                                "checkoutCode": "STEALS",
+                                "endDate": {
+                                    "date": "2015-09-09",
+                                    "friendly": "today",
+                                    "timestamp": 1441778340
+                                },
+                                "id": 277389,
+                                "retailer": {
+                                    "deeplinkSupport": true,
+                                    "effectiveContentLocale": "en_US",
+                                    "handle": "Off 5th US",
+                                    "hostDomain": "saksoff5th.com",
+                                    "id": "1720",
+                                    "logo": {
+                                        "sizes": {
+                                            "default": {
+                                                "url": "http://resources.shopstyle.com/im/promos/offer-default.jpg"
+                                            },
+                                            "default@2x": {
+                                                "url": "http://resources.shopstyle.com/im/promos/offer-default@2x.jpg"
+                                            },
+                                            "featured": {
+                                                "url": "http://resources.shopstyle.com/im/promos/offer-default.jpg"
+                                            },
+                                            "featured@2x": {
+                                                "url": "http://resources.shopstyle.com/im/promos/offer-default@2x.jpg"
+                                            },
+                                            "mobile": {
+                                                "url": "http://resources.shopstyle.com/im/promos/offer-default.jpg"
+                                            },
+                                            "mobile@2x": {
+                                                "url": "http://resources.shopstyle.com/im/promos/offer-default@2x.jpg"
+                                            }
+                                        }
+                                    },
+                                    "name": "Off 5th",
+                                    "urlIdentifier": "Off-5th-US",
+                                    "userHandle": "Off5th",
+                                    "userId": 24974328,
+                                    "userImage": "http://resources.shopstyle.com/im/default-profile-icon.png"
+                                },
+                                "shortTitle": "Extra 20% Off: STEALS",
+                                "startDate": {
+                                    "date": "2015-09-03",
+                                    "friendly": "null days ago",
+                                    "timestamp": 1441260000
+                                },
+                                "title": "Extra 20% Off: STEALS",
+                                "type": "Coupon",
+                                "typeLabel": "DISCOUNT"
+                            },
+                            "rental": false,
+                            "retailer": {
+                                "effectiveContentLocale": "en_US",
+                                "handle": "Off 5th US",
+                                "id": "1720",
+                                "logo": {
+                                    "sizes": {
+                                        "default": {
+                                            "url": "http://resources.shopstyle.com/im/promos/offer-default.jpg"
+                                        },
+                                        "default@2x": {
+                                            "url": "http://resources.shopstyle.com/im/promos/offer-default@2x.jpg"
+                                        },
+                                        "featured": {
+                                            "url": "http://resources.shopstyle.com/im/promos/offer-default.jpg"
+                                        },
+                                        "featured@2x": {
+                                            "url": "http://resources.shopstyle.com/im/promos/offer-default@2x.jpg"
+                                        },
+                                        "mobile": {
+                                            "url": "http://resources.shopstyle.com/im/promos/offer-default.jpg"
+                                        },
+                                        "mobile@2x": {
+                                            "url": "http://resources.shopstyle.com/im/promos/offer-default@2x.jpg"
+                                        }
+                                    }
+                                },
+                                "name": "Off 5th",
+                                "urlIdentifier": "Off-5th-US",
+                                "userHandle": "Off5th",
+                                "userId": 24974328,
+                                "userImage": "http://resources.shopstyle.com/im/default-profile-icon.png"
+                            },
+                            "salePrice": 29.99,
+                            "salePriceLabel": "$29.99",
+                            "seeMoreLabel": "Versace Tees",
+                            "seeMoreUrl": "http://www.shopstyle.com/browse/mens-tees-and-tshirts/versace",
+                            "sizes": [
+                                {
+                                    "canonicalSize": {
+                                        "id": "202",
+                                        "name": "S (Neck 14-14.5)"
+                                    },
+                                    "name": "S"
+                                },
+                                {
+                                    "canonicalSize": {
+                                        "id": "204",
+                                        "name": "M (Neck 15-15.5)"
+                                    },
+                                    "name": "M"
+                                },
+                                {
+                                    "canonicalSize": {
+                                        "id": "206",
+                                        "name": "L (Neck 16-16.5)"
+                                    },
+                                    "name": "L"
+                                },
+                                {
+                                    "canonicalSize": {
+                                        "id": "208",
+                                        "name": "XL (Neck 17-17.5)"
+                                    },
+                                    "name": "XL"
+                                },
+                                {
+                                    "canonicalSize": {
+                                        "id": "210",
+                                        "name": "XXL (Neck 18-18.5)"
+                                    },
+                                    "name": "XXL"
+                                }
+                            ],
+                            "unbrandedName": "Boxed Cotton Jersey Tee",
+                            "urlIdentifier": "versace-boxed-cotton-jersey-tee"
+                        },
                         "productImageUrl": "https://resources.shopstyle.com/pim/b0/86/b086693ddef77fb9363b01ea1fc3ce6e_best.jpg",
                         "size": {
                             "canonicalSize": {
@@ -29,8 +445,7 @@
                             },
                             "name": "L"
                         },
-                        "sku": "123",
-                        "unbrandedName": "Boxed Cotton Jersey Tee"
+                        "sku": "123"
                     }
                 }
             ],
@@ -89,13 +504,407 @@
                     "unitPrice": 24.99,
                     "variant": {
                         "available": true,
-                        "brandedName": "Merona Women's Tunic - MeronaTM",
                         "color": "Warm Orange",
                         "id": "5528bc15e4b081cbd4084a24",
-                        "name": "Merona\u00ae Women's Tunic - MeronaTM",
                         "onSale": false,
                         "price": 24.99,
                         "priceLabel": "$24.99",
+                        "product": {
+                            "alternateImages": [],
+                            "badges": [],
+                            "brand": {
+                                "id": "15603",
+                                "name": "Merona",
+                                "urlIdentifier": "merona",
+                                "userHandle": "Merona",
+                                "userId": 24973506,
+                                "userImage": "http://resources.shopstyle.com/im/default-profile-icon.png"
+                            },
+                            "brandedName": "Merona Women's Tunic - MeronaTM",
+                            "categories": [
+                                {
+                                    "id": "tunic-tops",
+                                    "localizedId": "tunic-tops",
+                                    "name": "Tunics",
+                                    "numId": 1198,
+                                    "shortName": "Tunics"
+                                }
+                            ],
+                            "clickUrl": "http://api.shopstyle.com/action/apiVisitRetailer?id=486322237&pid=iOS_app_v3",
+                            "colors": [
+                                {
+                                    "canonicalColors": [
+                                        {
+                                            "id": "18",
+                                            "name": "Gold",
+                                            "rank": 13
+                                        }
+                                    ],
+                                    "image": {
+                                        "id": "77900884150d6b73f94bbf3b95284fae",
+                                        "sizes": {
+                                            "Best": {
+                                                "actualHeight": 900,
+                                                "actualWidth": 720,
+                                                "height": 900,
+                                                "sizeName": "Best",
+                                                "url": "https://resources.shopstyle.com/pim/77/90/77900884150d6b73f94bbf3b95284fae_best.jpg",
+                                                "width": 720
+                                            },
+                                            "IPhone": {
+                                                "actualHeight": 360,
+                                                "actualWidth": 288,
+                                                "height": 360,
+                                                "sizeName": "IPhone",
+                                                "url": "https://resources.shopstyle.com/mim/77/90/77900884150d6b73f94bbf3b95284fae.jpg",
+                                                "width": 288
+                                            },
+                                            "IPhoneSmall": {
+                                                "actualHeight": 125,
+                                                "actualWidth": 100,
+                                                "height": 125,
+                                                "sizeName": "IPhoneSmall",
+                                                "url": "https://resources.shopstyle.com/mim/77/90/77900884150d6b73f94bbf3b95284fae_small.jpg",
+                                                "width": 100
+                                            },
+                                            "Large": {
+                                                "actualHeight": 205,
+                                                "actualWidth": 164,
+                                                "height": 205,
+                                                "sizeName": "Large",
+                                                "url": "https://resources.shopstyle.com/sim/77/90/77900884150d6b73f94bbf3b95284fae/merona-favorite-tunics.jpg",
+                                                "width": 164
+                                            },
+                                            "Medium": {
+                                                "actualHeight": 140,
+                                                "actualWidth": 112,
+                                                "height": 140,
+                                                "sizeName": "Medium",
+                                                "url": "https://resources.shopstyle.com/sim/77/90/77900884150d6b73f94bbf3b95284fae_medium/merona-favorite-tunics.jpg",
+                                                "width": 112
+                                            },
+                                            "Original": {
+                                                "sizeName": "Original",
+                                                "url": "https://resources.shopstyle.com/pim/77/90/77900884150d6b73f94bbf3b95284fae_best.jpg"
+                                            },
+                                            "Small": {
+                                                "actualHeight": 40,
+                                                "actualWidth": 32,
+                                                "height": 40,
+                                                "sizeName": "Small",
+                                                "url": "https://resources.shopstyle.com/pim/77/90/77900884150d6b73f94bbf3b95284fae_small.jpg",
+                                                "width": 32
+                                            },
+                                            "XLarge": {
+                                                "actualHeight": 410,
+                                                "actualWidth": 328,
+                                                "height": 410,
+                                                "sizeName": "XLarge",
+                                                "url": "https://resources.shopstyle.com/pim/77/90/77900884150d6b73f94bbf3b95284fae_xlarge.jpg",
+                                                "width": 328
+                                            }
+                                        }
+                                    },
+                                    "name": "Sunnyside Gold",
+                                    "swatchUrl": "http://resources.shopstyle.com/pim/f3/2c/f32c727911fcbc1a9a4004253f563c96.jpg"
+                                },
+                                {
+                                    "canonicalColors": [
+                                        {
+                                            "id": "7",
+                                            "name": "Red",
+                                            "rank": 1
+                                        }
+                                    ],
+                                    "image": {
+                                        "id": "a1b5ff6e35b31178d020476891859807",
+                                        "sizes": {
+                                            "Best": {
+                                                "actualHeight": 900,
+                                                "actualWidth": 720,
+                                                "height": 900,
+                                                "sizeName": "Best",
+                                                "url": "https://resources.shopstyle.com/pim/a1/b5/a1b5ff6e35b31178d020476891859807_best.jpg",
+                                                "width": 720
+                                            },
+                                            "IPhone": {
+                                                "actualHeight": 360,
+                                                "actualWidth": 288,
+                                                "height": 360,
+                                                "sizeName": "IPhone",
+                                                "url": "https://resources.shopstyle.com/mim/a1/b5/a1b5ff6e35b31178d020476891859807.jpg",
+                                                "width": 288
+                                            },
+                                            "IPhoneSmall": {
+                                                "actualHeight": 125,
+                                                "actualWidth": 100,
+                                                "height": 125,
+                                                "sizeName": "IPhoneSmall",
+                                                "url": "https://resources.shopstyle.com/mim/a1/b5/a1b5ff6e35b31178d020476891859807_small.jpg",
+                                                "width": 100
+                                            },
+                                            "Large": {
+                                                "actualHeight": 205,
+                                                "actualWidth": 164,
+                                                "height": 205,
+                                                "sizeName": "Large",
+                                                "url": "https://resources.shopstyle.com/sim/a1/b5/a1b5ff6e35b31178d020476891859807/merona-favorite-tunics.jpg",
+                                                "width": 164
+                                            },
+                                            "Medium": {
+                                                "actualHeight": 140,
+                                                "actualWidth": 112,
+                                                "height": 140,
+                                                "sizeName": "Medium",
+                                                "url": "https://resources.shopstyle.com/sim/a1/b5/a1b5ff6e35b31178d020476891859807_medium/merona-favorite-tunics.jpg",
+                                                "width": 112
+                                            },
+                                            "Original": {
+                                                "sizeName": "Original",
+                                                "url": "https://resources.shopstyle.com/pim/a1/b5/a1b5ff6e35b31178d020476891859807_best.jpg"
+                                            },
+                                            "Small": {
+                                                "actualHeight": 40,
+                                                "actualWidth": 32,
+                                                "height": 40,
+                                                "sizeName": "Small",
+                                                "url": "https://resources.shopstyle.com/pim/a1/b5/a1b5ff6e35b31178d020476891859807_small.jpg",
+                                                "width": 32
+                                            },
+                                            "XLarge": {
+                                                "actualHeight": 410,
+                                                "actualWidth": 328,
+                                                "height": 410,
+                                                "sizeName": "XLarge",
+                                                "url": "https://resources.shopstyle.com/pim/a1/b5/a1b5ff6e35b31178d020476891859807_xlarge.jpg",
+                                                "width": 328
+                                            }
+                                        }
+                                    },
+                                    "name": "Warm Orange",
+                                    "swatchUrl": "http://resources.shopstyle.com/pim/74/df/74dfa08255e14d40be0131bef35fa0cd.jpg"
+                                }
+                            ],
+                            "commentCount": 0,
+                            "currency": "USD",
+                            "description": "The classic button-down gets a modern update with these trendy Favorite Tunic from Merona\u00b7 This stylish long-sleeve shirt boasts classic design details like a pointed collar, shirttail hem, back yoke and cuffed sleeves\u00b7 Modern updates include half-length front buttons and a high-low hem that's extra-long in the back\u00b7 <ul> <li>Sizing: Women Relaxed Fit</li> <li>Weave Type: Herringbone</li> </ul>",
+                            "extractDate": "2015-08-02",
+                            "favoriteCount": 9,
+                            "hasFavorite": true,
+                            "id": 486322237,
+                            "image": {
+                                "id": "d6acfcd520f84442a15548ade12a4f8a",
+                                "sizes": {
+                                    "Best": {
+                                        "actualHeight": 472,
+                                        "actualWidth": 258,
+                                        "height": 900,
+                                        "sizeName": "Best",
+                                        "url": "https://resources.shopstyle.com/pim/d6/ac/d6acfcd520f84442a15548ade12a4f8a_best.jpg",
+                                        "width": 720
+                                    },
+                                    "IPhone": {
+                                        "actualHeight": 360,
+                                        "actualWidth": 197,
+                                        "height": 360,
+                                        "sizeName": "IPhone",
+                                        "url": "https://resources.shopstyle.com/mim/d6/ac/d6acfcd520f84442a15548ade12a4f8a.jpg",
+                                        "width": 288
+                                    },
+                                    "IPhoneSmall": {
+                                        "actualHeight": 125,
+                                        "actualWidth": 68,
+                                        "height": 125,
+                                        "sizeName": "IPhoneSmall",
+                                        "url": "https://resources.shopstyle.com/mim/d6/ac/d6acfcd520f84442a15548ade12a4f8a_small.jpg",
+                                        "width": 100
+                                    },
+                                    "Large": {
+                                        "actualHeight": 205,
+                                        "actualWidth": 112,
+                                        "height": 205,
+                                        "sizeName": "Large",
+                                        "url": "https://resources.shopstyle.com/sim/d6/ac/d6acfcd520f84442a15548ade12a4f8a/merona-favorite-tunics.jpg",
+                                        "width": 164
+                                    },
+                                    "Medium": {
+                                        "actualHeight": 140,
+                                        "actualWidth": 77,
+                                        "height": 140,
+                                        "sizeName": "Medium",
+                                        "url": "https://resources.shopstyle.com/sim/d6/ac/d6acfcd520f84442a15548ade12a4f8a_medium/merona-favorite-tunics.jpg",
+                                        "width": 112
+                                    },
+                                    "Original": {
+                                        "actualHeight": 472,
+                                        "actualWidth": 258,
+                                        "sizeName": "Original",
+                                        "url": "https://resources.shopstyle.com/pim/d6/ac/d6acfcd520f84442a15548ade12a4f8a_best.jpg"
+                                    },
+                                    "Small": {
+                                        "actualHeight": 40,
+                                        "actualWidth": 22,
+                                        "height": 40,
+                                        "sizeName": "Small",
+                                        "url": "https://resources.shopstyle.com/pim/d6/ac/d6acfcd520f84442a15548ade12a4f8a_small.jpg",
+                                        "width": 32
+                                    },
+                                    "XLarge": {
+                                        "actualHeight": 410,
+                                        "actualWidth": 224,
+                                        "height": 410,
+                                        "sizeName": "XLarge",
+                                        "url": "https://resources.shopstyle.com/pim/d6/ac/d6acfcd520f84442a15548ade12a4f8a_xlarge.jpg",
+                                        "width": 328
+                                    }
+                                }
+                            },
+                            "inStock": false,
+                            "lastModified": "2015-09-07",
+                            "lastPriceDropDate": {
+                                "date": "2015-08-30",
+                                "friendly": "Sun, Aug 30",
+                                "timestamp": 1440972762
+                            },
+                            "locale": "en_US",
+                            "name": "Merona\u00ae Women's Tunic - MeronaTM",
+                            "pageUrl": "http://www.shopstyle.com/p/merona-favorite-tunics/486322237?pid=iOS_app_v3",
+                            "preOwned": false,
+                            "price": 24.99,
+                            "priceLabel": "Sold Out",
+                            "promotionalDeal": {
+                                "endDate": {
+                                    "date": "2015-12-31",
+                                    "friendly": "Wed, Dec 30",
+                                    "timestamp": 1451545140
+                                },
+                                "id": 256796,
+                                "retailer": {
+                                    "deeplinkSupport": true,
+                                    "effectiveContentLocale": "en_US",
+                                    "favIcon": "http://s3.amazonaws.com/extimg.shopstyle.com/favicons/retailers/Target-US.ico",
+                                    "handle": "Target",
+                                    "hostDomain": "target.com",
+                                    "id": "3",
+                                    "logo": {
+                                        "sizes": {
+                                            "default": {
+                                                "url": "http://resources.shopstyle.com/im/retailers/logos/Target-default.png"
+                                            },
+                                            "default@2x": {
+                                                "url": "http://resources.shopstyle.com/im/retailers/logos/Target-default@2x.png"
+                                            },
+                                            "featured": {
+                                                "url": "http://resources.shopstyle.com/im/retailers/logos/Target-featured.png"
+                                            },
+                                            "featured@2x": {
+                                                "url": "http://resources.shopstyle.com/im/retailers/logos/Target-featured@2x.png"
+                                            },
+                                            "mobile": {
+                                                "url": "http://resources.shopstyle.com/im/retailers/logos/Target-mobile.png"
+                                            },
+                                            "mobile@2x": {
+                                                "url": "http://resources.shopstyle.com/im/retailers/logos/Target-mobile@2x.png"
+                                            }
+                                        }
+                                    },
+                                    "name": "Target",
+                                    "urlIdentifier": "Target-US",
+                                    "userHandle": "Target",
+                                    "userId": 24975130,
+                                    "userImage": "http://resources.shopstyle.com/im/retailers/logos/Target-default@2x.png"
+                                },
+                                "shortTitle": "Free Shipping $25+",
+                                "startDate": {
+                                    "date": "2015-08-16",
+                                    "friendly": "Sun, Aug 16",
+                                    "timestamp": 1439704800
+                                },
+                                "title": "Free Shipping $25+",
+                                "type": "FreeShipping",
+                                "typeLabel": "FREE SHIPPING"
+                            },
+                            "rental": false,
+                            "retailer": {
+                                "effectiveContentLocale": "en_US",
+                                "favIcon": "http://s3.amazonaws.com/extimg.shopstyle.com/favicons/retailers/Target-US.ico",
+                                "handle": "Target",
+                                "id": "3",
+                                "logo": {
+                                    "sizes": {
+                                        "default": {
+                                            "url": "http://resources.shopstyle.com/im/retailers/logos/Target-default.png"
+                                        },
+                                        "default@2x": {
+                                            "url": "http://resources.shopstyle.com/im/retailers/logos/Target-default@2x.png"
+                                        },
+                                        "featured": {
+                                            "url": "http://resources.shopstyle.com/im/retailers/logos/Target-featured.png"
+                                        },
+                                        "featured@2x": {
+                                            "url": "http://resources.shopstyle.com/im/retailers/logos/Target-featured@2x.png"
+                                        },
+                                        "mobile": {
+                                            "url": "http://resources.shopstyle.com/im/retailers/logos/Target-mobile.png"
+                                        },
+                                        "mobile@2x": {
+                                            "url": "http://resources.shopstyle.com/im/retailers/logos/Target-mobile@2x.png"
+                                        }
+                                    }
+                                },
+                                "name": "Target",
+                                "urlIdentifier": "Target-US",
+                                "userHandle": "Target",
+                                "userId": 24975130,
+                                "userImage": "http://resources.shopstyle.com/im/retailers/logos/Target-default@2x.png"
+                            },
+                            "seeMoreLabel": "Merona Tunics",
+                            "seeMoreUrl": "http://www.shopstyle.com/browse/tunic-tops/merona",
+                            "sizes": [
+                                {
+                                    "canonicalSize": {
+                                        "id": "89",
+                                        "name": "XL (16-18)"
+                                    },
+                                    "name": "XL"
+                                },
+                                {
+                                    "canonicalSize": {
+                                        "id": "1169",
+                                        "name": "XXL (20-22)"
+                                    },
+                                    "name": "XXL"
+                                }
+                            ],
+                            "stock": [
+                                {
+                                    "color": {
+                                        "name": "Warm Orange"
+                                    },
+                                    "size": {
+                                        "name": "XXL"
+                                    }
+                                },
+                                {
+                                    "color": {
+                                        "name": "Sunnyside Gold"
+                                    },
+                                    "size": {
+                                        "name": "XXL"
+                                    }
+                                },
+                                {
+                                    "color": {
+                                        "name": "Warm Orange"
+                                    },
+                                    "size": {
+                                        "name": "XL"
+                                    }
+                                }
+                            ],
+                            "unbrandedName": "Women's Tunic - MeronaTM",
+                            "urlIdentifier": "merona-favorite-tunics"
+                        },
                         "productImageUrl": "https://resources.shopstyle.com/pim/a1/b5/a1b5ff6e35b31178d020476891859807_best.jpg",
                         "size": {
                             "canonicalSize": {
@@ -104,8 +913,7 @@
                             },
                             "name": "XXL"
                         },
-                        "sku": "208631678",
-                        "unbrandedName": "Women's Tunic - MeronaTM"
+                        "sku": "208631678"
                     }
                 },
                 {
@@ -120,13 +928,397 @@
                     "unitPrice": 115.0,
                     "variant": {
                         "available": true,
-                        "brandedName": "Burberry Baby's Sleeveless Check Blouse",
                         "color": "MINK GREY",
                         "id": "5045458927733",
-                        "name": "Burberry Baby's Sleeveless Check Blouse",
                         "onSale": false,
                         "price": 115.0,
                         "priceLabel": "$115.00",
+                        "product": {
+                            "alternateImages": [],
+                            "badges": [],
+                            "brand": {
+                                "id": "870",
+                                "logo": {
+                                    "sizes": {
+                                        "default": {
+                                            "url": "http://s3.amazonaws.com/extimg.shopstyle.com/brandLogos/Burberry-default.png"
+                                        },
+                                        "default@2x": {
+                                            "url": "http://s3.amazonaws.com/extimg.shopstyle.com/brandLogos/Burberry-default@2x.png"
+                                        },
+                                        "featured": {
+                                            "url": "http://s3.amazonaws.com/extimg.shopstyle.com/brandLogos/Burberry-featured.png"
+                                        },
+                                        "featured@2x": {
+                                            "url": "http://s3.amazonaws.com/extimg.shopstyle.com/brandLogos/Burberry-featured@2x.png"
+                                        },
+                                        "mobile": {
+                                            "url": "http://s3.amazonaws.com/extimg.shopstyle.com/brandLogos/Burberry-mobile.png"
+                                        },
+                                        "mobile@2x": {
+                                            "url": "http://s3.amazonaws.com/extimg.shopstyle.com/brandLogos/Burberry-mobile@2x.png"
+                                        }
+                                    }
+                                },
+                                "name": "Burberry",
+                                "urlIdentifier": "burberry",
+                                "userHandle": "Burberry",
+                                "userId": 25026063,
+                                "userImage": "http://media3.onsugar.com/files/2014/05/14/831/n/1922398/tmp_zUFBJG.xxxlarge.jpg"
+                            },
+                            "brandedName": "Burberry Baby's Sleeveless Check Blouse",
+                            "categories": [
+                                {
+                                    "id": "girls-shirts",
+                                    "localizedId": "girls-shirts",
+                                    "name": "Girls' Shirts & Blouses",
+                                    "numId": 468,
+                                    "shortName": "Shirts & Blouses"
+                                },
+                                {
+                                    "id": "kids-shirts",
+                                    "localizedId": "kids-shirts",
+                                    "name": "Kids' Shirts",
+                                    "numId": 1592,
+                                    "shortName": "Shirts"
+                                }
+                            ],
+                            "clickUrl": "http://api.shopstyle.com/action/apiVisitRetailer?id=479478195&pid=iOS_app_v3",
+                            "colors": [
+                                {
+                                    "canonicalColors": [
+                                        {
+                                            "id": "1",
+                                            "name": "Brown",
+                                            "rank": 12
+                                        },
+                                        {
+                                            "id": "14",
+                                            "name": "Gray",
+                                            "rank": 10
+                                        }
+                                    ],
+                                    "image": {
+                                        "id": "4d729950dcc9c71f2095933da5a213ef",
+                                        "sizes": {
+                                            "Best": {
+                                                "actualHeight": 900,
+                                                "actualWidth": 720,
+                                                "height": 900,
+                                                "sizeName": "Best",
+                                                "url": "https://resources.shopstyle.com/pim/4d/72/4d729950dcc9c71f2095933da5a213ef_best.jpg",
+                                                "width": 720
+                                            },
+                                            "IPhone": {
+                                                "actualHeight": 360,
+                                                "actualWidth": 288,
+                                                "height": 360,
+                                                "sizeName": "IPhone",
+                                                "url": "https://resources.shopstyle.com/mim/4d/72/4d729950dcc9c71f2095933da5a213ef.jpg",
+                                                "width": 288
+                                            },
+                                            "IPhoneSmall": {
+                                                "actualHeight": 125,
+                                                "actualWidth": 100,
+                                                "height": 125,
+                                                "sizeName": "IPhoneSmall",
+                                                "url": "https://resources.shopstyle.com/mim/4d/72/4d729950dcc9c71f2095933da5a213ef_small.jpg",
+                                                "width": 100
+                                            },
+                                            "Large": {
+                                                "actualHeight": 205,
+                                                "actualWidth": 164,
+                                                "height": 205,
+                                                "sizeName": "Large",
+                                                "url": "https://resources.shopstyle.com/sim/4d/72/4d729950dcc9c71f2095933da5a213ef/burberry-baby-s-sleeveless-check-blouse.jpg",
+                                                "width": 164
+                                            },
+                                            "Medium": {
+                                                "actualHeight": 140,
+                                                "actualWidth": 112,
+                                                "height": 140,
+                                                "sizeName": "Medium",
+                                                "url": "https://resources.shopstyle.com/sim/4d/72/4d729950dcc9c71f2095933da5a213ef_medium/burberry-baby-s-sleeveless-check-blouse.jpg",
+                                                "width": 112
+                                            },
+                                            "Original": {
+                                                "sizeName": "Original",
+                                                "url": "https://resources.shopstyle.com/pim/4d/72/4d729950dcc9c71f2095933da5a213ef_best.jpg"
+                                            },
+                                            "Small": {
+                                                "actualHeight": 40,
+                                                "actualWidth": 32,
+                                                "height": 40,
+                                                "sizeName": "Small",
+                                                "url": "https://resources.shopstyle.com/pim/4d/72/4d729950dcc9c71f2095933da5a213ef_small.jpg",
+                                                "width": 32
+                                            },
+                                            "XLarge": {
+                                                "actualHeight": 410,
+                                                "actualWidth": 328,
+                                                "height": 410,
+                                                "sizeName": "XLarge",
+                                                "url": "https://resources.shopstyle.com/pim/4d/72/4d729950dcc9c71f2095933da5a213ef_xlarge.jpg",
+                                                "width": 328
+                                            }
+                                        }
+                                    },
+                                    "name": "MINK GREY"
+                                }
+                            ],
+                            "commentCount": 0,
+                            "currency": "USD",
+                            "description": "Crafted in lightweight cotton, iconic checks and sweet pintucking add a charming touch to this warm-weather staple for your little one.;Roundneck;Sleeveless;Pintuck detail;Back button closure;Cotton;Machine wash;Imported",
+                            "extractDate": "2015-05-23",
+                            "favoriteCount": 2,
+                            "hasFavorite": true,
+                            "id": 479478195,
+                            "image": {
+                                "id": "37610ea436517fe853f4a3be2f633020",
+                                "sizes": {
+                                    "Best": {
+                                        "actualHeight": 320,
+                                        "actualWidth": 291,
+                                        "height": 900,
+                                        "sizeName": "Best",
+                                        "url": "https://resources.shopstyle.com/pim/37/61/37610ea436517fe853f4a3be2f633020_best.jpg",
+                                        "width": 720
+                                    },
+                                    "IPhone": {
+                                        "actualHeight": 320,
+                                        "actualWidth": 291,
+                                        "height": 360,
+                                        "sizeName": "IPhone",
+                                        "url": "https://resources.shopstyle.com/mim/37/61/37610ea436517fe853f4a3be2f633020.jpg",
+                                        "width": 288
+                                    },
+                                    "IPhoneSmall": {
+                                        "actualHeight": 125,
+                                        "actualWidth": 114,
+                                        "height": 125,
+                                        "sizeName": "IPhoneSmall",
+                                        "url": "https://resources.shopstyle.com/mim/37/61/37610ea436517fe853f4a3be2f633020_small.jpg",
+                                        "width": 100
+                                    },
+                                    "Large": {
+                                        "actualHeight": 205,
+                                        "actualWidth": 186,
+                                        "height": 205,
+                                        "sizeName": "Large",
+                                        "url": "https://resources.shopstyle.com/sim/37/61/37610ea436517fe853f4a3be2f633020/burberry-baby-s-sleeveless-check-blouse.jpg",
+                                        "width": 164
+                                    },
+                                    "Medium": {
+                                        "actualHeight": 140,
+                                        "actualWidth": 127,
+                                        "height": 140,
+                                        "sizeName": "Medium",
+                                        "url": "https://resources.shopstyle.com/sim/37/61/37610ea436517fe853f4a3be2f633020_medium/burberry-baby-s-sleeveless-check-blouse.jpg",
+                                        "width": 112
+                                    },
+                                    "Original": {
+                                        "actualHeight": 320,
+                                        "actualWidth": 291,
+                                        "sizeName": "Original",
+                                        "url": "https://resources.shopstyle.com/pim/37/61/37610ea436517fe853f4a3be2f633020_best.jpg"
+                                    },
+                                    "Small": {
+                                        "actualHeight": 40,
+                                        "actualWidth": 36,
+                                        "height": 40,
+                                        "sizeName": "Small",
+                                        "url": "https://resources.shopstyle.com/pim/37/61/37610ea436517fe853f4a3be2f633020_small.jpg",
+                                        "width": 32
+                                    },
+                                    "XLarge": {
+                                        "actualHeight": 320,
+                                        "actualWidth": 291,
+                                        "height": 410,
+                                        "sizeName": "XLarge",
+                                        "url": "https://resources.shopstyle.com/pim/37/61/37610ea436517fe853f4a3be2f633020_xlarge.jpg",
+                                        "width": 328
+                                    }
+                                }
+                            },
+                            "inStock": true,
+                            "lastModified": "2015-09-08",
+                            "locale": "en_US",
+                            "name": "Burberry Baby's Sleeveless Check Blouse",
+                            "pageUrl": "http://www.shopstyle.com/p/burberry-baby-s-sleeveless-check-blouse/479478195?pid=iOS_app_v3",
+                            "preOwned": false,
+                            "price": 115,
+                            "priceLabel": "$115",
+                            "promotionalDeal": {
+                                "checkoutCode": "FREESHIP",
+                                "endDate": {
+                                    "date": "2016-01-01",
+                                    "friendly": "Thu, Dec 31",
+                                    "timestamp": 1451631540
+                                },
+                                "id": 253957,
+                                "retailer": {
+                                    "deeplinkSupport": true,
+                                    "effectiveContentLocale": "en_US",
+                                    "favIcon": "http://s3.amazonaws.com/extimg.shopstyle.com/favicons/retailers/Saks-Fifth-Avenue-US.ico",
+                                    "handle": "Saks Fifth Avenue",
+                                    "hostDomain": "saksfifthavenue.com",
+                                    "id": "7",
+                                    "logo": {
+                                        "sizes": {
+                                            "default": {
+                                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default.png"
+                                            },
+                                            "default@2x": {
+                                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default@2x.png"
+                                            },
+                                            "featured": {
+                                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-featured.png"
+                                            },
+                                            "featured@2x": {
+                                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-featured@2x.png"
+                                            },
+                                            "mobile": {
+                                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-mobile.png"
+                                            },
+                                            "mobile@2x": {
+                                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-mobile@2x.png"
+                                            }
+                                        }
+                                    },
+                                    "name": "Saks Fifth Avenue",
+                                    "urlIdentifier": "Saks-Fifth-Avenue-US",
+                                    "userHandle": "SaksFifthAvenue",
+                                    "userId": 24965123,
+                                    "userImage": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default@2x.png"
+                                },
+                                "shortTitle": "Free Shipping: FREESHIP",
+                                "startDate": {
+                                    "date": "2015-02-06",
+                                    "friendly": "Fri, Feb 6",
+                                    "timestamp": 1423206000
+                                },
+                                "title": "Free Shipping: FREESHIP",
+                                "type": "FreeShipping",
+                                "typeLabel": "FREE SHIPPING"
+                            },
+                            "rental": false,
+                            "retailer": {
+                                "effectiveContentLocale": "en_US",
+                                "favIcon": "http://s3.amazonaws.com/extimg.shopstyle.com/favicons/retailers/Saks-Fifth-Avenue-US.ico",
+                                "handle": "Saks Fifth Avenue",
+                                "id": "7",
+                                "logo": {
+                                    "sizes": {
+                                        "default": {
+                                            "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default.png"
+                                        },
+                                        "default@2x": {
+                                            "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default@2x.png"
+                                        },
+                                        "featured": {
+                                            "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-featured.png"
+                                        },
+                                        "featured@2x": {
+                                            "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-featured@2x.png"
+                                        },
+                                        "mobile": {
+                                            "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-mobile.png"
+                                        },
+                                        "mobile@2x": {
+                                            "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-mobile@2x.png"
+                                        }
+                                    }
+                                },
+                                "name": "Saks Fifth Avenue",
+                                "urlIdentifier": "Saks-Fifth-Avenue-US",
+                                "userHandle": "SaksFifthAvenue",
+                                "userId": 24965123,
+                                "userImage": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default@2x.png"
+                            },
+                            "seeMoreLabel": "Burberry Girls' Shirts & Blouses",
+                            "seeMoreUrl": "http://www.shopstyle.com/browse/girls-shirts/burberry",
+                            "sizes": [
+                                {
+                                    "canonicalSize": {
+                                        "id": "318",
+                                        "name": "3 Months"
+                                    },
+                                    "name": "3 MONTHS"
+                                },
+                                {
+                                    "canonicalSize": {
+                                        "id": "319",
+                                        "name": "6 Months"
+                                    },
+                                    "name": "6 MONTHS"
+                                },
+                                {
+                                    "canonicalSize": {
+                                        "id": "320",
+                                        "name": "9 Months"
+                                    },
+                                    "name": "9 MONTHS"
+                                },
+                                {
+                                    "canonicalSize": {
+                                        "id": "321",
+                                        "name": "12 Months (1T)"
+                                    },
+                                    "name": "12 MONTHS"
+                                },
+                                {
+                                    "canonicalSize": {
+                                        "id": "322",
+                                        "name": "18 Months"
+                                    },
+                                    "name": "18 MONTHS"
+                                }
+                            ],
+                            "stock": [
+                                {
+                                    "color": {
+                                        "name": "MINK GREY"
+                                    },
+                                    "size": {
+                                        "name": "3 MONTHS"
+                                    }
+                                },
+                                {
+                                    "color": {
+                                        "name": "MINK GREY"
+                                    },
+                                    "size": {
+                                        "name": "18 MONTHS"
+                                    }
+                                },
+                                {
+                                    "color": {
+                                        "name": "MINK GREY"
+                                    },
+                                    "size": {
+                                        "name": "12 MONTHS"
+                                    }
+                                },
+                                {
+                                    "color": {
+                                        "name": "MINK GREY"
+                                    },
+                                    "size": {
+                                        "name": "6 MONTHS"
+                                    }
+                                },
+                                {
+                                    "color": {
+                                        "name": "MINK GREY"
+                                    },
+                                    "size": {
+                                        "name": "9 MONTHS"
+                                    }
+                                }
+                            ],
+                            "unbrandedName": "Baby's Sleeveless Check Blouse",
+                            "urlIdentifier": "burberry-baby-s-sleeveless-check-blouse"
+                        },
                         "productImageUrl": "https://resources.shopstyle.com/pim/4d/72/4d729950dcc9c71f2095933da5a213ef_best.jpg",
                         "size": {
                             "canonicalSize": {
@@ -135,8 +1327,7 @@
                             },
                             "name": "18 MONTHS"
                         },
-                        "sku": "5045458927733",
-                        "unbrandedName": "Baby's Sleeveless Check Blouse"
+                        "sku": "5045458927733"
                     }
                 }
             ],
