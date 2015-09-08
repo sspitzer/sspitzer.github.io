@@ -7,6 +7,300 @@
             "onSale": false,
             "price": 47.0,
             "priceLabel": "$47.00",
+            "product": {
+                "alternateImages": [],
+                "badges": [],
+                "brand": {
+                    "id": "3968",
+                    "name": "Melissa Odabash",
+                    "urlIdentifier": "melissa-odabash",
+                    "userHandle": "MelissaOdabash",
+                    "userId": 24965815,
+                    "userImage": "http://resources.shopstyle.com/im/default-profile-icon.png"
+                },
+                "brandedName": "Melissa Odabash Toddler's & Little Girl's Tiered Bikini",
+                "categories": [
+                    {
+                        "id": "girls",
+                        "localizedId": "girls",
+                        "name": "Girls' Clothing",
+                        "numId": 477,
+                        "shortName": "Girls"
+                    }
+                ],
+                "clickUrl": "http://api.shopstyle.com/action/apiVisitRetailer?id=469521488&pid=iOS_app_v3",
+                "colors": [
+                    {
+                        "canonicalColors": [
+                            {
+                                "id": "10",
+                                "name": "Blue",
+                                "rank": 5
+                            }
+                        ],
+                        "image": {
+                            "id": "513944202078acd65465e72101d78ab1",
+                            "sizes": {
+                                "Best": {
+                                    "actualHeight": 900,
+                                    "actualWidth": 720,
+                                    "height": 900,
+                                    "sizeName": "Best",
+                                    "url": "https://resources.shopstyle.com/pim/51/39/513944202078acd65465e72101d78ab1_best.jpg",
+                                    "width": 720
+                                },
+                                "IPhone": {
+                                    "actualHeight": 360,
+                                    "actualWidth": 288,
+                                    "height": 360,
+                                    "sizeName": "IPhone",
+                                    "url": "https://resources.shopstyle.com/mim/51/39/513944202078acd65465e72101d78ab1.jpg",
+                                    "width": 288
+                                },
+                                "IPhoneSmall": {
+                                    "actualHeight": 125,
+                                    "actualWidth": 100,
+                                    "height": 125,
+                                    "sizeName": "IPhoneSmall",
+                                    "url": "https://resources.shopstyle.com/mim/51/39/513944202078acd65465e72101d78ab1_small.jpg",
+                                    "width": 100
+                                },
+                                "Large": {
+                                    "actualHeight": 205,
+                                    "actualWidth": 164,
+                                    "height": 205,
+                                    "sizeName": "Large",
+                                    "url": "https://resources.shopstyle.com/sim/51/39/513944202078acd65465e72101d78ab1/melissa-odabash-toddler-s-little-girl-s-tiered-bikini.jpg",
+                                    "width": 164
+                                },
+                                "Medium": {
+                                    "actualHeight": 140,
+                                    "actualWidth": 112,
+                                    "height": 140,
+                                    "sizeName": "Medium",
+                                    "url": "https://resources.shopstyle.com/sim/51/39/513944202078acd65465e72101d78ab1_medium/melissa-odabash-toddler-s-little-girl-s-tiered-bikini.jpg",
+                                    "width": 112
+                                },
+                                "Original": {
+                                    "sizeName": "Original",
+                                    "url": "https://resources.shopstyle.com/pim/51/39/513944202078acd65465e72101d78ab1_best.jpg"
+                                },
+                                "Small": {
+                                    "actualHeight": 40,
+                                    "actualWidth": 32,
+                                    "height": 40,
+                                    "sizeName": "Small",
+                                    "url": "https://resources.shopstyle.com/pim/51/39/513944202078acd65465e72101d78ab1_small.jpg",
+                                    "width": 32
+                                },
+                                "XLarge": {
+                                    "actualHeight": 410,
+                                    "actualWidth": 328,
+                                    "height": 410,
+                                    "sizeName": "XLarge",
+                                    "url": "https://resources.shopstyle.com/xim/51/39/513944202078acd65465e72101d78ab1.jpg",
+                                    "width": 328
+                                }
+                            }
+                        },
+                        "name": "NAVY GINGHAM"
+                    }
+                ],
+                "commentCount": 0,
+                "currency": "USD",
+                "description": "Layers of soft ruffles create feminine charm in a two-piece style from Italy that's at once sweet and sophisticated. ;Tiered ruffled pull-on bandeau top;Skinny straps;Tiered full-coverage bottom;Nylon/elastane;Hand wash;Made in Italy",
+                "extractDate": "2015-01-27",
+                "favoriteCount": 1,
+                "hasFavorite": true,
+                "id": 469521488,
+                "image": {
+                    "id": "df2582beb545d9aef7babcd543408c34",
+                    "sizes": {
+                        "Best": {
+                            "actualHeight": 400,
+                            "actualWidth": 282,
+                            "height": 900,
+                            "sizeName": "Best",
+                            "url": "https://resources.shopstyle.com/pim/df/25/df2582beb545d9aef7babcd543408c34_best.jpg",
+                            "width": 720
+                        },
+                        "IPhone": {
+                            "actualHeight": 360,
+                            "actualWidth": 254,
+                            "height": 360,
+                            "sizeName": "IPhone",
+                            "url": "https://resources.shopstyle.com/mim/df/25/df2582beb545d9aef7babcd543408c34.jpg",
+                            "width": 288
+                        },
+                        "IPhoneSmall": {
+                            "actualHeight": 125,
+                            "actualWidth": 88,
+                            "height": 125,
+                            "sizeName": "IPhoneSmall",
+                            "url": "https://resources.shopstyle.com/mim/df/25/df2582beb545d9aef7babcd543408c34_small.jpg",
+                            "width": 100
+                        },
+                        "Large": {
+                            "actualHeight": 205,
+                            "actualWidth": 145,
+                            "height": 205,
+                            "sizeName": "Large",
+                            "url": "https://resources.shopstyle.com/sim/df/25/df2582beb545d9aef7babcd543408c34/melissa-odabash-toddler-s-little-girl-s-tiered-bikini.jpg",
+                            "width": 164
+                        },
+                        "Medium": {
+                            "actualHeight": 140,
+                            "actualWidth": 99,
+                            "height": 140,
+                            "sizeName": "Medium",
+                            "url": "https://resources.shopstyle.com/sim/df/25/df2582beb545d9aef7babcd543408c34_medium/melissa-odabash-toddler-s-little-girl-s-tiered-bikini.jpg",
+                            "width": 112
+                        },
+                        "Original": {
+                            "actualHeight": 400,
+                            "actualWidth": 282,
+                            "sizeName": "Original",
+                            "url": "https://resources.shopstyle.com/pim/df/25/df2582beb545d9aef7babcd543408c34_best.jpg"
+                        },
+                        "Small": {
+                            "actualHeight": 40,
+                            "actualWidth": 28,
+                            "height": 40,
+                            "sizeName": "Small",
+                            "url": "https://resources.shopstyle.com/pim/df/25/df2582beb545d9aef7babcd543408c34_small.jpg",
+                            "width": 32
+                        },
+                        "XLarge": {
+                            "actualHeight": 400,
+                            "actualWidth": 282,
+                            "height": 410,
+                            "sizeName": "XLarge",
+                            "url": "https://resources.shopstyle.com/xim/df/25/df2582beb545d9aef7babcd543408c34.jpg",
+                            "width": 328
+                        }
+                    }
+                },
+                "inStock": true,
+                "lastModified": "2015-09-08",
+                "locale": "en_US",
+                "name": "Melissa Odabash Toddler's & Little Girl's Tiered Bikini",
+                "pageUrl": "http://www.shopstyle.com/p/melissa-odabash-toddler-s-little-girl-s-tiered-bikini/469521488?pid=iOS_app_v3",
+                "preOwned": false,
+                "price": 94,
+                "priceLabel": "$94",
+                "promotionalDeal": {
+                    "checkoutCode": "FREESHIP",
+                    "endDate": {
+                        "date": "2016-01-01",
+                        "friendly": "Thu, Dec 31",
+                        "timestamp": 1451631540
+                    },
+                    "id": 253957,
+                    "retailer": {
+                        "deeplinkSupport": true,
+                        "effectiveContentLocale": "en_US",
+                        "favIcon": "http://s3.amazonaws.com/extimg.shopstyle.com/favicons/retailers/Saks-Fifth-Avenue-US.ico",
+                        "handle": "Saks Fifth Avenue",
+                        "hostDomain": "saksfifthavenue.com",
+                        "id": "7",
+                        "logo": {
+                            "sizes": {
+                                "default": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default.png"
+                                },
+                                "default@2x": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default@2x.png"
+                                },
+                                "featured": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-featured.png"
+                                },
+                                "featured@2x": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-featured@2x.png"
+                                },
+                                "mobile": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-mobile.png"
+                                },
+                                "mobile@2x": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-mobile@2x.png"
+                                }
+                            }
+                        },
+                        "name": "Saks Fifth Avenue",
+                        "urlIdentifier": "Saks-Fifth-Avenue-US",
+                        "userHandle": "SaksFifthAvenue",
+                        "userId": 24965123,
+                        "userImage": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default@2x.png"
+                    },
+                    "shortTitle": "Free Shipping: FREESHIP",
+                    "startDate": {
+                        "date": "2015-02-06",
+                        "friendly": "Fri, Feb 6",
+                        "timestamp": 1423206000
+                    },
+                    "title": "Free Shipping: FREESHIP",
+                    "type": "FreeShipping",
+                    "typeLabel": "FREE SHIPPING"
+                },
+                "rental": false,
+                "retailer": {
+                    "effectiveContentLocale": "en_US",
+                    "favIcon": "http://s3.amazonaws.com/extimg.shopstyle.com/favicons/retailers/Saks-Fifth-Avenue-US.ico",
+                    "handle": "Saks Fifth Avenue",
+                    "id": "7",
+                    "logo": {
+                        "sizes": {
+                            "default": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default.png"
+                            },
+                            "default@2x": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default@2x.png"
+                            },
+                            "featured": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-featured.png"
+                            },
+                            "featured@2x": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-featured@2x.png"
+                            },
+                            "mobile": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-mobile.png"
+                            },
+                            "mobile@2x": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-mobile@2x.png"
+                            }
+                        }
+                    },
+                    "name": "Saks Fifth Avenue",
+                    "urlIdentifier": "Saks-Fifth-Avenue-US",
+                    "userHandle": "SaksFifthAvenue",
+                    "userId": 24965123,
+                    "userImage": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default@2x.png"
+                },
+                "salePrice": 47,
+                "salePriceLabel": "$47",
+                "seeMoreLabel": "Melissa Odabash Girls' Clothing",
+                "seeMoreUrl": "http://www.shopstyle.com/browse/girls/melissa-odabash",
+                "sizes": [
+                    {
+                        "canonicalSize": {
+                            "id": "377",
+                            "name": "XS (5-6)"
+                        },
+                        "name": "6"
+                    }
+                ],
+                "stock": [
+                    {
+                        "color": {
+                            "name": "NAVY GINGHAM"
+                        },
+                        "size": {
+                            "name": "6"
+                        }
+                    }
+                ],
+                "unbrandedName": "Toddler's & Little Girl's Tiered Bikini",
+                "urlIdentifier": "melissa-odabash-toddler-s-little-girl-s-tiered-bikini"
+            },
             "productImageUrl": "https://resources.shopstyle.com/pim/51/39/513944202078acd65465e72101d78ab1_best.jpg",
             "size": {
                 "canonicalSize": {
@@ -24,6 +318,300 @@
             "onSale": false,
             "price": 47.0,
             "priceLabel": "$47.00",
+            "product": {
+                "alternateImages": [],
+                "badges": [],
+                "brand": {
+                    "id": "3968",
+                    "name": "Melissa Odabash",
+                    "urlIdentifier": "melissa-odabash",
+                    "userHandle": "MelissaOdabash",
+                    "userId": 24965815,
+                    "userImage": "http://resources.shopstyle.com/im/default-profile-icon.png"
+                },
+                "brandedName": "Melissa Odabash Toddler's & Little Girl's Tiered Bikini",
+                "categories": [
+                    {
+                        "id": "girls",
+                        "localizedId": "girls",
+                        "name": "Girls' Clothing",
+                        "numId": 477,
+                        "shortName": "Girls"
+                    }
+                ],
+                "clickUrl": "http://api.shopstyle.com/action/apiVisitRetailer?id=469521488&pid=iOS_app_v3",
+                "colors": [
+                    {
+                        "canonicalColors": [
+                            {
+                                "id": "10",
+                                "name": "Blue",
+                                "rank": 5
+                            }
+                        ],
+                        "image": {
+                            "id": "513944202078acd65465e72101d78ab1",
+                            "sizes": {
+                                "Best": {
+                                    "actualHeight": 900,
+                                    "actualWidth": 720,
+                                    "height": 900,
+                                    "sizeName": "Best",
+                                    "url": "https://resources.shopstyle.com/pim/51/39/513944202078acd65465e72101d78ab1_best.jpg",
+                                    "width": 720
+                                },
+                                "IPhone": {
+                                    "actualHeight": 360,
+                                    "actualWidth": 288,
+                                    "height": 360,
+                                    "sizeName": "IPhone",
+                                    "url": "https://resources.shopstyle.com/mim/51/39/513944202078acd65465e72101d78ab1.jpg",
+                                    "width": 288
+                                },
+                                "IPhoneSmall": {
+                                    "actualHeight": 125,
+                                    "actualWidth": 100,
+                                    "height": 125,
+                                    "sizeName": "IPhoneSmall",
+                                    "url": "https://resources.shopstyle.com/mim/51/39/513944202078acd65465e72101d78ab1_small.jpg",
+                                    "width": 100
+                                },
+                                "Large": {
+                                    "actualHeight": 205,
+                                    "actualWidth": 164,
+                                    "height": 205,
+                                    "sizeName": "Large",
+                                    "url": "https://resources.shopstyle.com/sim/51/39/513944202078acd65465e72101d78ab1/melissa-odabash-toddler-s-little-girl-s-tiered-bikini.jpg",
+                                    "width": 164
+                                },
+                                "Medium": {
+                                    "actualHeight": 140,
+                                    "actualWidth": 112,
+                                    "height": 140,
+                                    "sizeName": "Medium",
+                                    "url": "https://resources.shopstyle.com/sim/51/39/513944202078acd65465e72101d78ab1_medium/melissa-odabash-toddler-s-little-girl-s-tiered-bikini.jpg",
+                                    "width": 112
+                                },
+                                "Original": {
+                                    "sizeName": "Original",
+                                    "url": "https://resources.shopstyle.com/pim/51/39/513944202078acd65465e72101d78ab1_best.jpg"
+                                },
+                                "Small": {
+                                    "actualHeight": 40,
+                                    "actualWidth": 32,
+                                    "height": 40,
+                                    "sizeName": "Small",
+                                    "url": "https://resources.shopstyle.com/pim/51/39/513944202078acd65465e72101d78ab1_small.jpg",
+                                    "width": 32
+                                },
+                                "XLarge": {
+                                    "actualHeight": 410,
+                                    "actualWidth": 328,
+                                    "height": 410,
+                                    "sizeName": "XLarge",
+                                    "url": "https://resources.shopstyle.com/xim/51/39/513944202078acd65465e72101d78ab1.jpg",
+                                    "width": 328
+                                }
+                            }
+                        },
+                        "name": "NAVY GINGHAM"
+                    }
+                ],
+                "commentCount": 0,
+                "currency": "USD",
+                "description": "Layers of soft ruffles create feminine charm in a two-piece style from Italy that's at once sweet and sophisticated. ;Tiered ruffled pull-on bandeau top;Skinny straps;Tiered full-coverage bottom;Nylon/elastane;Hand wash;Made in Italy",
+                "extractDate": "2015-01-27",
+                "favoriteCount": 1,
+                "hasFavorite": true,
+                "id": 469521488,
+                "image": {
+                    "id": "df2582beb545d9aef7babcd543408c34",
+                    "sizes": {
+                        "Best": {
+                            "actualHeight": 400,
+                            "actualWidth": 282,
+                            "height": 900,
+                            "sizeName": "Best",
+                            "url": "https://resources.shopstyle.com/pim/df/25/df2582beb545d9aef7babcd543408c34_best.jpg",
+                            "width": 720
+                        },
+                        "IPhone": {
+                            "actualHeight": 360,
+                            "actualWidth": 254,
+                            "height": 360,
+                            "sizeName": "IPhone",
+                            "url": "https://resources.shopstyle.com/mim/df/25/df2582beb545d9aef7babcd543408c34.jpg",
+                            "width": 288
+                        },
+                        "IPhoneSmall": {
+                            "actualHeight": 125,
+                            "actualWidth": 88,
+                            "height": 125,
+                            "sizeName": "IPhoneSmall",
+                            "url": "https://resources.shopstyle.com/mim/df/25/df2582beb545d9aef7babcd543408c34_small.jpg",
+                            "width": 100
+                        },
+                        "Large": {
+                            "actualHeight": 205,
+                            "actualWidth": 145,
+                            "height": 205,
+                            "sizeName": "Large",
+                            "url": "https://resources.shopstyle.com/sim/df/25/df2582beb545d9aef7babcd543408c34/melissa-odabash-toddler-s-little-girl-s-tiered-bikini.jpg",
+                            "width": 164
+                        },
+                        "Medium": {
+                            "actualHeight": 140,
+                            "actualWidth": 99,
+                            "height": 140,
+                            "sizeName": "Medium",
+                            "url": "https://resources.shopstyle.com/sim/df/25/df2582beb545d9aef7babcd543408c34_medium/melissa-odabash-toddler-s-little-girl-s-tiered-bikini.jpg",
+                            "width": 112
+                        },
+                        "Original": {
+                            "actualHeight": 400,
+                            "actualWidth": 282,
+                            "sizeName": "Original",
+                            "url": "https://resources.shopstyle.com/pim/df/25/df2582beb545d9aef7babcd543408c34_best.jpg"
+                        },
+                        "Small": {
+                            "actualHeight": 40,
+                            "actualWidth": 28,
+                            "height": 40,
+                            "sizeName": "Small",
+                            "url": "https://resources.shopstyle.com/pim/df/25/df2582beb545d9aef7babcd543408c34_small.jpg",
+                            "width": 32
+                        },
+                        "XLarge": {
+                            "actualHeight": 400,
+                            "actualWidth": 282,
+                            "height": 410,
+                            "sizeName": "XLarge",
+                            "url": "https://resources.shopstyle.com/xim/df/25/df2582beb545d9aef7babcd543408c34.jpg",
+                            "width": 328
+                        }
+                    }
+                },
+                "inStock": true,
+                "lastModified": "2015-09-08",
+                "locale": "en_US",
+                "name": "Melissa Odabash Toddler's & Little Girl's Tiered Bikini",
+                "pageUrl": "http://www.shopstyle.com/p/melissa-odabash-toddler-s-little-girl-s-tiered-bikini/469521488?pid=iOS_app_v3",
+                "preOwned": false,
+                "price": 94,
+                "priceLabel": "$94",
+                "promotionalDeal": {
+                    "checkoutCode": "FREESHIP",
+                    "endDate": {
+                        "date": "2016-01-01",
+                        "friendly": "Thu, Dec 31",
+                        "timestamp": 1451631540
+                    },
+                    "id": 253957,
+                    "retailer": {
+                        "deeplinkSupport": true,
+                        "effectiveContentLocale": "en_US",
+                        "favIcon": "http://s3.amazonaws.com/extimg.shopstyle.com/favicons/retailers/Saks-Fifth-Avenue-US.ico",
+                        "handle": "Saks Fifth Avenue",
+                        "hostDomain": "saksfifthavenue.com",
+                        "id": "7",
+                        "logo": {
+                            "sizes": {
+                                "default": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default.png"
+                                },
+                                "default@2x": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default@2x.png"
+                                },
+                                "featured": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-featured.png"
+                                },
+                                "featured@2x": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-featured@2x.png"
+                                },
+                                "mobile": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-mobile.png"
+                                },
+                                "mobile@2x": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-mobile@2x.png"
+                                }
+                            }
+                        },
+                        "name": "Saks Fifth Avenue",
+                        "urlIdentifier": "Saks-Fifth-Avenue-US",
+                        "userHandle": "SaksFifthAvenue",
+                        "userId": 24965123,
+                        "userImage": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default@2x.png"
+                    },
+                    "shortTitle": "Free Shipping: FREESHIP",
+                    "startDate": {
+                        "date": "2015-02-06",
+                        "friendly": "Fri, Feb 6",
+                        "timestamp": 1423206000
+                    },
+                    "title": "Free Shipping: FREESHIP",
+                    "type": "FreeShipping",
+                    "typeLabel": "FREE SHIPPING"
+                },
+                "rental": false,
+                "retailer": {
+                    "effectiveContentLocale": "en_US",
+                    "favIcon": "http://s3.amazonaws.com/extimg.shopstyle.com/favicons/retailers/Saks-Fifth-Avenue-US.ico",
+                    "handle": "Saks Fifth Avenue",
+                    "id": "7",
+                    "logo": {
+                        "sizes": {
+                            "default": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default.png"
+                            },
+                            "default@2x": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default@2x.png"
+                            },
+                            "featured": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-featured.png"
+                            },
+                            "featured@2x": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-featured@2x.png"
+                            },
+                            "mobile": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-mobile.png"
+                            },
+                            "mobile@2x": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-mobile@2x.png"
+                            }
+                        }
+                    },
+                    "name": "Saks Fifth Avenue",
+                    "urlIdentifier": "Saks-Fifth-Avenue-US",
+                    "userHandle": "SaksFifthAvenue",
+                    "userId": 24965123,
+                    "userImage": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default@2x.png"
+                },
+                "salePrice": 47,
+                "salePriceLabel": "$47",
+                "seeMoreLabel": "Melissa Odabash Girls' Clothing",
+                "seeMoreUrl": "http://www.shopstyle.com/browse/girls/melissa-odabash",
+                "sizes": [
+                    {
+                        "canonicalSize": {
+                            "id": "377",
+                            "name": "XS (5-6)"
+                        },
+                        "name": "6"
+                    }
+                ],
+                "stock": [
+                    {
+                        "color": {
+                            "name": "NAVY GINGHAM"
+                        },
+                        "size": {
+                            "name": "6"
+                        }
+                    }
+                ],
+                "unbrandedName": "Toddler's & Little Girl's Tiered Bikini",
+                "urlIdentifier": "melissa-odabash-toddler-s-little-girl-s-tiered-bikini"
+            },
             "productImageUrl": "https://resources.shopstyle.com/pim/51/39/513944202078acd65465e72101d78ab1_best.jpg",
             "size": {
                 "canonicalSize": {
@@ -41,6 +629,300 @@
             "onSale": false,
             "price": 47.0,
             "priceLabel": "$47.00",
+            "product": {
+                "alternateImages": [],
+                "badges": [],
+                "brand": {
+                    "id": "3968",
+                    "name": "Melissa Odabash",
+                    "urlIdentifier": "melissa-odabash",
+                    "userHandle": "MelissaOdabash",
+                    "userId": 24965815,
+                    "userImage": "http://resources.shopstyle.com/im/default-profile-icon.png"
+                },
+                "brandedName": "Melissa Odabash Toddler's & Little Girl's Tiered Bikini",
+                "categories": [
+                    {
+                        "id": "girls",
+                        "localizedId": "girls",
+                        "name": "Girls' Clothing",
+                        "numId": 477,
+                        "shortName": "Girls"
+                    }
+                ],
+                "clickUrl": "http://api.shopstyle.com/action/apiVisitRetailer?id=469521488&pid=iOS_app_v3",
+                "colors": [
+                    {
+                        "canonicalColors": [
+                            {
+                                "id": "10",
+                                "name": "Blue",
+                                "rank": 5
+                            }
+                        ],
+                        "image": {
+                            "id": "513944202078acd65465e72101d78ab1",
+                            "sizes": {
+                                "Best": {
+                                    "actualHeight": 900,
+                                    "actualWidth": 720,
+                                    "height": 900,
+                                    "sizeName": "Best",
+                                    "url": "https://resources.shopstyle.com/pim/51/39/513944202078acd65465e72101d78ab1_best.jpg",
+                                    "width": 720
+                                },
+                                "IPhone": {
+                                    "actualHeight": 360,
+                                    "actualWidth": 288,
+                                    "height": 360,
+                                    "sizeName": "IPhone",
+                                    "url": "https://resources.shopstyle.com/mim/51/39/513944202078acd65465e72101d78ab1.jpg",
+                                    "width": 288
+                                },
+                                "IPhoneSmall": {
+                                    "actualHeight": 125,
+                                    "actualWidth": 100,
+                                    "height": 125,
+                                    "sizeName": "IPhoneSmall",
+                                    "url": "https://resources.shopstyle.com/mim/51/39/513944202078acd65465e72101d78ab1_small.jpg",
+                                    "width": 100
+                                },
+                                "Large": {
+                                    "actualHeight": 205,
+                                    "actualWidth": 164,
+                                    "height": 205,
+                                    "sizeName": "Large",
+                                    "url": "https://resources.shopstyle.com/sim/51/39/513944202078acd65465e72101d78ab1/melissa-odabash-toddler-s-little-girl-s-tiered-bikini.jpg",
+                                    "width": 164
+                                },
+                                "Medium": {
+                                    "actualHeight": 140,
+                                    "actualWidth": 112,
+                                    "height": 140,
+                                    "sizeName": "Medium",
+                                    "url": "https://resources.shopstyle.com/sim/51/39/513944202078acd65465e72101d78ab1_medium/melissa-odabash-toddler-s-little-girl-s-tiered-bikini.jpg",
+                                    "width": 112
+                                },
+                                "Original": {
+                                    "sizeName": "Original",
+                                    "url": "https://resources.shopstyle.com/pim/51/39/513944202078acd65465e72101d78ab1_best.jpg"
+                                },
+                                "Small": {
+                                    "actualHeight": 40,
+                                    "actualWidth": 32,
+                                    "height": 40,
+                                    "sizeName": "Small",
+                                    "url": "https://resources.shopstyle.com/pim/51/39/513944202078acd65465e72101d78ab1_small.jpg",
+                                    "width": 32
+                                },
+                                "XLarge": {
+                                    "actualHeight": 410,
+                                    "actualWidth": 328,
+                                    "height": 410,
+                                    "sizeName": "XLarge",
+                                    "url": "https://resources.shopstyle.com/xim/51/39/513944202078acd65465e72101d78ab1.jpg",
+                                    "width": 328
+                                }
+                            }
+                        },
+                        "name": "NAVY GINGHAM"
+                    }
+                ],
+                "commentCount": 0,
+                "currency": "USD",
+                "description": "Layers of soft ruffles create feminine charm in a two-piece style from Italy that's at once sweet and sophisticated. ;Tiered ruffled pull-on bandeau top;Skinny straps;Tiered full-coverage bottom;Nylon/elastane;Hand wash;Made in Italy",
+                "extractDate": "2015-01-27",
+                "favoriteCount": 1,
+                "hasFavorite": true,
+                "id": 469521488,
+                "image": {
+                    "id": "df2582beb545d9aef7babcd543408c34",
+                    "sizes": {
+                        "Best": {
+                            "actualHeight": 400,
+                            "actualWidth": 282,
+                            "height": 900,
+                            "sizeName": "Best",
+                            "url": "https://resources.shopstyle.com/pim/df/25/df2582beb545d9aef7babcd543408c34_best.jpg",
+                            "width": 720
+                        },
+                        "IPhone": {
+                            "actualHeight": 360,
+                            "actualWidth": 254,
+                            "height": 360,
+                            "sizeName": "IPhone",
+                            "url": "https://resources.shopstyle.com/mim/df/25/df2582beb545d9aef7babcd543408c34.jpg",
+                            "width": 288
+                        },
+                        "IPhoneSmall": {
+                            "actualHeight": 125,
+                            "actualWidth": 88,
+                            "height": 125,
+                            "sizeName": "IPhoneSmall",
+                            "url": "https://resources.shopstyle.com/mim/df/25/df2582beb545d9aef7babcd543408c34_small.jpg",
+                            "width": 100
+                        },
+                        "Large": {
+                            "actualHeight": 205,
+                            "actualWidth": 145,
+                            "height": 205,
+                            "sizeName": "Large",
+                            "url": "https://resources.shopstyle.com/sim/df/25/df2582beb545d9aef7babcd543408c34/melissa-odabash-toddler-s-little-girl-s-tiered-bikini.jpg",
+                            "width": 164
+                        },
+                        "Medium": {
+                            "actualHeight": 140,
+                            "actualWidth": 99,
+                            "height": 140,
+                            "sizeName": "Medium",
+                            "url": "https://resources.shopstyle.com/sim/df/25/df2582beb545d9aef7babcd543408c34_medium/melissa-odabash-toddler-s-little-girl-s-tiered-bikini.jpg",
+                            "width": 112
+                        },
+                        "Original": {
+                            "actualHeight": 400,
+                            "actualWidth": 282,
+                            "sizeName": "Original",
+                            "url": "https://resources.shopstyle.com/pim/df/25/df2582beb545d9aef7babcd543408c34_best.jpg"
+                        },
+                        "Small": {
+                            "actualHeight": 40,
+                            "actualWidth": 28,
+                            "height": 40,
+                            "sizeName": "Small",
+                            "url": "https://resources.shopstyle.com/pim/df/25/df2582beb545d9aef7babcd543408c34_small.jpg",
+                            "width": 32
+                        },
+                        "XLarge": {
+                            "actualHeight": 400,
+                            "actualWidth": 282,
+                            "height": 410,
+                            "sizeName": "XLarge",
+                            "url": "https://resources.shopstyle.com/xim/df/25/df2582beb545d9aef7babcd543408c34.jpg",
+                            "width": 328
+                        }
+                    }
+                },
+                "inStock": true,
+                "lastModified": "2015-09-08",
+                "locale": "en_US",
+                "name": "Melissa Odabash Toddler's & Little Girl's Tiered Bikini",
+                "pageUrl": "http://www.shopstyle.com/p/melissa-odabash-toddler-s-little-girl-s-tiered-bikini/469521488?pid=iOS_app_v3",
+                "preOwned": false,
+                "price": 94,
+                "priceLabel": "$94",
+                "promotionalDeal": {
+                    "checkoutCode": "FREESHIP",
+                    "endDate": {
+                        "date": "2016-01-01",
+                        "friendly": "Thu, Dec 31",
+                        "timestamp": 1451631540
+                    },
+                    "id": 253957,
+                    "retailer": {
+                        "deeplinkSupport": true,
+                        "effectiveContentLocale": "en_US",
+                        "favIcon": "http://s3.amazonaws.com/extimg.shopstyle.com/favicons/retailers/Saks-Fifth-Avenue-US.ico",
+                        "handle": "Saks Fifth Avenue",
+                        "hostDomain": "saksfifthavenue.com",
+                        "id": "7",
+                        "logo": {
+                            "sizes": {
+                                "default": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default.png"
+                                },
+                                "default@2x": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default@2x.png"
+                                },
+                                "featured": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-featured.png"
+                                },
+                                "featured@2x": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-featured@2x.png"
+                                },
+                                "mobile": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-mobile.png"
+                                },
+                                "mobile@2x": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-mobile@2x.png"
+                                }
+                            }
+                        },
+                        "name": "Saks Fifth Avenue",
+                        "urlIdentifier": "Saks-Fifth-Avenue-US",
+                        "userHandle": "SaksFifthAvenue",
+                        "userId": 24965123,
+                        "userImage": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default@2x.png"
+                    },
+                    "shortTitle": "Free Shipping: FREESHIP",
+                    "startDate": {
+                        "date": "2015-02-06",
+                        "friendly": "Fri, Feb 6",
+                        "timestamp": 1423206000
+                    },
+                    "title": "Free Shipping: FREESHIP",
+                    "type": "FreeShipping",
+                    "typeLabel": "FREE SHIPPING"
+                },
+                "rental": false,
+                "retailer": {
+                    "effectiveContentLocale": "en_US",
+                    "favIcon": "http://s3.amazonaws.com/extimg.shopstyle.com/favicons/retailers/Saks-Fifth-Avenue-US.ico",
+                    "handle": "Saks Fifth Avenue",
+                    "id": "7",
+                    "logo": {
+                        "sizes": {
+                            "default": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default.png"
+                            },
+                            "default@2x": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default@2x.png"
+                            },
+                            "featured": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-featured.png"
+                            },
+                            "featured@2x": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-featured@2x.png"
+                            },
+                            "mobile": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-mobile.png"
+                            },
+                            "mobile@2x": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-mobile@2x.png"
+                            }
+                        }
+                    },
+                    "name": "Saks Fifth Avenue",
+                    "urlIdentifier": "Saks-Fifth-Avenue-US",
+                    "userHandle": "SaksFifthAvenue",
+                    "userId": 24965123,
+                    "userImage": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default@2x.png"
+                },
+                "salePrice": 47,
+                "salePriceLabel": "$47",
+                "seeMoreLabel": "Melissa Odabash Girls' Clothing",
+                "seeMoreUrl": "http://www.shopstyle.com/browse/girls/melissa-odabash",
+                "sizes": [
+                    {
+                        "canonicalSize": {
+                            "id": "377",
+                            "name": "XS (5-6)"
+                        },
+                        "name": "6"
+                    }
+                ],
+                "stock": [
+                    {
+                        "color": {
+                            "name": "NAVY GINGHAM"
+                        },
+                        "size": {
+                            "name": "6"
+                        }
+                    }
+                ],
+                "unbrandedName": "Toddler's & Little Girl's Tiered Bikini",
+                "urlIdentifier": "melissa-odabash-toddler-s-little-girl-s-tiered-bikini"
+            },
             "productImageUrl": "https://resources.shopstyle.com/pim/51/39/513944202078acd65465e72101d78ab1_best.jpg",
             "size": {
                 "canonicalSize": {

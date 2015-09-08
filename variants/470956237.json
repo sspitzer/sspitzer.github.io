@@ -7,6 +7,305 @@
             "onSale": false,
             "price": 107.5,
             "priceLabel": "$107.50",
+            "product": {
+                "alternateImages": [],
+                "badges": [],
+                "brand": {
+                    "id": "30519",
+                    "name": "Bonpoint",
+                    "urlIdentifier": "bonpoint",
+                    "userHandle": "Bonpoint",
+                    "userId": 24956772,
+                    "userImage": "http://resources.shopstyle.com/im/default-profile-icon.png"
+                },
+                "brandedName": "Bonpoint Infant's Cherry Knit Cashmere Cardigan",
+                "categories": [
+                    {
+                        "id": "girls-sweaters",
+                        "localizedId": "girls-sweaters",
+                        "name": "Girls' Sweaters",
+                        "numId": 473,
+                        "shortName": "Sweaters"
+                    },
+                    {
+                        "id": "kids-sweaters",
+                        "localizedId": "kids-sweaters",
+                        "name": "Kids' Sweaters",
+                        "numId": 1588,
+                        "shortName": "Sweaters"
+                    }
+                ],
+                "clickUrl": "http://api.shopstyle.com/action/apiVisitRetailer?id=470956237&pid=iOS_app_v3",
+                "colors": [
+                    {
+                        "canonicalColors": [
+                            {
+                                "id": "17",
+                                "name": "Pink",
+                                "rank": 7
+                            }
+                        ],
+                        "image": {
+                            "id": "31caec73dc42e6215c8d7d81e6ce4d21",
+                            "sizes": {
+                                "Best": {
+                                    "actualHeight": 900,
+                                    "actualWidth": 720,
+                                    "height": 900,
+                                    "sizeName": "Best",
+                                    "url": "https://resources.shopstyle.com/pim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21_best.jpg",
+                                    "width": 720
+                                },
+                                "IPhone": {
+                                    "actualHeight": 360,
+                                    "actualWidth": 288,
+                                    "height": 360,
+                                    "sizeName": "IPhone",
+                                    "url": "https://resources.shopstyle.com/mim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21.jpg",
+                                    "width": 288
+                                },
+                                "IPhoneSmall": {
+                                    "actualHeight": 125,
+                                    "actualWidth": 100,
+                                    "height": 125,
+                                    "sizeName": "IPhoneSmall",
+                                    "url": "https://resources.shopstyle.com/mim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21_small.jpg",
+                                    "width": 100
+                                },
+                                "Large": {
+                                    "actualHeight": 205,
+                                    "actualWidth": 164,
+                                    "height": 205,
+                                    "sizeName": "Large",
+                                    "url": "https://resources.shopstyle.com/sim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21/bonpoint-infant-s-cherry-knit-cashmere-cardigan.jpg",
+                                    "width": 164
+                                },
+                                "Medium": {
+                                    "actualHeight": 140,
+                                    "actualWidth": 112,
+                                    "height": 140,
+                                    "sizeName": "Medium",
+                                    "url": "https://resources.shopstyle.com/sim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21_medium/bonpoint-infant-s-cherry-knit-cashmere-cardigan.jpg",
+                                    "width": 112
+                                },
+                                "Original": {
+                                    "sizeName": "Original",
+                                    "url": "https://resources.shopstyle.com/pim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21_best.jpg"
+                                },
+                                "Small": {
+                                    "actualHeight": 40,
+                                    "actualWidth": 32,
+                                    "height": 40,
+                                    "sizeName": "Small",
+                                    "url": "https://resources.shopstyle.com/pim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21_small.jpg",
+                                    "width": 32
+                                },
+                                "XLarge": {
+                                    "actualHeight": 410,
+                                    "actualWidth": 328,
+                                    "height": 410,
+                                    "sizeName": "XLarge",
+                                    "url": "https://resources.shopstyle.com/pim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21_xlarge.jpg",
+                                    "width": 328
+                                }
+                            }
+                        },
+                        "name": "ROSE"
+                    }
+                ],
+                "commentCount": 0,
+                "currency": "USD",
+                "description": "Open-knit detailing in a cherry motif lends a sweet touch to this ultra-soft cashmere cardigan.;Ribbed roundneck, cuffs and hem;Long sleeves;Button front;Open knit detail;Cashmere;Hand wash;Imported",
+                "extractDate": "2015-02-13",
+                "favoriteCount": 6,
+                "hasFavorite": true,
+                "id": 470956237,
+                "image": {
+                    "id": "7bb3a0ba5af6c70b42f74aacd84b62a4",
+                    "sizes": {
+                        "Best": {
+                            "actualHeight": 295,
+                            "actualWidth": 368,
+                            "height": 900,
+                            "sizeName": "Best",
+                            "url": "https://resources.shopstyle.com/pim/7b/b3/7bb3a0ba5af6c70b42f74aacd84b62a4_best.jpg",
+                            "width": 720
+                        },
+                        "IPhone": {
+                            "actualHeight": 231,
+                            "actualWidth": 288,
+                            "height": 360,
+                            "sizeName": "IPhone",
+                            "url": "https://resources.shopstyle.com/mim/7b/b3/7bb3a0ba5af6c70b42f74aacd84b62a4.jpg",
+                            "width": 288
+                        },
+                        "IPhoneSmall": {
+                            "actualHeight": 80,
+                            "actualWidth": 100,
+                            "height": 125,
+                            "sizeName": "IPhoneSmall",
+                            "url": "https://resources.shopstyle.com/mim/7b/b3/7bb3a0ba5af6c70b42f74aacd84b62a4_small.jpg",
+                            "width": 100
+                        },
+                        "Large": {
+                            "actualHeight": 131,
+                            "actualWidth": 164,
+                            "height": 205,
+                            "sizeName": "Large",
+                            "url": "https://resources.shopstyle.com/sim/7b/b3/7bb3a0ba5af6c70b42f74aacd84b62a4/bonpoint-infant-s-cherry-knit-cashmere-cardigan.jpg",
+                            "width": 164
+                        },
+                        "Medium": {
+                            "actualHeight": 90,
+                            "actualWidth": 112,
+                            "height": 140,
+                            "sizeName": "Medium",
+                            "url": "https://resources.shopstyle.com/sim/7b/b3/7bb3a0ba5af6c70b42f74aacd84b62a4_medium/bonpoint-infant-s-cherry-knit-cashmere-cardigan.jpg",
+                            "width": 112
+                        },
+                        "Original": {
+                            "actualHeight": 295,
+                            "actualWidth": 368,
+                            "sizeName": "Original",
+                            "url": "https://resources.shopstyle.com/pim/7b/b3/7bb3a0ba5af6c70b42f74aacd84b62a4_best.jpg"
+                        },
+                        "Small": {
+                            "actualHeight": 26,
+                            "actualWidth": 32,
+                            "height": 40,
+                            "sizeName": "Small",
+                            "url": "https://resources.shopstyle.com/pim/7b/b3/7bb3a0ba5af6c70b42f74aacd84b62a4_small.jpg",
+                            "width": 32
+                        },
+                        "XLarge": {
+                            "actualHeight": 263,
+                            "actualWidth": 328,
+                            "height": 410,
+                            "sizeName": "XLarge",
+                            "url": "https://resources.shopstyle.com/pim/7b/b3/7bb3a0ba5af6c70b42f74aacd84b62a4_xlarge.jpg",
+                            "width": 328
+                        }
+                    }
+                },
+                "inStock": true,
+                "lastModified": "2015-09-08",
+                "locale": "en_US",
+                "name": "Bonpoint Infant's Cherry Knit Cashmere Cardigan",
+                "pageUrl": "http://www.shopstyle.com/p/bonpoint-infant-s-cherry-knit-cashmere-cardigan/470956237?pid=iOS_app_v3",
+                "preOwned": false,
+                "price": 225,
+                "priceLabel": "$225",
+                "promotionalDeal": {
+                    "checkoutCode": "FREESHIP",
+                    "endDate": {
+                        "date": "2016-01-01",
+                        "friendly": "Thu, Dec 31",
+                        "timestamp": 1451631540
+                    },
+                    "id": 253957,
+                    "retailer": {
+                        "deeplinkSupport": true,
+                        "effectiveContentLocale": "en_US",
+                        "favIcon": "http://s3.amazonaws.com/extimg.shopstyle.com/favicons/retailers/Saks-Fifth-Avenue-US.ico",
+                        "handle": "Saks Fifth Avenue",
+                        "hostDomain": "saksfifthavenue.com",
+                        "id": "7",
+                        "logo": {
+                            "sizes": {
+                                "default": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default.png"
+                                },
+                                "default@2x": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default@2x.png"
+                                },
+                                "featured": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-featured.png"
+                                },
+                                "featured@2x": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-featured@2x.png"
+                                },
+                                "mobile": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-mobile.png"
+                                },
+                                "mobile@2x": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-mobile@2x.png"
+                                }
+                            }
+                        },
+                        "name": "Saks Fifth Avenue",
+                        "urlIdentifier": "Saks-Fifth-Avenue-US",
+                        "userHandle": "SaksFifthAvenue",
+                        "userId": 24965123,
+                        "userImage": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default@2x.png"
+                    },
+                    "shortTitle": "Free Shipping: FREESHIP",
+                    "startDate": {
+                        "date": "2015-02-06",
+                        "friendly": "Fri, Feb 6",
+                        "timestamp": 1423206000
+                    },
+                    "title": "Free Shipping: FREESHIP",
+                    "type": "FreeShipping",
+                    "typeLabel": "FREE SHIPPING"
+                },
+                "rental": false,
+                "retailer": {
+                    "effectiveContentLocale": "en_US",
+                    "favIcon": "http://s3.amazonaws.com/extimg.shopstyle.com/favicons/retailers/Saks-Fifth-Avenue-US.ico",
+                    "handle": "Saks Fifth Avenue",
+                    "id": "7",
+                    "logo": {
+                        "sizes": {
+                            "default": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default.png"
+                            },
+                            "default@2x": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default@2x.png"
+                            },
+                            "featured": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-featured.png"
+                            },
+                            "featured@2x": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-featured@2x.png"
+                            },
+                            "mobile": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-mobile.png"
+                            },
+                            "mobile@2x": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-mobile@2x.png"
+                            }
+                        }
+                    },
+                    "name": "Saks Fifth Avenue",
+                    "urlIdentifier": "Saks-Fifth-Avenue-US",
+                    "userHandle": "SaksFifthAvenue",
+                    "userId": 24965123,
+                    "userImage": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default@2x.png"
+                },
+                "seeMoreLabel": "Bonpoint Girls' Sweaters",
+                "seeMoreUrl": "http://www.shopstyle.com/browse/girls-sweaters/bonpoint",
+                "sizes": [
+                    {
+                        "canonicalSize": {
+                            "id": "321",
+                            "name": "12 Months (1T)"
+                        },
+                        "name": "12 MONTHS"
+                    }
+                ],
+                "stock": [
+                    {
+                        "color": {
+                            "name": "ROSE"
+                        },
+                        "size": {
+                            "name": "12 MONTHS"
+                        }
+                    }
+                ],
+                "unbrandedName": "Infant's Cherry Knit Cashmere Cardigan",
+                "urlIdentifier": "bonpoint-infant-s-cherry-knit-cashmere-cardigan"
+            },
             "productImageUrl": "https://resources.shopstyle.com/pim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21_best.jpg",
             "size": {
                 "canonicalSize": {
@@ -24,6 +323,305 @@
             "onSale": false,
             "price": 225,
             "priceLabel": "$225",
+            "product": {
+                "alternateImages": [],
+                "badges": [],
+                "brand": {
+                    "id": "30519",
+                    "name": "Bonpoint",
+                    "urlIdentifier": "bonpoint",
+                    "userHandle": "Bonpoint",
+                    "userId": 24956772,
+                    "userImage": "http://resources.shopstyle.com/im/default-profile-icon.png"
+                },
+                "brandedName": "Bonpoint Infant's Cherry Knit Cashmere Cardigan",
+                "categories": [
+                    {
+                        "id": "girls-sweaters",
+                        "localizedId": "girls-sweaters",
+                        "name": "Girls' Sweaters",
+                        "numId": 473,
+                        "shortName": "Sweaters"
+                    },
+                    {
+                        "id": "kids-sweaters",
+                        "localizedId": "kids-sweaters",
+                        "name": "Kids' Sweaters",
+                        "numId": 1588,
+                        "shortName": "Sweaters"
+                    }
+                ],
+                "clickUrl": "http://api.shopstyle.com/action/apiVisitRetailer?id=470956237&pid=iOS_app_v3",
+                "colors": [
+                    {
+                        "canonicalColors": [
+                            {
+                                "id": "17",
+                                "name": "Pink",
+                                "rank": 7
+                            }
+                        ],
+                        "image": {
+                            "id": "31caec73dc42e6215c8d7d81e6ce4d21",
+                            "sizes": {
+                                "Best": {
+                                    "actualHeight": 900,
+                                    "actualWidth": 720,
+                                    "height": 900,
+                                    "sizeName": "Best",
+                                    "url": "https://resources.shopstyle.com/pim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21_best.jpg",
+                                    "width": 720
+                                },
+                                "IPhone": {
+                                    "actualHeight": 360,
+                                    "actualWidth": 288,
+                                    "height": 360,
+                                    "sizeName": "IPhone",
+                                    "url": "https://resources.shopstyle.com/mim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21.jpg",
+                                    "width": 288
+                                },
+                                "IPhoneSmall": {
+                                    "actualHeight": 125,
+                                    "actualWidth": 100,
+                                    "height": 125,
+                                    "sizeName": "IPhoneSmall",
+                                    "url": "https://resources.shopstyle.com/mim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21_small.jpg",
+                                    "width": 100
+                                },
+                                "Large": {
+                                    "actualHeight": 205,
+                                    "actualWidth": 164,
+                                    "height": 205,
+                                    "sizeName": "Large",
+                                    "url": "https://resources.shopstyle.com/sim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21/bonpoint-infant-s-cherry-knit-cashmere-cardigan.jpg",
+                                    "width": 164
+                                },
+                                "Medium": {
+                                    "actualHeight": 140,
+                                    "actualWidth": 112,
+                                    "height": 140,
+                                    "sizeName": "Medium",
+                                    "url": "https://resources.shopstyle.com/sim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21_medium/bonpoint-infant-s-cherry-knit-cashmere-cardigan.jpg",
+                                    "width": 112
+                                },
+                                "Original": {
+                                    "sizeName": "Original",
+                                    "url": "https://resources.shopstyle.com/pim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21_best.jpg"
+                                },
+                                "Small": {
+                                    "actualHeight": 40,
+                                    "actualWidth": 32,
+                                    "height": 40,
+                                    "sizeName": "Small",
+                                    "url": "https://resources.shopstyle.com/pim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21_small.jpg",
+                                    "width": 32
+                                },
+                                "XLarge": {
+                                    "actualHeight": 410,
+                                    "actualWidth": 328,
+                                    "height": 410,
+                                    "sizeName": "XLarge",
+                                    "url": "https://resources.shopstyle.com/pim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21_xlarge.jpg",
+                                    "width": 328
+                                }
+                            }
+                        },
+                        "name": "ROSE"
+                    }
+                ],
+                "commentCount": 0,
+                "currency": "USD",
+                "description": "Open-knit detailing in a cherry motif lends a sweet touch to this ultra-soft cashmere cardigan.;Ribbed roundneck, cuffs and hem;Long sleeves;Button front;Open knit detail;Cashmere;Hand wash;Imported",
+                "extractDate": "2015-02-13",
+                "favoriteCount": 6,
+                "hasFavorite": true,
+                "id": 470956237,
+                "image": {
+                    "id": "7bb3a0ba5af6c70b42f74aacd84b62a4",
+                    "sizes": {
+                        "Best": {
+                            "actualHeight": 295,
+                            "actualWidth": 368,
+                            "height": 900,
+                            "sizeName": "Best",
+                            "url": "https://resources.shopstyle.com/pim/7b/b3/7bb3a0ba5af6c70b42f74aacd84b62a4_best.jpg",
+                            "width": 720
+                        },
+                        "IPhone": {
+                            "actualHeight": 231,
+                            "actualWidth": 288,
+                            "height": 360,
+                            "sizeName": "IPhone",
+                            "url": "https://resources.shopstyle.com/mim/7b/b3/7bb3a0ba5af6c70b42f74aacd84b62a4.jpg",
+                            "width": 288
+                        },
+                        "IPhoneSmall": {
+                            "actualHeight": 80,
+                            "actualWidth": 100,
+                            "height": 125,
+                            "sizeName": "IPhoneSmall",
+                            "url": "https://resources.shopstyle.com/mim/7b/b3/7bb3a0ba5af6c70b42f74aacd84b62a4_small.jpg",
+                            "width": 100
+                        },
+                        "Large": {
+                            "actualHeight": 131,
+                            "actualWidth": 164,
+                            "height": 205,
+                            "sizeName": "Large",
+                            "url": "https://resources.shopstyle.com/sim/7b/b3/7bb3a0ba5af6c70b42f74aacd84b62a4/bonpoint-infant-s-cherry-knit-cashmere-cardigan.jpg",
+                            "width": 164
+                        },
+                        "Medium": {
+                            "actualHeight": 90,
+                            "actualWidth": 112,
+                            "height": 140,
+                            "sizeName": "Medium",
+                            "url": "https://resources.shopstyle.com/sim/7b/b3/7bb3a0ba5af6c70b42f74aacd84b62a4_medium/bonpoint-infant-s-cherry-knit-cashmere-cardigan.jpg",
+                            "width": 112
+                        },
+                        "Original": {
+                            "actualHeight": 295,
+                            "actualWidth": 368,
+                            "sizeName": "Original",
+                            "url": "https://resources.shopstyle.com/pim/7b/b3/7bb3a0ba5af6c70b42f74aacd84b62a4_best.jpg"
+                        },
+                        "Small": {
+                            "actualHeight": 26,
+                            "actualWidth": 32,
+                            "height": 40,
+                            "sizeName": "Small",
+                            "url": "https://resources.shopstyle.com/pim/7b/b3/7bb3a0ba5af6c70b42f74aacd84b62a4_small.jpg",
+                            "width": 32
+                        },
+                        "XLarge": {
+                            "actualHeight": 263,
+                            "actualWidth": 328,
+                            "height": 410,
+                            "sizeName": "XLarge",
+                            "url": "https://resources.shopstyle.com/pim/7b/b3/7bb3a0ba5af6c70b42f74aacd84b62a4_xlarge.jpg",
+                            "width": 328
+                        }
+                    }
+                },
+                "inStock": true,
+                "lastModified": "2015-09-08",
+                "locale": "en_US",
+                "name": "Bonpoint Infant's Cherry Knit Cashmere Cardigan",
+                "pageUrl": "http://www.shopstyle.com/p/bonpoint-infant-s-cherry-knit-cashmere-cardigan/470956237?pid=iOS_app_v3",
+                "preOwned": false,
+                "price": 225,
+                "priceLabel": "$225",
+                "promotionalDeal": {
+                    "checkoutCode": "FREESHIP",
+                    "endDate": {
+                        "date": "2016-01-01",
+                        "friendly": "Thu, Dec 31",
+                        "timestamp": 1451631540
+                    },
+                    "id": 253957,
+                    "retailer": {
+                        "deeplinkSupport": true,
+                        "effectiveContentLocale": "en_US",
+                        "favIcon": "http://s3.amazonaws.com/extimg.shopstyle.com/favicons/retailers/Saks-Fifth-Avenue-US.ico",
+                        "handle": "Saks Fifth Avenue",
+                        "hostDomain": "saksfifthavenue.com",
+                        "id": "7",
+                        "logo": {
+                            "sizes": {
+                                "default": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default.png"
+                                },
+                                "default@2x": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default@2x.png"
+                                },
+                                "featured": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-featured.png"
+                                },
+                                "featured@2x": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-featured@2x.png"
+                                },
+                                "mobile": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-mobile.png"
+                                },
+                                "mobile@2x": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-mobile@2x.png"
+                                }
+                            }
+                        },
+                        "name": "Saks Fifth Avenue",
+                        "urlIdentifier": "Saks-Fifth-Avenue-US",
+                        "userHandle": "SaksFifthAvenue",
+                        "userId": 24965123,
+                        "userImage": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default@2x.png"
+                    },
+                    "shortTitle": "Free Shipping: FREESHIP",
+                    "startDate": {
+                        "date": "2015-02-06",
+                        "friendly": "Fri, Feb 6",
+                        "timestamp": 1423206000
+                    },
+                    "title": "Free Shipping: FREESHIP",
+                    "type": "FreeShipping",
+                    "typeLabel": "FREE SHIPPING"
+                },
+                "rental": false,
+                "retailer": {
+                    "effectiveContentLocale": "en_US",
+                    "favIcon": "http://s3.amazonaws.com/extimg.shopstyle.com/favicons/retailers/Saks-Fifth-Avenue-US.ico",
+                    "handle": "Saks Fifth Avenue",
+                    "id": "7",
+                    "logo": {
+                        "sizes": {
+                            "default": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default.png"
+                            },
+                            "default@2x": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default@2x.png"
+                            },
+                            "featured": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-featured.png"
+                            },
+                            "featured@2x": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-featured@2x.png"
+                            },
+                            "mobile": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-mobile.png"
+                            },
+                            "mobile@2x": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-mobile@2x.png"
+                            }
+                        }
+                    },
+                    "name": "Saks Fifth Avenue",
+                    "urlIdentifier": "Saks-Fifth-Avenue-US",
+                    "userHandle": "SaksFifthAvenue",
+                    "userId": 24965123,
+                    "userImage": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default@2x.png"
+                },
+                "seeMoreLabel": "Bonpoint Girls' Sweaters",
+                "seeMoreUrl": "http://www.shopstyle.com/browse/girls-sweaters/bonpoint",
+                "sizes": [
+                    {
+                        "canonicalSize": {
+                            "id": "321",
+                            "name": "12 Months (1T)"
+                        },
+                        "name": "12 MONTHS"
+                    }
+                ],
+                "stock": [
+                    {
+                        "color": {
+                            "name": "ROSE"
+                        },
+                        "size": {
+                            "name": "12 MONTHS"
+                        }
+                    }
+                ],
+                "unbrandedName": "Infant's Cherry Knit Cashmere Cardigan",
+                "urlIdentifier": "bonpoint-infant-s-cherry-knit-cashmere-cardigan"
+            },
             "productImageUrl": "https://resources.shopstyle.com/pim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21_best.jpg",
             "size": {
                 "canonicalSize": {
@@ -41,6 +639,305 @@
             "onSale": false,
             "price": 107.5,
             "priceLabel": "$107.50",
+            "product": {
+                "alternateImages": [],
+                "badges": [],
+                "brand": {
+                    "id": "30519",
+                    "name": "Bonpoint",
+                    "urlIdentifier": "bonpoint",
+                    "userHandle": "Bonpoint",
+                    "userId": 24956772,
+                    "userImage": "http://resources.shopstyle.com/im/default-profile-icon.png"
+                },
+                "brandedName": "Bonpoint Infant's Cherry Knit Cashmere Cardigan",
+                "categories": [
+                    {
+                        "id": "girls-sweaters",
+                        "localizedId": "girls-sweaters",
+                        "name": "Girls' Sweaters",
+                        "numId": 473,
+                        "shortName": "Sweaters"
+                    },
+                    {
+                        "id": "kids-sweaters",
+                        "localizedId": "kids-sweaters",
+                        "name": "Kids' Sweaters",
+                        "numId": 1588,
+                        "shortName": "Sweaters"
+                    }
+                ],
+                "clickUrl": "http://api.shopstyle.com/action/apiVisitRetailer?id=470956237&pid=iOS_app_v3",
+                "colors": [
+                    {
+                        "canonicalColors": [
+                            {
+                                "id": "17",
+                                "name": "Pink",
+                                "rank": 7
+                            }
+                        ],
+                        "image": {
+                            "id": "31caec73dc42e6215c8d7d81e6ce4d21",
+                            "sizes": {
+                                "Best": {
+                                    "actualHeight": 900,
+                                    "actualWidth": 720,
+                                    "height": 900,
+                                    "sizeName": "Best",
+                                    "url": "https://resources.shopstyle.com/pim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21_best.jpg",
+                                    "width": 720
+                                },
+                                "IPhone": {
+                                    "actualHeight": 360,
+                                    "actualWidth": 288,
+                                    "height": 360,
+                                    "sizeName": "IPhone",
+                                    "url": "https://resources.shopstyle.com/mim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21.jpg",
+                                    "width": 288
+                                },
+                                "IPhoneSmall": {
+                                    "actualHeight": 125,
+                                    "actualWidth": 100,
+                                    "height": 125,
+                                    "sizeName": "IPhoneSmall",
+                                    "url": "https://resources.shopstyle.com/mim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21_small.jpg",
+                                    "width": 100
+                                },
+                                "Large": {
+                                    "actualHeight": 205,
+                                    "actualWidth": 164,
+                                    "height": 205,
+                                    "sizeName": "Large",
+                                    "url": "https://resources.shopstyle.com/sim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21/bonpoint-infant-s-cherry-knit-cashmere-cardigan.jpg",
+                                    "width": 164
+                                },
+                                "Medium": {
+                                    "actualHeight": 140,
+                                    "actualWidth": 112,
+                                    "height": 140,
+                                    "sizeName": "Medium",
+                                    "url": "https://resources.shopstyle.com/sim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21_medium/bonpoint-infant-s-cherry-knit-cashmere-cardigan.jpg",
+                                    "width": 112
+                                },
+                                "Original": {
+                                    "sizeName": "Original",
+                                    "url": "https://resources.shopstyle.com/pim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21_best.jpg"
+                                },
+                                "Small": {
+                                    "actualHeight": 40,
+                                    "actualWidth": 32,
+                                    "height": 40,
+                                    "sizeName": "Small",
+                                    "url": "https://resources.shopstyle.com/pim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21_small.jpg",
+                                    "width": 32
+                                },
+                                "XLarge": {
+                                    "actualHeight": 410,
+                                    "actualWidth": 328,
+                                    "height": 410,
+                                    "sizeName": "XLarge",
+                                    "url": "https://resources.shopstyle.com/pim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21_xlarge.jpg",
+                                    "width": 328
+                                }
+                            }
+                        },
+                        "name": "ROSE"
+                    }
+                ],
+                "commentCount": 0,
+                "currency": "USD",
+                "description": "Open-knit detailing in a cherry motif lends a sweet touch to this ultra-soft cashmere cardigan.;Ribbed roundneck, cuffs and hem;Long sleeves;Button front;Open knit detail;Cashmere;Hand wash;Imported",
+                "extractDate": "2015-02-13",
+                "favoriteCount": 6,
+                "hasFavorite": true,
+                "id": 470956237,
+                "image": {
+                    "id": "7bb3a0ba5af6c70b42f74aacd84b62a4",
+                    "sizes": {
+                        "Best": {
+                            "actualHeight": 295,
+                            "actualWidth": 368,
+                            "height": 900,
+                            "sizeName": "Best",
+                            "url": "https://resources.shopstyle.com/pim/7b/b3/7bb3a0ba5af6c70b42f74aacd84b62a4_best.jpg",
+                            "width": 720
+                        },
+                        "IPhone": {
+                            "actualHeight": 231,
+                            "actualWidth": 288,
+                            "height": 360,
+                            "sizeName": "IPhone",
+                            "url": "https://resources.shopstyle.com/mim/7b/b3/7bb3a0ba5af6c70b42f74aacd84b62a4.jpg",
+                            "width": 288
+                        },
+                        "IPhoneSmall": {
+                            "actualHeight": 80,
+                            "actualWidth": 100,
+                            "height": 125,
+                            "sizeName": "IPhoneSmall",
+                            "url": "https://resources.shopstyle.com/mim/7b/b3/7bb3a0ba5af6c70b42f74aacd84b62a4_small.jpg",
+                            "width": 100
+                        },
+                        "Large": {
+                            "actualHeight": 131,
+                            "actualWidth": 164,
+                            "height": 205,
+                            "sizeName": "Large",
+                            "url": "https://resources.shopstyle.com/sim/7b/b3/7bb3a0ba5af6c70b42f74aacd84b62a4/bonpoint-infant-s-cherry-knit-cashmere-cardigan.jpg",
+                            "width": 164
+                        },
+                        "Medium": {
+                            "actualHeight": 90,
+                            "actualWidth": 112,
+                            "height": 140,
+                            "sizeName": "Medium",
+                            "url": "https://resources.shopstyle.com/sim/7b/b3/7bb3a0ba5af6c70b42f74aacd84b62a4_medium/bonpoint-infant-s-cherry-knit-cashmere-cardigan.jpg",
+                            "width": 112
+                        },
+                        "Original": {
+                            "actualHeight": 295,
+                            "actualWidth": 368,
+                            "sizeName": "Original",
+                            "url": "https://resources.shopstyle.com/pim/7b/b3/7bb3a0ba5af6c70b42f74aacd84b62a4_best.jpg"
+                        },
+                        "Small": {
+                            "actualHeight": 26,
+                            "actualWidth": 32,
+                            "height": 40,
+                            "sizeName": "Small",
+                            "url": "https://resources.shopstyle.com/pim/7b/b3/7bb3a0ba5af6c70b42f74aacd84b62a4_small.jpg",
+                            "width": 32
+                        },
+                        "XLarge": {
+                            "actualHeight": 263,
+                            "actualWidth": 328,
+                            "height": 410,
+                            "sizeName": "XLarge",
+                            "url": "https://resources.shopstyle.com/pim/7b/b3/7bb3a0ba5af6c70b42f74aacd84b62a4_xlarge.jpg",
+                            "width": 328
+                        }
+                    }
+                },
+                "inStock": true,
+                "lastModified": "2015-09-08",
+                "locale": "en_US",
+                "name": "Bonpoint Infant's Cherry Knit Cashmere Cardigan",
+                "pageUrl": "http://www.shopstyle.com/p/bonpoint-infant-s-cherry-knit-cashmere-cardigan/470956237?pid=iOS_app_v3",
+                "preOwned": false,
+                "price": 225,
+                "priceLabel": "$225",
+                "promotionalDeal": {
+                    "checkoutCode": "FREESHIP",
+                    "endDate": {
+                        "date": "2016-01-01",
+                        "friendly": "Thu, Dec 31",
+                        "timestamp": 1451631540
+                    },
+                    "id": 253957,
+                    "retailer": {
+                        "deeplinkSupport": true,
+                        "effectiveContentLocale": "en_US",
+                        "favIcon": "http://s3.amazonaws.com/extimg.shopstyle.com/favicons/retailers/Saks-Fifth-Avenue-US.ico",
+                        "handle": "Saks Fifth Avenue",
+                        "hostDomain": "saksfifthavenue.com",
+                        "id": "7",
+                        "logo": {
+                            "sizes": {
+                                "default": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default.png"
+                                },
+                                "default@2x": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default@2x.png"
+                                },
+                                "featured": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-featured.png"
+                                },
+                                "featured@2x": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-featured@2x.png"
+                                },
+                                "mobile": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-mobile.png"
+                                },
+                                "mobile@2x": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-mobile@2x.png"
+                                }
+                            }
+                        },
+                        "name": "Saks Fifth Avenue",
+                        "urlIdentifier": "Saks-Fifth-Avenue-US",
+                        "userHandle": "SaksFifthAvenue",
+                        "userId": 24965123,
+                        "userImage": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default@2x.png"
+                    },
+                    "shortTitle": "Free Shipping: FREESHIP",
+                    "startDate": {
+                        "date": "2015-02-06",
+                        "friendly": "Fri, Feb 6",
+                        "timestamp": 1423206000
+                    },
+                    "title": "Free Shipping: FREESHIP",
+                    "type": "FreeShipping",
+                    "typeLabel": "FREE SHIPPING"
+                },
+                "rental": false,
+                "retailer": {
+                    "effectiveContentLocale": "en_US",
+                    "favIcon": "http://s3.amazonaws.com/extimg.shopstyle.com/favicons/retailers/Saks-Fifth-Avenue-US.ico",
+                    "handle": "Saks Fifth Avenue",
+                    "id": "7",
+                    "logo": {
+                        "sizes": {
+                            "default": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default.png"
+                            },
+                            "default@2x": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default@2x.png"
+                            },
+                            "featured": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-featured.png"
+                            },
+                            "featured@2x": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-featured@2x.png"
+                            },
+                            "mobile": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-mobile.png"
+                            },
+                            "mobile@2x": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-mobile@2x.png"
+                            }
+                        }
+                    },
+                    "name": "Saks Fifth Avenue",
+                    "urlIdentifier": "Saks-Fifth-Avenue-US",
+                    "userHandle": "SaksFifthAvenue",
+                    "userId": 24965123,
+                    "userImage": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default@2x.png"
+                },
+                "seeMoreLabel": "Bonpoint Girls' Sweaters",
+                "seeMoreUrl": "http://www.shopstyle.com/browse/girls-sweaters/bonpoint",
+                "sizes": [
+                    {
+                        "canonicalSize": {
+                            "id": "321",
+                            "name": "12 Months (1T)"
+                        },
+                        "name": "12 MONTHS"
+                    }
+                ],
+                "stock": [
+                    {
+                        "color": {
+                            "name": "ROSE"
+                        },
+                        "size": {
+                            "name": "12 MONTHS"
+                        }
+                    }
+                ],
+                "unbrandedName": "Infant's Cherry Knit Cashmere Cardigan",
+                "urlIdentifier": "bonpoint-infant-s-cherry-knit-cashmere-cardigan"
+            },
             "productImageUrl": "https://resources.shopstyle.com/pim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21_best.jpg",
             "size": {
                 "canonicalSize": {
@@ -58,6 +955,305 @@
             "onSale": false,
             "price": 112.5,
             "priceLabel": "$112.50",
+            "product": {
+                "alternateImages": [],
+                "badges": [],
+                "brand": {
+                    "id": "30519",
+                    "name": "Bonpoint",
+                    "urlIdentifier": "bonpoint",
+                    "userHandle": "Bonpoint",
+                    "userId": 24956772,
+                    "userImage": "http://resources.shopstyle.com/im/default-profile-icon.png"
+                },
+                "brandedName": "Bonpoint Infant's Cherry Knit Cashmere Cardigan",
+                "categories": [
+                    {
+                        "id": "girls-sweaters",
+                        "localizedId": "girls-sweaters",
+                        "name": "Girls' Sweaters",
+                        "numId": 473,
+                        "shortName": "Sweaters"
+                    },
+                    {
+                        "id": "kids-sweaters",
+                        "localizedId": "kids-sweaters",
+                        "name": "Kids' Sweaters",
+                        "numId": 1588,
+                        "shortName": "Sweaters"
+                    }
+                ],
+                "clickUrl": "http://api.shopstyle.com/action/apiVisitRetailer?id=470956237&pid=iOS_app_v3",
+                "colors": [
+                    {
+                        "canonicalColors": [
+                            {
+                                "id": "17",
+                                "name": "Pink",
+                                "rank": 7
+                            }
+                        ],
+                        "image": {
+                            "id": "31caec73dc42e6215c8d7d81e6ce4d21",
+                            "sizes": {
+                                "Best": {
+                                    "actualHeight": 900,
+                                    "actualWidth": 720,
+                                    "height": 900,
+                                    "sizeName": "Best",
+                                    "url": "https://resources.shopstyle.com/pim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21_best.jpg",
+                                    "width": 720
+                                },
+                                "IPhone": {
+                                    "actualHeight": 360,
+                                    "actualWidth": 288,
+                                    "height": 360,
+                                    "sizeName": "IPhone",
+                                    "url": "https://resources.shopstyle.com/mim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21.jpg",
+                                    "width": 288
+                                },
+                                "IPhoneSmall": {
+                                    "actualHeight": 125,
+                                    "actualWidth": 100,
+                                    "height": 125,
+                                    "sizeName": "IPhoneSmall",
+                                    "url": "https://resources.shopstyle.com/mim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21_small.jpg",
+                                    "width": 100
+                                },
+                                "Large": {
+                                    "actualHeight": 205,
+                                    "actualWidth": 164,
+                                    "height": 205,
+                                    "sizeName": "Large",
+                                    "url": "https://resources.shopstyle.com/sim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21/bonpoint-infant-s-cherry-knit-cashmere-cardigan.jpg",
+                                    "width": 164
+                                },
+                                "Medium": {
+                                    "actualHeight": 140,
+                                    "actualWidth": 112,
+                                    "height": 140,
+                                    "sizeName": "Medium",
+                                    "url": "https://resources.shopstyle.com/sim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21_medium/bonpoint-infant-s-cherry-knit-cashmere-cardigan.jpg",
+                                    "width": 112
+                                },
+                                "Original": {
+                                    "sizeName": "Original",
+                                    "url": "https://resources.shopstyle.com/pim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21_best.jpg"
+                                },
+                                "Small": {
+                                    "actualHeight": 40,
+                                    "actualWidth": 32,
+                                    "height": 40,
+                                    "sizeName": "Small",
+                                    "url": "https://resources.shopstyle.com/pim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21_small.jpg",
+                                    "width": 32
+                                },
+                                "XLarge": {
+                                    "actualHeight": 410,
+                                    "actualWidth": 328,
+                                    "height": 410,
+                                    "sizeName": "XLarge",
+                                    "url": "https://resources.shopstyle.com/pim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21_xlarge.jpg",
+                                    "width": 328
+                                }
+                            }
+                        },
+                        "name": "ROSE"
+                    }
+                ],
+                "commentCount": 0,
+                "currency": "USD",
+                "description": "Open-knit detailing in a cherry motif lends a sweet touch to this ultra-soft cashmere cardigan.;Ribbed roundneck, cuffs and hem;Long sleeves;Button front;Open knit detail;Cashmere;Hand wash;Imported",
+                "extractDate": "2015-02-13",
+                "favoriteCount": 6,
+                "hasFavorite": true,
+                "id": 470956237,
+                "image": {
+                    "id": "7bb3a0ba5af6c70b42f74aacd84b62a4",
+                    "sizes": {
+                        "Best": {
+                            "actualHeight": 295,
+                            "actualWidth": 368,
+                            "height": 900,
+                            "sizeName": "Best",
+                            "url": "https://resources.shopstyle.com/pim/7b/b3/7bb3a0ba5af6c70b42f74aacd84b62a4_best.jpg",
+                            "width": 720
+                        },
+                        "IPhone": {
+                            "actualHeight": 231,
+                            "actualWidth": 288,
+                            "height": 360,
+                            "sizeName": "IPhone",
+                            "url": "https://resources.shopstyle.com/mim/7b/b3/7bb3a0ba5af6c70b42f74aacd84b62a4.jpg",
+                            "width": 288
+                        },
+                        "IPhoneSmall": {
+                            "actualHeight": 80,
+                            "actualWidth": 100,
+                            "height": 125,
+                            "sizeName": "IPhoneSmall",
+                            "url": "https://resources.shopstyle.com/mim/7b/b3/7bb3a0ba5af6c70b42f74aacd84b62a4_small.jpg",
+                            "width": 100
+                        },
+                        "Large": {
+                            "actualHeight": 131,
+                            "actualWidth": 164,
+                            "height": 205,
+                            "sizeName": "Large",
+                            "url": "https://resources.shopstyle.com/sim/7b/b3/7bb3a0ba5af6c70b42f74aacd84b62a4/bonpoint-infant-s-cherry-knit-cashmere-cardigan.jpg",
+                            "width": 164
+                        },
+                        "Medium": {
+                            "actualHeight": 90,
+                            "actualWidth": 112,
+                            "height": 140,
+                            "sizeName": "Medium",
+                            "url": "https://resources.shopstyle.com/sim/7b/b3/7bb3a0ba5af6c70b42f74aacd84b62a4_medium/bonpoint-infant-s-cherry-knit-cashmere-cardigan.jpg",
+                            "width": 112
+                        },
+                        "Original": {
+                            "actualHeight": 295,
+                            "actualWidth": 368,
+                            "sizeName": "Original",
+                            "url": "https://resources.shopstyle.com/pim/7b/b3/7bb3a0ba5af6c70b42f74aacd84b62a4_best.jpg"
+                        },
+                        "Small": {
+                            "actualHeight": 26,
+                            "actualWidth": 32,
+                            "height": 40,
+                            "sizeName": "Small",
+                            "url": "https://resources.shopstyle.com/pim/7b/b3/7bb3a0ba5af6c70b42f74aacd84b62a4_small.jpg",
+                            "width": 32
+                        },
+                        "XLarge": {
+                            "actualHeight": 263,
+                            "actualWidth": 328,
+                            "height": 410,
+                            "sizeName": "XLarge",
+                            "url": "https://resources.shopstyle.com/pim/7b/b3/7bb3a0ba5af6c70b42f74aacd84b62a4_xlarge.jpg",
+                            "width": 328
+                        }
+                    }
+                },
+                "inStock": true,
+                "lastModified": "2015-09-08",
+                "locale": "en_US",
+                "name": "Bonpoint Infant's Cherry Knit Cashmere Cardigan",
+                "pageUrl": "http://www.shopstyle.com/p/bonpoint-infant-s-cherry-knit-cashmere-cardigan/470956237?pid=iOS_app_v3",
+                "preOwned": false,
+                "price": 225,
+                "priceLabel": "$225",
+                "promotionalDeal": {
+                    "checkoutCode": "FREESHIP",
+                    "endDate": {
+                        "date": "2016-01-01",
+                        "friendly": "Thu, Dec 31",
+                        "timestamp": 1451631540
+                    },
+                    "id": 253957,
+                    "retailer": {
+                        "deeplinkSupport": true,
+                        "effectiveContentLocale": "en_US",
+                        "favIcon": "http://s3.amazonaws.com/extimg.shopstyle.com/favicons/retailers/Saks-Fifth-Avenue-US.ico",
+                        "handle": "Saks Fifth Avenue",
+                        "hostDomain": "saksfifthavenue.com",
+                        "id": "7",
+                        "logo": {
+                            "sizes": {
+                                "default": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default.png"
+                                },
+                                "default@2x": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default@2x.png"
+                                },
+                                "featured": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-featured.png"
+                                },
+                                "featured@2x": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-featured@2x.png"
+                                },
+                                "mobile": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-mobile.png"
+                                },
+                                "mobile@2x": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-mobile@2x.png"
+                                }
+                            }
+                        },
+                        "name": "Saks Fifth Avenue",
+                        "urlIdentifier": "Saks-Fifth-Avenue-US",
+                        "userHandle": "SaksFifthAvenue",
+                        "userId": 24965123,
+                        "userImage": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default@2x.png"
+                    },
+                    "shortTitle": "Free Shipping: FREESHIP",
+                    "startDate": {
+                        "date": "2015-02-06",
+                        "friendly": "Fri, Feb 6",
+                        "timestamp": 1423206000
+                    },
+                    "title": "Free Shipping: FREESHIP",
+                    "type": "FreeShipping",
+                    "typeLabel": "FREE SHIPPING"
+                },
+                "rental": false,
+                "retailer": {
+                    "effectiveContentLocale": "en_US",
+                    "favIcon": "http://s3.amazonaws.com/extimg.shopstyle.com/favicons/retailers/Saks-Fifth-Avenue-US.ico",
+                    "handle": "Saks Fifth Avenue",
+                    "id": "7",
+                    "logo": {
+                        "sizes": {
+                            "default": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default.png"
+                            },
+                            "default@2x": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default@2x.png"
+                            },
+                            "featured": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-featured.png"
+                            },
+                            "featured@2x": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-featured@2x.png"
+                            },
+                            "mobile": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-mobile.png"
+                            },
+                            "mobile@2x": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-mobile@2x.png"
+                            }
+                        }
+                    },
+                    "name": "Saks Fifth Avenue",
+                    "urlIdentifier": "Saks-Fifth-Avenue-US",
+                    "userHandle": "SaksFifthAvenue",
+                    "userId": 24965123,
+                    "userImage": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default@2x.png"
+                },
+                "seeMoreLabel": "Bonpoint Girls' Sweaters",
+                "seeMoreUrl": "http://www.shopstyle.com/browse/girls-sweaters/bonpoint",
+                "sizes": [
+                    {
+                        "canonicalSize": {
+                            "id": "321",
+                            "name": "12 Months (1T)"
+                        },
+                        "name": "12 MONTHS"
+                    }
+                ],
+                "stock": [
+                    {
+                        "color": {
+                            "name": "ROSE"
+                        },
+                        "size": {
+                            "name": "12 MONTHS"
+                        }
+                    }
+                ],
+                "unbrandedName": "Infant's Cherry Knit Cashmere Cardigan",
+                "urlIdentifier": "bonpoint-infant-s-cherry-knit-cashmere-cardigan"
+            },
             "productImageUrl": "https://resources.shopstyle.com/pim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21_best.jpg",
             "size": {
                 "canonicalSize": {
@@ -75,6 +1271,305 @@
             "onSale": false,
             "price": 112.5,
             "priceLabel": "$112.50",
+            "product": {
+                "alternateImages": [],
+                "badges": [],
+                "brand": {
+                    "id": "30519",
+                    "name": "Bonpoint",
+                    "urlIdentifier": "bonpoint",
+                    "userHandle": "Bonpoint",
+                    "userId": 24956772,
+                    "userImage": "http://resources.shopstyle.com/im/default-profile-icon.png"
+                },
+                "brandedName": "Bonpoint Infant's Cherry Knit Cashmere Cardigan",
+                "categories": [
+                    {
+                        "id": "girls-sweaters",
+                        "localizedId": "girls-sweaters",
+                        "name": "Girls' Sweaters",
+                        "numId": 473,
+                        "shortName": "Sweaters"
+                    },
+                    {
+                        "id": "kids-sweaters",
+                        "localizedId": "kids-sweaters",
+                        "name": "Kids' Sweaters",
+                        "numId": 1588,
+                        "shortName": "Sweaters"
+                    }
+                ],
+                "clickUrl": "http://api.shopstyle.com/action/apiVisitRetailer?id=470956237&pid=iOS_app_v3",
+                "colors": [
+                    {
+                        "canonicalColors": [
+                            {
+                                "id": "17",
+                                "name": "Pink",
+                                "rank": 7
+                            }
+                        ],
+                        "image": {
+                            "id": "31caec73dc42e6215c8d7d81e6ce4d21",
+                            "sizes": {
+                                "Best": {
+                                    "actualHeight": 900,
+                                    "actualWidth": 720,
+                                    "height": 900,
+                                    "sizeName": "Best",
+                                    "url": "https://resources.shopstyle.com/pim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21_best.jpg",
+                                    "width": 720
+                                },
+                                "IPhone": {
+                                    "actualHeight": 360,
+                                    "actualWidth": 288,
+                                    "height": 360,
+                                    "sizeName": "IPhone",
+                                    "url": "https://resources.shopstyle.com/mim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21.jpg",
+                                    "width": 288
+                                },
+                                "IPhoneSmall": {
+                                    "actualHeight": 125,
+                                    "actualWidth": 100,
+                                    "height": 125,
+                                    "sizeName": "IPhoneSmall",
+                                    "url": "https://resources.shopstyle.com/mim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21_small.jpg",
+                                    "width": 100
+                                },
+                                "Large": {
+                                    "actualHeight": 205,
+                                    "actualWidth": 164,
+                                    "height": 205,
+                                    "sizeName": "Large",
+                                    "url": "https://resources.shopstyle.com/sim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21/bonpoint-infant-s-cherry-knit-cashmere-cardigan.jpg",
+                                    "width": 164
+                                },
+                                "Medium": {
+                                    "actualHeight": 140,
+                                    "actualWidth": 112,
+                                    "height": 140,
+                                    "sizeName": "Medium",
+                                    "url": "https://resources.shopstyle.com/sim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21_medium/bonpoint-infant-s-cherry-knit-cashmere-cardigan.jpg",
+                                    "width": 112
+                                },
+                                "Original": {
+                                    "sizeName": "Original",
+                                    "url": "https://resources.shopstyle.com/pim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21_best.jpg"
+                                },
+                                "Small": {
+                                    "actualHeight": 40,
+                                    "actualWidth": 32,
+                                    "height": 40,
+                                    "sizeName": "Small",
+                                    "url": "https://resources.shopstyle.com/pim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21_small.jpg",
+                                    "width": 32
+                                },
+                                "XLarge": {
+                                    "actualHeight": 410,
+                                    "actualWidth": 328,
+                                    "height": 410,
+                                    "sizeName": "XLarge",
+                                    "url": "https://resources.shopstyle.com/pim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21_xlarge.jpg",
+                                    "width": 328
+                                }
+                            }
+                        },
+                        "name": "ROSE"
+                    }
+                ],
+                "commentCount": 0,
+                "currency": "USD",
+                "description": "Open-knit detailing in a cherry motif lends a sweet touch to this ultra-soft cashmere cardigan.;Ribbed roundneck, cuffs and hem;Long sleeves;Button front;Open knit detail;Cashmere;Hand wash;Imported",
+                "extractDate": "2015-02-13",
+                "favoriteCount": 6,
+                "hasFavorite": true,
+                "id": 470956237,
+                "image": {
+                    "id": "7bb3a0ba5af6c70b42f74aacd84b62a4",
+                    "sizes": {
+                        "Best": {
+                            "actualHeight": 295,
+                            "actualWidth": 368,
+                            "height": 900,
+                            "sizeName": "Best",
+                            "url": "https://resources.shopstyle.com/pim/7b/b3/7bb3a0ba5af6c70b42f74aacd84b62a4_best.jpg",
+                            "width": 720
+                        },
+                        "IPhone": {
+                            "actualHeight": 231,
+                            "actualWidth": 288,
+                            "height": 360,
+                            "sizeName": "IPhone",
+                            "url": "https://resources.shopstyle.com/mim/7b/b3/7bb3a0ba5af6c70b42f74aacd84b62a4.jpg",
+                            "width": 288
+                        },
+                        "IPhoneSmall": {
+                            "actualHeight": 80,
+                            "actualWidth": 100,
+                            "height": 125,
+                            "sizeName": "IPhoneSmall",
+                            "url": "https://resources.shopstyle.com/mim/7b/b3/7bb3a0ba5af6c70b42f74aacd84b62a4_small.jpg",
+                            "width": 100
+                        },
+                        "Large": {
+                            "actualHeight": 131,
+                            "actualWidth": 164,
+                            "height": 205,
+                            "sizeName": "Large",
+                            "url": "https://resources.shopstyle.com/sim/7b/b3/7bb3a0ba5af6c70b42f74aacd84b62a4/bonpoint-infant-s-cherry-knit-cashmere-cardigan.jpg",
+                            "width": 164
+                        },
+                        "Medium": {
+                            "actualHeight": 90,
+                            "actualWidth": 112,
+                            "height": 140,
+                            "sizeName": "Medium",
+                            "url": "https://resources.shopstyle.com/sim/7b/b3/7bb3a0ba5af6c70b42f74aacd84b62a4_medium/bonpoint-infant-s-cherry-knit-cashmere-cardigan.jpg",
+                            "width": 112
+                        },
+                        "Original": {
+                            "actualHeight": 295,
+                            "actualWidth": 368,
+                            "sizeName": "Original",
+                            "url": "https://resources.shopstyle.com/pim/7b/b3/7bb3a0ba5af6c70b42f74aacd84b62a4_best.jpg"
+                        },
+                        "Small": {
+                            "actualHeight": 26,
+                            "actualWidth": 32,
+                            "height": 40,
+                            "sizeName": "Small",
+                            "url": "https://resources.shopstyle.com/pim/7b/b3/7bb3a0ba5af6c70b42f74aacd84b62a4_small.jpg",
+                            "width": 32
+                        },
+                        "XLarge": {
+                            "actualHeight": 263,
+                            "actualWidth": 328,
+                            "height": 410,
+                            "sizeName": "XLarge",
+                            "url": "https://resources.shopstyle.com/pim/7b/b3/7bb3a0ba5af6c70b42f74aacd84b62a4_xlarge.jpg",
+                            "width": 328
+                        }
+                    }
+                },
+                "inStock": true,
+                "lastModified": "2015-09-08",
+                "locale": "en_US",
+                "name": "Bonpoint Infant's Cherry Knit Cashmere Cardigan",
+                "pageUrl": "http://www.shopstyle.com/p/bonpoint-infant-s-cherry-knit-cashmere-cardigan/470956237?pid=iOS_app_v3",
+                "preOwned": false,
+                "price": 225,
+                "priceLabel": "$225",
+                "promotionalDeal": {
+                    "checkoutCode": "FREESHIP",
+                    "endDate": {
+                        "date": "2016-01-01",
+                        "friendly": "Thu, Dec 31",
+                        "timestamp": 1451631540
+                    },
+                    "id": 253957,
+                    "retailer": {
+                        "deeplinkSupport": true,
+                        "effectiveContentLocale": "en_US",
+                        "favIcon": "http://s3.amazonaws.com/extimg.shopstyle.com/favicons/retailers/Saks-Fifth-Avenue-US.ico",
+                        "handle": "Saks Fifth Avenue",
+                        "hostDomain": "saksfifthavenue.com",
+                        "id": "7",
+                        "logo": {
+                            "sizes": {
+                                "default": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default.png"
+                                },
+                                "default@2x": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default@2x.png"
+                                },
+                                "featured": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-featured.png"
+                                },
+                                "featured@2x": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-featured@2x.png"
+                                },
+                                "mobile": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-mobile.png"
+                                },
+                                "mobile@2x": {
+                                    "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-mobile@2x.png"
+                                }
+                            }
+                        },
+                        "name": "Saks Fifth Avenue",
+                        "urlIdentifier": "Saks-Fifth-Avenue-US",
+                        "userHandle": "SaksFifthAvenue",
+                        "userId": 24965123,
+                        "userImage": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default@2x.png"
+                    },
+                    "shortTitle": "Free Shipping: FREESHIP",
+                    "startDate": {
+                        "date": "2015-02-06",
+                        "friendly": "Fri, Feb 6",
+                        "timestamp": 1423206000
+                    },
+                    "title": "Free Shipping: FREESHIP",
+                    "type": "FreeShipping",
+                    "typeLabel": "FREE SHIPPING"
+                },
+                "rental": false,
+                "retailer": {
+                    "effectiveContentLocale": "en_US",
+                    "favIcon": "http://s3.amazonaws.com/extimg.shopstyle.com/favicons/retailers/Saks-Fifth-Avenue-US.ico",
+                    "handle": "Saks Fifth Avenue",
+                    "id": "7",
+                    "logo": {
+                        "sizes": {
+                            "default": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default.png"
+                            },
+                            "default@2x": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default@2x.png"
+                            },
+                            "featured": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-featured.png"
+                            },
+                            "featured@2x": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-featured@2x.png"
+                            },
+                            "mobile": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-mobile.png"
+                            },
+                            "mobile@2x": {
+                                "url": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-mobile@2x.png"
+                            }
+                        }
+                    },
+                    "name": "Saks Fifth Avenue",
+                    "urlIdentifier": "Saks-Fifth-Avenue-US",
+                    "userHandle": "SaksFifthAvenue",
+                    "userId": 24965123,
+                    "userImage": "http://resources.shopstyle.com/im/retailers/logos/Saks_Fifth_Avenue-default@2x.png"
+                },
+                "seeMoreLabel": "Bonpoint Girls' Sweaters",
+                "seeMoreUrl": "http://www.shopstyle.com/browse/girls-sweaters/bonpoint",
+                "sizes": [
+                    {
+                        "canonicalSize": {
+                            "id": "321",
+                            "name": "12 Months (1T)"
+                        },
+                        "name": "12 MONTHS"
+                    }
+                ],
+                "stock": [
+                    {
+                        "color": {
+                            "name": "ROSE"
+                        },
+                        "size": {
+                            "name": "12 MONTHS"
+                        }
+                    }
+                ],
+                "unbrandedName": "Infant's Cherry Knit Cashmere Cardigan",
+                "urlIdentifier": "bonpoint-infant-s-cherry-knit-cashmere-cardigan"
+            },
             "productImageUrl": "https://resources.shopstyle.com/pim/31/ca/31caec73dc42e6215c8d7d81e6ce4d21_best.jpg",
             "size": {
                 "canonicalSize": {
