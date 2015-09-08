@@ -319,36 +319,37 @@
                                 "retailer": {
                                     "deeplinkSupport": true,
                                     "effectiveContentLocale": "en_US",
-                                    "handle": "Off 5th US",
-                                    "hostDomain": "saksoff5th.com",
-                                    "id": "1720",
+                                    "favIcon": "http://s3.amazonaws.com/extimg.shopstyle.com/favicons/retailers/DansStore.ico",
+                                    "handle": "Dan's Store",
+                                    "hostDomain": "dansstore.com",
+                                    "id": "1000000",
                                     "logo": {
                                         "sizes": {
                                             "default": {
-                                                "url": "http://resources.shopstyle.com/im/promos/offer-default.jpg"
+                                                "url": "http://resources.shopstyle.com/im/retailers/logos/dansstore.png"
                                             },
                                             "default@2x": {
-                                                "url": "http://resources.shopstyle.com/im/promos/offer-default@2x.jpg"
+                                                "url": "http://resources.shopstyle.com/im/retailers/logos/dansstore@2x.png"
                                             },
                                             "featured": {
-                                                "url": "http://resources.shopstyle.com/im/promos/offer-default.jpg"
+                                                "url": "http://resources.shopstyle.com/im/retailers/logos/dansstore.png"
                                             },
                                             "featured@2x": {
-                                                "url": "http://resources.shopstyle.com/im/promos/offer-default@2x.jpg"
+                                                "url": "http://resources.shopstyle.com/im/retailers/logos/dansstore@2x.png"
                                             },
                                             "mobile": {
-                                                "url": "http://resources.shopstyle.com/im/promos/offer-default.jpg"
+                                                "url": "http://resources.shopstyle.com/im/retailers/logos/dansstore.png"
                                             },
                                             "mobile@2x": {
-                                                "url": "http://resources.shopstyle.com/im/promos/offer-default@2x.jpg"
+                                                "url": "http://resources.shopstyle.com/im/retailers/logos/dansstore@2x.png"
                                             }
                                         }
                                     },
-                                    "name": "Off 5th",
-                                    "urlIdentifier": "Off-5th-US",
-                                    "userHandle": "Off5th",
-                                    "userId": 24974328,
-                                    "userImage": "http://resources.shopstyle.com/im/default-profile-icon.png"
+                                    "name": "Dan's Store",
+                                    "urlIdentifier": "Dans-Store",
+                                    "userHandle": "DansStore",
+                                    "userId": 1000000,
+                                    "userImage": "http://resources.shopstyle.com/im/retailers/logos/dansstore@2x.png"
                                 },
                                 "shortTitle": "Extra 20% Off: STEALS",
                                 "startDate": {
@@ -362,36 +363,39 @@
                             },
                             "rental": false,
                             "retailer": {
+                                "deeplinkSupport": true,
                                 "effectiveContentLocale": "en_US",
-                                "handle": "Off 5th US",
-                                "id": "1720",
+                                "favIcon": "http://s3.amazonaws.com/extimg.shopstyle.com/favicons/retailers/DansStore.ico",
+                                "handle": "Dan's Store",
+                                "hostDomain": "dansstore.com",
+                                "id": "1000000",
                                 "logo": {
                                     "sizes": {
                                         "default": {
-                                            "url": "http://resources.shopstyle.com/im/promos/offer-default.jpg"
+                                            "url": "http://resources.shopstyle.com/im/retailers/logos/dansstore.png"
                                         },
                                         "default@2x": {
-                                            "url": "http://resources.shopstyle.com/im/promos/offer-default@2x.jpg"
+                                            "url": "http://resources.shopstyle.com/im/retailers/logos/dansstore@2x.png"
                                         },
                                         "featured": {
-                                            "url": "http://resources.shopstyle.com/im/promos/offer-default.jpg"
+                                            "url": "http://resources.shopstyle.com/im/retailers/logos/dansstore.png"
                                         },
                                         "featured@2x": {
-                                            "url": "http://resources.shopstyle.com/im/promos/offer-default@2x.jpg"
+                                            "url": "http://resources.shopstyle.com/im/retailers/logos/dansstore@2x.png"
                                         },
                                         "mobile": {
-                                            "url": "http://resources.shopstyle.com/im/promos/offer-default.jpg"
+                                            "url": "http://resources.shopstyle.com/im/retailers/logos/dansstore.png"
                                         },
                                         "mobile@2x": {
-                                            "url": "http://resources.shopstyle.com/im/promos/offer-default@2x.jpg"
+                                            "url": "http://resources.shopstyle.com/im/retailers/logos/dansstore@2x.png"
                                         }
                                     }
                                 },
-                                "name": "Off 5th",
-                                "urlIdentifier": "Off-5th-US",
-                                "userHandle": "Off5th",
-                                "userId": 24974328,
-                                "userImage": "http://resources.shopstyle.com/im/default-profile-icon.png"
+                                "name": "Dan's Store",
+                                "urlIdentifier": "Dans-Store",
+                                "userHandle": "DansStore",
+                                "userId": 1000000,
+                                "userImage": "http://resources.shopstyle.com/im/retailers/logos/dansstore@2x.png"
                             },
                             "salePrice": 29.99,
                             "salePriceLabel": "$29.99",
