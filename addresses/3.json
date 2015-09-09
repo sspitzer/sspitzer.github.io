@@ -2,7 +2,7 @@
     "addresses": [
         {
             "address1": "111 Sutter St.",
-	    "address2: "14th Floor",
+	    "address2": "14th Floor",
             "city": "San Francisco",
             "country": "US",
             "email": "lag@popsugar.com"
