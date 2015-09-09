@@ -1,0 +1,17 @@
+{
+    "addresses": [
+        {
+            "address1": "111 Sutter St.",
+	    "address2: "14th Floor",
+            "city": "San Francisco",
+            "country": "US",
+            "email": "lag@popsugar.com"
+            "firstName": "Lee Anne",
+            "id": 44000402,
+            "lastName": "Grant",
+            "phone": "4158675309",
+            "postalCode": "941041",
+            "state": "CA"
+        }
+    ]
+}
