@@ -14,34 +14,27 @@
                     "unitPrice": 24.99,
                     "variant": {
                         "available": true,
-                        "color": "Sunnyside Gold",
-                        "id": "5528bc15e4b081cbd4084a38",
+                        "color": "Warm Orange",
+                        "id": "5528bc15e4b081cbd4084a24",
                         "name": "Women's Tunic - MeronaTM",
                         "onSale": false,
                         "price": 24.99,
                         "priceLabel": "$24.99",
-                        "selectedShippingOption": {
-                            "id": "1",
-                            "methodTitle": "Standard $5.00",
-                            "price": 5.0
+                        "productId": 486322237,
+                        "productImageUrl": "https://resources.shopstyle.com/pim/a1/b5/a1b5ff6e35b31178d020476891859807_best.jpg",
+                        "retailer": {
+                            "id": "3",
+                            "name": "Target",
+                            "userId": 24975130
                         },
-                        "variant": {
-                            "productId": 486322237,
-                            "productImageUrl": "https://resources.shopstyle.com/pim/77/90/77900884150d6b73f94bbf3b95284fae_best.jpg",
-                            "retailer": {
-                                "id": "3",
-                                "name": "Target",
-                                "userId": 24975130
+                        "size": {
+                            "canonicalSize": {
+                                "id": "1169",
+                                "name": "XXL (20-22)"
                             },
-                            "size": {
-                                "canonicalSize": {
-                                    "id": "89",
-                                    "name": "XL (16-18)"
-                                },
-                                "name": "XL"
-                            },
-                            "sku": "208631599"
-                        }
+                            "name": "XXL"
+                        },
+                        "sku": "208631678"
                     }
                 }
             ],
