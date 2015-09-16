@@ -10,37 +10,8 @@
             "priceLabel": "$24.99",
             "productImageUrl": "https://resources.shopstyle.com/pim/a1/b5/a1b5ff6e35b31178d020476891859807_best.jpg",
             "retailer": {
-                "effectiveContentLocale": "en_US",
-                "favIcon": "http://s3.amazonaws.com/extimg.shopstyle-test.com/favicons/retailers/Target-US.ico",
-                "handle": "Target",
                 "id": "3",
-                "logo": {
-                    "sizes": {
-                        "default": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-default.png"
-                        },
-                        "default@2x": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-default@2x.png"
-                        },
-                        "featured": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-featured.png"
-                        },
-                        "featured@2x": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-featured@2x.png"
-                        },
-                        "mobile": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-mobile.png"
-                        },
-                        "mobile@2x": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-mobile@2x.png"
-                        }
-                    }
-                },
-                "name": "Target",
-                "urlIdentifier": "Target-US",
-                "userHandle": "Target",
-                "userId": 24975130,
-                "userImage": "http://s3resources.shopstyle.com/im/retailers/logos/Target-default@2x.png"
+                "name": "Target"
             },
             "size": {
                 "canonicalSize": {
@@ -61,37 +32,8 @@
             "priceLabel": "$24.99",
             "productImageUrl": "https://resources.shopstyle.com/pim/a1/b5/a1b5ff6e35b31178d020476891859807_best.jpg",
             "retailer": {
-                "effectiveContentLocale": "en_US",
-                "favIcon": "http://s3.amazonaws.com/extimg.shopstyle-test.com/favicons/retailers/Target-US.ico",
-                "handle": "Target",
                 "id": "3",
-                "logo": {
-                    "sizes": {
-                        "default": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-default.png"
-                        },
-                        "default@2x": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-default@2x.png"
-                        },
-                        "featured": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-featured.png"
-                        },
-                        "featured@2x": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-featured@2x.png"
-                        },
-                        "mobile": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-mobile.png"
-                        },
-                        "mobile@2x": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-mobile@2x.png"
-                        }
-                    }
-                },
-                "name": "Target",
-                "urlIdentifier": "Target-US",
-                "userHandle": "Target",
-                "userId": 24975130,
-                "userImage": "http://s3resources.shopstyle.com/im/retailers/logos/Target-default@2x.png"
+                "name": "Target"
             },
             "size": {
                 "canonicalSize": {
@@ -112,37 +54,8 @@
             "priceLabel": "$24.99",
             "productImageUrl": "https://resources.shopstyle.com/pim/a1/b5/a1b5ff6e35b31178d020476891859807_best.jpg",
             "retailer": {
-                "effectiveContentLocale": "en_US",
-                "favIcon": "http://s3.amazonaws.com/extimg.shopstyle-test.com/favicons/retailers/Target-US.ico",
-                "handle": "Target",
                 "id": "3",
-                "logo": {
-                    "sizes": {
-                        "default": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-default.png"
-                        },
-                        "default@2x": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-default@2x.png"
-                        },
-                        "featured": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-featured.png"
-                        },
-                        "featured@2x": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-featured@2x.png"
-                        },
-                        "mobile": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-mobile.png"
-                        },
-                        "mobile@2x": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-mobile@2x.png"
-                        }
-                    }
-                },
-                "name": "Target",
-                "urlIdentifier": "Target-US",
-                "userHandle": "Target",
-                "userId": 24975130,
-                "userImage": "http://s3resources.shopstyle.com/im/retailers/logos/Target-default@2x.png"
+                "name": "Target"
             },
             "size": {
                 "canonicalSize": {
@@ -163,37 +76,8 @@
             "priceLabel": "$24.99",
             "productImageUrl": "https://resources.shopstyle.com/pim/a1/b5/a1b5ff6e35b31178d020476891859807_best.jpg",
             "retailer": {
-                "effectiveContentLocale": "en_US",
-                "favIcon": "http://s3.amazonaws.com/extimg.shopstyle-test.com/favicons/retailers/Target-US.ico",
-                "handle": "Target",
                 "id": "3",
-                "logo": {
-                    "sizes": {
-                        "default": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-default.png"
-                        },
-                        "default@2x": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-default@2x.png"
-                        },
-                        "featured": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-featured.png"
-                        },
-                        "featured@2x": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-featured@2x.png"
-                        },
-                        "mobile": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-mobile.png"
-                        },
-                        "mobile@2x": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-mobile@2x.png"
-                        }
-                    }
-                },
-                "name": "Target",
-                "urlIdentifier": "Target-US",
-                "userHandle": "Target",
-                "userId": 24975130,
-                "userImage": "http://s3resources.shopstyle.com/im/retailers/logos/Target-default@2x.png"
+                "name": "Target"
             },
             "size": {
                 "canonicalSize": {
@@ -214,37 +98,8 @@
             "priceLabel": "$24.99",
             "productImageUrl": "https://resources.shopstyle.com/pim/a1/b5/a1b5ff6e35b31178d020476891859807_best.jpg",
             "retailer": {
-                "effectiveContentLocale": "en_US",
-                "favIcon": "http://s3.amazonaws.com/extimg.shopstyle-test.com/favicons/retailers/Target-US.ico",
-                "handle": "Target",
                 "id": "3",
-                "logo": {
-                    "sizes": {
-                        "default": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-default.png"
-                        },
-                        "default@2x": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-default@2x.png"
-                        },
-                        "featured": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-featured.png"
-                        },
-                        "featured@2x": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-featured@2x.png"
-                        },
-                        "mobile": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-mobile.png"
-                        },
-                        "mobile@2x": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-mobile@2x.png"
-                        }
-                    }
-                },
-                "name": "Target",
-                "urlIdentifier": "Target-US",
-                "userHandle": "Target",
-                "userId": 24975130,
-                "userImage": "http://s3resources.shopstyle.com/im/retailers/logos/Target-default@2x.png"
+                "name": "Target"
             },
             "size": {
                 "canonicalSize": {
@@ -265,37 +120,8 @@
             "priceLabel": "$24.99",
             "productImageUrl": "https://resources.shopstyle.com/pim/a1/b5/a1b5ff6e35b31178d020476891859807_best.jpg",
             "retailer": {
-                "effectiveContentLocale": "en_US",
-                "favIcon": "http://s3.amazonaws.com/extimg.shopstyle-test.com/favicons/retailers/Target-US.ico",
-                "handle": "Target",
                 "id": "3",
-                "logo": {
-                    "sizes": {
-                        "default": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-default.png"
-                        },
-                        "default@2x": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-default@2x.png"
-                        },
-                        "featured": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-featured.png"
-                        },
-                        "featured@2x": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-featured@2x.png"
-                        },
-                        "mobile": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-mobile.png"
-                        },
-                        "mobile@2x": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-mobile@2x.png"
-                        }
-                    }
-                },
-                "name": "Target",
-                "urlIdentifier": "Target-US",
-                "userHandle": "Target",
-                "userId": 24975130,
-                "userImage": "http://s3resources.shopstyle.com/im/retailers/logos/Target-default@2x.png"
+                "name": "Target"
             },
             "size": {
                 "canonicalSize": {
@@ -316,37 +142,8 @@
             "priceLabel": "$24.99",
             "productImageUrl": "https://resources.shopstyle.com/pim/77/90/77900884150d6b73f94bbf3b95284fae_best.jpg",
             "retailer": {
-                "effectiveContentLocale": "en_US",
-                "favIcon": "http://s3.amazonaws.com/extimg.shopstyle-test.com/favicons/retailers/Target-US.ico",
-                "handle": "Target",
                 "id": "3",
-                "logo": {
-                    "sizes": {
-                        "default": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-default.png"
-                        },
-                        "default@2x": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-default@2x.png"
-                        },
-                        "featured": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-featured.png"
-                        },
-                        "featured@2x": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-featured@2x.png"
-                        },
-                        "mobile": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-mobile.png"
-                        },
-                        "mobile@2x": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-mobile@2x.png"
-                        }
-                    }
-                },
-                "name": "Target",
-                "urlIdentifier": "Target-US",
-                "userHandle": "Target",
-                "userId": 24975130,
-                "userImage": "http://s3resources.shopstyle.com/im/retailers/logos/Target-default@2x.png"
+                "name": "Target"
             },
             "size": {
                 "canonicalSize": {
@@ -367,37 +164,8 @@
             "priceLabel": "$24.99",
             "productImageUrl": "https://resources.shopstyle.com/pim/77/90/77900884150d6b73f94bbf3b95284fae_best.jpg",
             "retailer": {
-                "effectiveContentLocale": "en_US",
-                "favIcon": "http://s3.amazonaws.com/extimg.shopstyle-test.com/favicons/retailers/Target-US.ico",
-                "handle": "Target",
                 "id": "3",
-                "logo": {
-                    "sizes": {
-                        "default": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-default.png"
-                        },
-                        "default@2x": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-default@2x.png"
-                        },
-                        "featured": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-featured.png"
-                        },
-                        "featured@2x": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-featured@2x.png"
-                        },
-                        "mobile": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-mobile.png"
-                        },
-                        "mobile@2x": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-mobile@2x.png"
-                        }
-                    }
-                },
-                "name": "Target",
-                "urlIdentifier": "Target-US",
-                "userHandle": "Target",
-                "userId": 24975130,
-                "userImage": "http://s3resources.shopstyle.com/im/retailers/logos/Target-default@2x.png"
+                "name": "Target"
             },
             "size": {
                 "canonicalSize": {
@@ -418,37 +186,8 @@
             "priceLabel": "$24.99",
             "productImageUrl": "https://resources.shopstyle.com/pim/77/90/77900884150d6b73f94bbf3b95284fae_best.jpg",
             "retailer": {
-                "effectiveContentLocale": "en_US",
-                "favIcon": "http://s3.amazonaws.com/extimg.shopstyle-test.com/favicons/retailers/Target-US.ico",
-                "handle": "Target",
                 "id": "3",
-                "logo": {
-                    "sizes": {
-                        "default": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-default.png"
-                        },
-                        "default@2x": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-default@2x.png"
-                        },
-                        "featured": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-featured.png"
-                        },
-                        "featured@2x": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-featured@2x.png"
-                        },
-                        "mobile": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-mobile.png"
-                        },
-                        "mobile@2x": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-mobile@2x.png"
-                        }
-                    }
-                },
-                "name": "Target",
-                "urlIdentifier": "Target-US",
-                "userHandle": "Target",
-                "userId": 24975130,
-                "userImage": "http://s3resources.shopstyle.com/im/retailers/logos/Target-default@2x.png"
+                "name": "Target"
             },
             "size": {
                 "canonicalSize": {
@@ -469,37 +208,8 @@
             "priceLabel": "$24.99",
             "productImageUrl": "https://resources.shopstyle.com/pim/77/90/77900884150d6b73f94bbf3b95284fae_best.jpg",
             "retailer": {
-                "effectiveContentLocale": "en_US",
-                "favIcon": "http://s3.amazonaws.com/extimg.shopstyle-test.com/favicons/retailers/Target-US.ico",
-                "handle": "Target",
                 "id": "3",
-                "logo": {
-                    "sizes": {
-                        "default": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-default.png"
-                        },
-                        "default@2x": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-default@2x.png"
-                        },
-                        "featured": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-featured.png"
-                        },
-                        "featured@2x": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-featured@2x.png"
-                        },
-                        "mobile": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-mobile.png"
-                        },
-                        "mobile@2x": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-mobile@2x.png"
-                        }
-                    }
-                },
-                "name": "Target",
-                "urlIdentifier": "Target-US",
-                "userHandle": "Target",
-                "userId": 24975130,
-                "userImage": "http://s3resources.shopstyle.com/im/retailers/logos/Target-default@2x.png"
+                "name": "Target"
             },
             "size": {
                 "canonicalSize": {
@@ -520,37 +230,8 @@
             "priceLabel": "$24.99",
             "productImageUrl": "https://resources.shopstyle.com/pim/77/90/77900884150d6b73f94bbf3b95284fae_best.jpg",
             "retailer": {
-                "effectiveContentLocale": "en_US",
-                "favIcon": "http://s3.amazonaws.com/extimg.shopstyle-test.com/favicons/retailers/Target-US.ico",
-                "handle": "Target",
                 "id": "3",
-                "logo": {
-                    "sizes": {
-                        "default": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-default.png"
-                        },
-                        "default@2x": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-default@2x.png"
-                        },
-                        "featured": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-featured.png"
-                        },
-                        "featured@2x": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-featured@2x.png"
-                        },
-                        "mobile": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-mobile.png"
-                        },
-                        "mobile@2x": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-mobile@2x.png"
-                        }
-                    }
-                },
-                "name": "Target",
-                "urlIdentifier": "Target-US",
-                "userHandle": "Target",
-                "userId": 24975130,
-                "userImage": "http://s3resources.shopstyle.com/im/retailers/logos/Target-default@2x.png"
+                "name": "Target"
             },
             "size": {
                 "canonicalSize": {
@@ -571,37 +252,8 @@
             "priceLabel": "$24.99",
             "productImageUrl": "https://resources.shopstyle.com/pim/77/90/77900884150d6b73f94bbf3b95284fae_best.jpg",
             "retailer": {
-                "effectiveContentLocale": "en_US",
-                "favIcon": "http://s3.amazonaws.com/extimg.shopstyle-test.com/favicons/retailers/Target-US.ico",
-                "handle": "Target",
                 "id": "3",
-                "logo": {
-                    "sizes": {
-                        "default": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-default.png"
-                        },
-                        "default@2x": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-default@2x.png"
-                        },
-                        "featured": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-featured.png"
-                        },
-                        "featured@2x": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-featured@2x.png"
-                        },
-                        "mobile": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-mobile.png"
-                        },
-                        "mobile@2x": {
-                            "url": "http://s3resources.shopstyle.com/im/retailers/logos/Target-mobile@2x.png"
-                        }
-                    }
-                },
-                "name": "Target",
-                "urlIdentifier": "Target-US",
-                "userHandle": "Target",
-                "userId": 24975130,
-                "userImage": "http://s3resources.shopstyle.com/im/retailers/logos/Target-default@2x.png"
+                "name": "Target"
             },
             "size": {
                 "canonicalSize": {
