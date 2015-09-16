@@ -1378,6 +1378,7 @@
         }
     ],
     "shippingAddress": {
+"id" : 123,
         "address1": "1 Test Lane",
         "city": "Walnut Creek",
         "country": "US",
