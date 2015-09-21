@@ -1,0 +1,119 @@
+{
+    "variants": [
+        {
+            "available": true,
+            "color": "MINK GREY",
+            "id": "5045458927887",
+            "name": "Baby's Sleeveless Check Blouse",
+            "onSale": false,
+            "price": 86.25,
+            "priceLabel": "$86.25",
+            "productId": 479478195,
+            "productImageUrl": "http://s3resources.shopstyle.com/pim/37/61/37610ea436517fe853f4a3be2f633020_best.jpg",
+            "retailer": {
+                "id": 7,
+                "name": "Saks Fifth Avenue"
+            },
+            "size": {
+                "canonicalSize": {
+                    "id": "320",
+                    "name": "baby-9m"
+                },
+                "name": "9 MONTHS"
+            },
+            "sku": "5045458927887"
+        },
+        {
+            "available": true,
+            "color": "MINK GREY",
+            "id": "5045458927795",
+            "name": "Baby's Sleeveless Check Blouse",
+            "onSale": false,
+            "price": 86.25,
+            "priceLabel": "$86.25",
+            "productId": 479478195,
+            "productImageUrl": "http://s3resources.shopstyle.com/pim/37/61/37610ea436517fe853f4a3be2f633020_best.jpg",
+            "retailer": {
+                "id": 7,
+                "name": "Saks Fifth Avenue"
+            },
+            "size": {
+                "canonicalSize": {
+                    "id": "318",
+                    "name": "baby-3m"
+                },
+                "name": "3 MONTHS"
+            },
+            "sku": "5045458927795"
+        },
+        {
+            "available": true,
+            "color": "MINK GREY",
+            "id": "5045458927702",
+            "name": "Baby's Sleeveless Check Blouse",
+            "onSale": false,
+            "price": 86.25,
+            "priceLabel": "$86.25",
+            "productId": 479478195,
+            "productImageUrl": "http://s3resources.shopstyle.com/pim/37/61/37610ea436517fe853f4a3be2f633020_best.jpg",
+            "retailer": {
+                "id": 7,
+                "name": "Saks Fifth Avenue"
+            },
+            "size": {
+                "canonicalSize": {
+                    "id": "321",
+                    "name": "baby-12m"
+                },
+                "name": "12 MONTHS"
+            },
+            "sku": "5045458927702"
+        },
+        {
+            "available": true,
+            "color": "MINK GREY",
+            "id": "5045458927856",
+            "name": "Baby's Sleeveless Check Blouse",
+            "onSale": false,
+            "price": 86.25,
+            "priceLabel": "$86.25",
+            "productId": 479478195,
+            "productImageUrl": "http://s3resources.shopstyle.com/pim/37/61/37610ea436517fe853f4a3be2f633020_best.jpg",
+            "retailer": {
+                "id": 7,
+                "name": "Saks Fifth Avenue"
+            },
+            "size": {
+                "canonicalSize": {
+                    "id": "319",
+                    "name": "baby-6m"
+                },
+                "name": "6 MONTHS"
+            },
+            "sku": "5045458927856"
+        },
+        {
+            "available": true,
+            "color": "MINK GREY",
+            "id": "5045458927733",
+            "name": "Baby's Sleeveless Check Blouse",
+            "onSale": false,
+            "price": 86.25,
+            "priceLabel": "$86.25",
+            "productId": 479478195,
+            "productImageUrl": "http://s3resources.shopstyle.com/pim/37/61/37610ea436517fe853f4a3be2f633020_best.jpg",
+            "retailer": {
+                "id": 7,
+                "name": "Saks Fifth Avenue"
+            },
+            "size": {
+                "canonicalSize": {
+                    "id": "322",
+                    "name": "baby-18m"
+                },
+                "name": "18 MONTHS"
+            },
+            "sku": "5045458927733"
+        }
+    ]
+}
