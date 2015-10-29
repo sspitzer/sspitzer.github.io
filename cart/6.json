@@ -50,6 +50,7 @@
             }
         }
     ],
+    "numItems": 1,
     "shippingAddress": {
         "address1": "1 Test Lane",
         "city": "Walnut Creek",
