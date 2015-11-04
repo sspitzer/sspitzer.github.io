@@ -8,10 +8,9 @@
                 "billingAddress": {
                     "address1": "70 Anderson",
                     "city": "SF",
-                    "country": "US",
+                    "countryCode": "US",
                     "email": "sspitzer@popsugar.com",
                     "name": "Seth Spitzer",
-                    "id": 1901,
                     "phone": "1231231234",
                     "postalCode": "94110",
                     "state": "CA"
@@ -155,9 +154,8 @@
                     "name": "Seth Spitzer",
                     "address1": "70 Anderson",
                     "city": "SF",
-                    "country": "US",
+                    "countryCode": "US",
                     "email": "sspitzer@popsugar.com",
-                    "id": 1901,
                     "phone": "1231231234",
                     "postalCode": "94110",
                     "state": "CA"
@@ -257,9 +255,8 @@
                     "name": "Seth Spitzer",
                     "address1": "70 Anderson",
                     "city": "SF",
-                    "country": "US",
+                    "countryCode": "US",
                     "email": "sspitzer@popsugar.com",
-                    "id": 1901,
                     "phone": "1231231234",
                     "postalCode": "94110",
                     "state": "CA"
@@ -393,9 +390,8 @@
                     "name": "Seth Spitzer",
                     "address1": "70 Anderson",
                     "city": "SF",
-                    "country": "US",
+                    "countryCode": "US",
                     "email": "sspitzer@popsugar.com",
-                    "id": 1901,
                     "phone": "1231231234",
                     "postalCode": "94110",
                     "state": "CA"
