@@ -10,9 +10,8 @@
                     "city": "SF",
                     "country": "US",
                     "email": "sspitzer@popsugar.com",
-                    "firstName": "Seth",
+                    "name": "Seth Spitzer",
                     "id": 1901,
-                    "lastName": "Spitzer",
                     "phone": "1231231234",
                     "postalCode": "94110",
                     "state": "CA"
@@ -153,13 +152,12 @@
             },
             "creditCard": {
                 "billingAddress": {
+                    "name": "Seth Spitzer",
                     "address1": "70 Anderson",
                     "city": "SF",
                     "country": "US",
                     "email": "sspitzer@popsugar.com",
-                    "firstName": "Seth",
                     "id": 1901,
-                    "lastName": "Spitzer",
                     "phone": "1231231234",
                     "postalCode": "94110",
                     "state": "CA"
@@ -256,13 +254,12 @@
             },
             "creditCard": {
                 "billingAddress": {
+                    "name": "Seth Spitzer",
                     "address1": "70 Anderson",
                     "city": "SF",
                     "country": "US",
                     "email": "sspitzer@popsugar.com",
-                    "firstName": "Seth",
                     "id": 1901,
-                    "lastName": "Spitzer",
                     "phone": "1231231234",
                     "postalCode": "94110",
                     "state": "CA"
@@ -393,13 +390,12 @@
             },
             "creditCard": {
                 "billingAddress": {
+                    "name": "Seth Spitzer",
                     "address1": "70 Anderson",
                     "city": "SF",
                     "country": "US",
                     "email": "sspitzer@popsugar.com",
-                    "firstName": "Seth",
                     "id": 1901,
-                    "lastName": "Spitzer",
                     "phone": "1231231234",
                     "postalCode": "94110",
                     "state": "CA"
