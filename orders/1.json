@@ -70,6 +70,7 @@
                         "name": "Saks Fifth Avenue",
                         "returnPolicyUrl": "http://www.saksfifthavenue.com/Shipping-Returns-Taxes"
                     },
+                    "retailerOrderId": "abc1",
                     "shippingOption": {
                         "id": "2",
                         "methodTitle": "Express",
@@ -114,6 +115,7 @@
                         "id": 3,
                         "name": "Target"
                     },
+                    "retailerOrderId": "abc2",
                     "shippingOption": {
                         "id": "2",
                         "methodTitle": "Express",
@@ -127,12 +129,12 @@
                 }
             ],
             "shippingAddress": {
-"id" : 1,
                 "address1": "70 Anderson",
                 "city": "SF",
                 "country": "US",
                 "email": "sspitzer@popsugar.com",
                 "firstName": "Seth",
+                "id": 1,
                 "lastName": "Spitzer",
                 "phone": "1231231234",
                 "postalCode": "94110",
@@ -150,10 +152,10 @@
             },
             "creditCard": {
                 "billingAddress": {
-                    "name": "Seth Spitzer",
                     "address1": "70 Anderson",
                     "city": "SF",
                     "countryCode": "US",
+                    "name": "Seth Spitzer",
                     "phone": "1231231234",
                     "postalCode": "94110",
                     "state": "CA"
@@ -214,6 +216,7 @@
                         "name": "Saks Fifth Avenue",
                         "returnPolicyUrl": "http://www.saksfifthavenue.com/Shipping-Returns-Taxes"
                     },
+                    "retailerOrderId": "abc3",
                     "shippingOption": {
                         "id": "2",
                         "methodTitle": "Express",
@@ -227,12 +230,12 @@
                 }
             ],
             "shippingAddress": {
-"id" : 1,
                 "address1": "70 Anderson",
                 "city": "SF",
                 "country": "US",
                 "email": "sspitzer@popsugar.com",
                 "firstName": "Seth",
+                "id": 1,
                 "lastName": "Spitzer",
                 "phone": "1231231234",
                 "postalCode": "94110",
@@ -250,10 +253,10 @@
             },
             "creditCard": {
                 "billingAddress": {
-                    "name": "Seth Spitzer",
                     "address1": "70 Anderson",
                     "city": "SF",
                     "countryCode": "US",
+                    "name": "Seth Spitzer",
                     "phone": "1231231234",
                     "postalCode": "94110",
                     "state": "CA"
@@ -348,6 +351,7 @@
                         "name": "Saks Fifth Avenue",
                         "returnPolicyUrl": "http://www.saksfifthavenue.com/Shipping-Returns-Taxes"
                     },
+                    "retailerOrderId": "abc4",
                     "shippingOption": {
                         "id": "2",
                         "methodTitle": "Express",
@@ -361,12 +365,12 @@
                 }
             ],
             "shippingAddress": {
-"id" : 1,
                 "address1": "70 Anderson",
                 "city": "SF",
                 "country": "US",
                 "email": "sspitzer@popsugar.com",
                 "firstName": "Seth",
+                "id": 1,
                 "lastName": "Spitzer",
                 "phone": "1231231234",
                 "postalCode": "94110",
@@ -384,10 +388,10 @@
             },
             "creditCard": {
                 "billingAddress": {
-                    "name": "Seth Spitzer",
                     "address1": "70 Anderson",
                     "city": "SF",
                     "countryCode": "US",
+                    "name": "Seth Spitzer",
                     "phone": "1231231234",
                     "postalCode": "94110",
                     "state": "CA"
@@ -448,6 +452,7 @@
                         "name": "Saks Fifth Avenue",
                         "returnPolicyUrl": "http://www.saksfifthavenue.com/Shipping-Returns-Taxes"
                     },
+                    "retailerOrderId": "abc1",
                     "shippingOption": {
                         "id": "1",
                         "methodTitle": "Standard $0.00",
@@ -461,12 +466,12 @@
                 }
             ],
             "shippingAddress": {
-"id" : 1,
                 "address1": "70 Anderson",
                 "city": "SF",
                 "country": "US",
                 "email": "sspitzer@popsugar.com",
                 "firstName": "Seth",
+                "id": 1,
                 "lastName": "Spitzer",
                 "phone": "1231231234",
                 "postalCode": "94110",
