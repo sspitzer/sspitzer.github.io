@@ -1,7 +1,9 @@
 {
     "items": [
         {
-            "created": 1444932946511,
+            "created": {
+                "timestamp": 1444932946511
+            },
             "creditCard": {
                 "billingAddress": {
                     "address1": "70 Anderson",
@@ -145,7 +147,9 @@
             "total": "$856.49"
         },
         {
-            "created": 1444932610641,
+            "created": {
+                "timestamp": 1444932610641
+            },
             "creditCard": {
                 "billingAddress": {
                     "address1": "70 Anderson",
@@ -168,7 +172,7 @@
                 "id": "561feab62deba34fb9e3cec1",
                 "lastFour": "4242"
             },
-            "id": 4708,
+            "id": "4708",
             "lastModified": 1444932610641,
             "numItems": 1,
             "orderlets": [
@@ -245,7 +249,9 @@
             "total": "$765"
         },
         {
-            "created": 1444932547301,
+            "created": {
+                "timestamp": 1444932547301
+            },
             "creditCard": {
                 "billingAddress": {
                     "address1": "70 Anderson",
@@ -268,7 +274,7 @@
                 "id": "561feab62deba34fb9e3cec1",
                 "lastFour": "4242"
             },
-            "id": 4704,
+            "id": "4704",
             "lastModified": 1444932547301,
             "numItems": 3,
             "orderlets": [
@@ -379,7 +385,9 @@
             "total": "$918.43"
         },
         {
-            "created": 1444932286391,
+            "created": {
+                "timestamp": 1444932286391
+            },
             "creditCard": {
                 "billingAddress": {
                     "address1": "70 Anderson",
@@ -402,7 +410,7 @@
                 "id": "561feab62deba34fb9e3cec1",
                 "lastFour": "4242"
             },
-            "id": 4412,
+            "id": "4412",
             "lastModified": 1444932286391,
             "numItems": 1,
             "orderlets": [
