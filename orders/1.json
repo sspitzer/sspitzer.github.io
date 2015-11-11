@@ -51,6 +51,7 @@
                                 "productId": 490982532,
                                 "productImageUrl": "http://s3resources.shopstyle.com/pim/26/4e/264e0e4551126957b164354c1542355e_best.jpg",
                                 "retailer": {
+                                    "contactEmail": "foo@saks.com",
                                     "id": 7,
                                     "name": "Saks Fifth Avenue",
                                     "returnPolicyUrl": "http://www.saksfifthavenue.com/Shipping-Returns-Taxes"
@@ -67,6 +68,7 @@
                         }
                     ],
                     "retailer": {
+                        "contactEmail": "foo@saks.com",
                         "id": 7,
                         "name": "Saks Fifth Avenue",
                         "returnPolicyUrl": "http://www.saksfifthavenue.com/Shipping-Returns-Taxes"
@@ -105,16 +107,20 @@
                                 "productId": 462400901,
                                 "productImageUrl": "http://s3resources.shopstyle.com/pim/63/96/6396dfdbd2b5e29b2988e44d32e97703_best.jpg",
                                 "retailer": {
+                                    "contactEmail": "foo@target.com",
                                     "id": 3,
-                                    "name": "Target"
+                                    "name": "Target",
+                                    "returnPolicyUrl": "http://target.com"
                                 },
                                 "sku": "200279816"
                             }
                         }
                     ],
                     "retailer": {
+                        "contactEmail": "foo@bar.com",
                         "id": 3,
-                        "name": "Target"
+                        "name": "Target",
+                        "returnPolicyUrl": "http://target.com"
                     },
                     "retailerOrderId": "abc2",
                     "shippingOption": {
@@ -198,6 +204,7 @@
                                 "productId": 490982532,
                                 "productImageUrl": "http://s3resources.shopstyle.com/pim/26/4e/264e0e4551126957b164354c1542355e_best.jpg",
                                 "retailer": {
+                                    "contactEmail": "foo@saks.com",
                                     "id": 7,
                                     "name": "Saks Fifth Avenue",
                                     "returnPolicyUrl": "http://www.saksfifthavenue.com/Shipping-Returns-Taxes"
@@ -214,6 +221,7 @@
                         }
                     ],
                     "retailer": {
+                        "contactEmail": "foo@saks.com",
                         "id": 7,
                         "name": "Saks Fifth Avenue",
                         "returnPolicyUrl": "http://www.saksfifthavenue.com/Shipping-Returns-Taxes"
@@ -300,6 +308,7 @@
                                 "productId": 490963683,
                                 "productImageUrl": "http://s3resources.shopstyle.com/pim/11/23/11231b81ee2c758e523b5e22d4b3d6a5_best.jpg",
                                 "retailer": {
+                                    "contactEmail": "foo@saks.com",
                                     "id": 7,
                                     "name": "Saks Fifth Avenue",
                                     "returnPolicyUrl": "http://www.saksfifthavenue.com/Shipping-Returns-Taxes"
@@ -334,6 +343,7 @@
                                 "productId": 490982532,
                                 "productImageUrl": "http://s3resources.shopstyle.com/pim/26/4e/264e0e4551126957b164354c1542355e_best.jpg",
                                 "retailer": {
+                                    "contactEmail": "foo@saks.com",
                                     "id": 7,
                                     "name": "Saks Fifth Avenue",
                                     "returnPolicyUrl": "http://www.saksfifthavenue.com/Shipping-Returns-Taxes"
@@ -350,6 +360,7 @@
                         }
                     ],
                     "retailer": {
+                        "contactEmail": "foo@saks.com",
                         "id": 7,
                         "name": "Saks Fifth Avenue",
                         "returnPolicyUrl": "http://www.saksfifthavenue.com/Shipping-Returns-Taxes"
@@ -436,6 +447,7 @@
                                 "productId": 490963679,
                                 "productImageUrl": "http://s3resources.shopstyle.com/pim/f8/75/f87508a3bcf9b4115cff0a2167209660_best.jpg",
                                 "retailer": {
+                                    "contactEmail": "foo@saks.com",
                                     "id": 7,
                                     "name": "Saks Fifth Avenue",
                                     "returnPolicyUrl": "http://www.saksfifthavenue.com/Shipping-Returns-Taxes"
@@ -452,6 +464,7 @@
                         }
                     ],
                     "retailer": {
+                        "contactEmail": "foo@saks.com",
                         "id": 7,
                         "name": "Saks Fifth Avenue",
                         "returnPolicyUrl": "http://www.saksfifthavenue.com/Shipping-Returns-Taxes"
