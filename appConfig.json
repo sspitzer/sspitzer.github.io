@@ -1,0 +1,96 @@
+{
+    "chatEnabled": true,
+    "checkoutRetailerConfigurations": {
+        "5.0.2": [
+            {
+                "contactEmail": "help@target.com",
+                "couponSupported": false,
+                "cvvRequired": true,
+                "id": "3",
+                "internalOnly": true,
+                "name": "Target",
+                "returnPolicyUrl": "http://m.target.com/spot/help/returns-refunds"
+            }
+        ],
+        "5.0.3": [
+            {
+                "contactEmail": "help@target.com",
+                "couponSupported": false,
+                "cvvRequired": true,
+                "id": "3",
+                "name": "Target",
+                "returnPolicyUrl": "http://m.target.com/spot/help/returns-refunds"
+            }
+        ],
+        "5.0.4": [
+            {
+                "contactEmail": "service@saks.com",
+                "couponSupported": false,
+                "cvvRequired": true,
+                "id": "7",
+                "name": "Saks Fifth Avenue",
+                "returnPolicyUrl": "https://m.saks.com/shipReturnTax.jsp"
+            },
+            {
+                "contactEmail": "help@target.com",
+                "couponSupported": false,
+                "cvvRequired": true,
+                "id": "3",
+                "name": "Target",
+                "returnPolicyUrl": "http://m.target.com/spot/help/returns-refunds"
+            }
+        ]
+    },
+    "excludedRetailers": [
+        "921",
+        "1862",
+        "133",
+        "920",
+        "63",
+        "53",
+        "391",
+        "1751",
+        "1923",
+        "1369",
+        "1018",
+        "19",
+        "25",
+        "3"
+    ],
+    "faq": "https://shopstyle.zendesk.com/hc/en-us",
+    "offlineRetailers": [
+        "Levi's",
+        "Neiman Marcus",
+        "Saks Fifth Avenue",
+        "Kohl's",
+        "JCPenney",
+        "Macy's"
+    ],
+    "offlineRetailersConfigurations": [
+        {
+            "id": "992",
+            "name": "Levi's"
+        },
+        {
+            "id": "6",
+            "name": "Neiman Marcus"
+        },
+        {
+            "id": "7",
+            "name": "Saks Fifth Avenue"
+        },
+        {
+            "id": "133",
+            "name": "Kohl's"
+        },
+        {
+            "id": "150",
+            "name": "JCPenney"
+        },
+        {
+            "id": "2",
+            "name": "Macy's"
+        }
+    ],
+    "userAgentOverrides": {}
+}
