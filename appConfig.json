@@ -92,5 +92,6 @@
             "name": "Macy's"
         }
     ],
+    "stripePublishableKey": "pk_test_hpylrYw2dukeJLoIGoWDlaq8",
     "userAgentOverrides": {}
 }
