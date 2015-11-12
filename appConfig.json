@@ -7,7 +7,7 @@
                 "couponSupported": false,
                 "cvvRequired": true,
                 "id": "3",
-                "internalOnly": true,
+                "XXXXinternalOnly": true,
                 "name": "Target",
                 "returnPolicyUrl": "http://m.target.com/spot/help/returns-refunds"
             }
