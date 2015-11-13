@@ -1,13 +1,43 @@
 {
     "chatEnabled": true,
     "checkoutRetailerConfigurations": {
+        "4.9.1": [
+            {
+                "contactEmail": "help@target.com",
+                "couponSupported": false,
+                "cvvRequired": true,
+                "id": "3",
+                "name": "Target",
+                "returnPolicyUrl": "http://m.target.com/spot/help/returns-refunds"
+            }
+        ],
+        "4.9.2": [
+            {
+                "contactEmail": "help@target.com",
+                "couponSupported": false,
+                "cvvRequired": true,
+                "id": "3",
+                "name": "Target",
+                "returnPolicyUrl": "http://m.target.com/spot/help/returns-refunds"
+            }
+        ],
+        "4.9.3": [
+            {
+                "contactEmail": "help@target.com",
+                "couponSupported": false,
+                "cvvRequired": true,
+                "id": "3",
+                "name": "Target",
+                "returnPolicyUrl": "http://m.target.com/spot/help/returns-refunds"
+            }
+        ],
         "5.0.2": [
             {
                 "contactEmail": "help@target.com",
                 "couponSupported": false,
                 "cvvRequired": true,
                 "id": "3",
-                "XXXXinternalOnly": true,
+                "internalOnly": true,
                 "name": "Target",
                 "returnPolicyUrl": "http://m.target.com/spot/help/returns-refunds"
             }
