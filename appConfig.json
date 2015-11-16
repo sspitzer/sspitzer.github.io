@@ -7,6 +7,7 @@
                 "couponSupported": false,
                 "cvvRequired": true,
                 "id": "3",
+                "internalOnly": true,
                 "name": "Target",
                 "returnPolicyUrl": "http://m.target.com/spot/help/returns-refunds"
             }
@@ -37,7 +38,6 @@
                 "couponSupported": false,
                 "cvvRequired": true,
                 "id": "3",
-                "XXXinternalOnly": true,
                 "name": "Target",
                 "returnPolicyUrl": "http://m.target.com/spot/help/returns-refunds"
             }
@@ -71,7 +71,7 @@
             }
         ]
     },
-    "cosmicPublishableKey": "NEED_A_REAL_KEY",
+    "cosmicPublishableKey": "8e020ede-6e5a-4d26-819d-45da9881cf17",
     "excludedRetailers": [
         "921",
         "1862",
