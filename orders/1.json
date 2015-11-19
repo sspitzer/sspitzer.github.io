@@ -2,7 +2,7 @@
     "items": [
         {
             "created": {
-                "timestamp": 1444932946511
+                "timestamp": 1444932946
             },
             "creditCard": {
                 "billingAddress": {
@@ -155,7 +155,7 @@
         },
         {
             "created": {
-                "timestamp": 1444932610641
+                "timestamp": 1444932610
             },
             "creditCard": {
                 "billingAddress": {
@@ -259,7 +259,7 @@
         },
         {
             "created": {
-                "timestamp": 1444932547301
+                "timestamp": 1444932547
             },
             "creditCard": {
                 "billingAddress": {
@@ -398,7 +398,7 @@
         },
         {
             "created": {
-                "timestamp": 1444932286391
+                "timestamp": 1444932286
             },
             "creditCard": {
                 "billingAddress": {
