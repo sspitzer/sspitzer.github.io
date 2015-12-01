@@ -1,7 +1,7 @@
 {
     "chatEnabled": true,
     "checkoutRetailerConfigurations": {
-        "4.9.1": [
+        "4.9.3": [
             {
                 "contactEmail": "help@target.com",
                 "couponSupported": false,
@@ -9,65 +9,16 @@
                 "id": "3",
                 "internalOnly": true,
                 "name": "Target",
-                "returnPolicyUrl": "http://m.target.com/spot/help/returns-refunds"
-            }
-        ],
-        "4.9.2": [
+                "returnPolicyUrl": "https://www-secure.target.com/mobile/spot/contact-us"
+            },
             {
-                "contactEmail": "help@target.com",
-                "couponSupported": false,
-                "cvvRequired": true,
-                "id": "3",
-                "name": "Target",
-                "returnPolicyUrl": "http://m.target.com/spot/help/returns-refunds"
-            }
-        ],
-        "4.9.3": [
-            {
-                "contactEmail": "help@target.com",
-                "couponSupported": false,
-                "cvvRequired": true,
-                "id": "3",
-                "name": "Target",
-                "returnPolicyUrl": "http://m.target.com/spot/help/returns-refunds"
-            }
-        ],
-        "5.0.2": [
-            {
-                "contactEmail": "help@target.com",
-                "couponSupported": false,
-                "cvvRequired": true,
-                "id": "3",
-                "name": "Target",
-                "returnPolicyUrl": "http://m.target.com/spot/help/returns-refunds"
-            }
-        ],
-        "5.0.3": [
-            {
-                "contactEmail": "help@target.com",
-                "couponSupported": false,
-                "cvvRequired": true,
-                "id": "3",
-                "name": "Target",
-                "returnPolicyUrl": "http://m.target.com/spot/help/returns-refunds"
-            }
-        ],
-        "5.0.4": [
-            {
-                "contactEmail": "service@saks.com",
+                "contactEmail": "help@saks.com",
                 "couponSupported": false,
                 "cvvRequired": true,
                 "id": "7",
-                "name": "Saks Fifth Avenue",
-                "returnPolicyUrl": "https://m.saks.com/shipReturnTax.jsp"
-            },
-            {
-                "contactEmail": "help@target.com",
-                "couponSupported": false,
-                "cvvRequired": true,
-                "id": "3",
-                "name": "Target",
-                "returnPolicyUrl": "http://m.target.com/spot/help/returns-refunds"
+                "internalOnly": true,
+                "name": "Saks",
+                "returnPolicyUrl": "https://saks.com"
             }
         ]
     },
@@ -123,6 +74,7 @@
             "name": "Macy's"
         }
     ],
+    "retailerListLabel": "Target",
     "stripePublishableKey": "pk_live_WhTnRynD8XjG6Pr2x3u1eLI2",
     "userAgentOverrides": {}
 }
