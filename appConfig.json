@@ -12,13 +12,13 @@
                 "returnPolicyUrl": "https://www-secure.target.com/mobile/spot/contact-us"
             },
             {
-                "contactEmail": "help@saks.com",
+                "contactEmail": "service@saks.com",
                 "couponSupported": false,
                 "cvvRequired": true,
                 "id": "7",
                 "internalOnly": true,
-                "name": "Saks",
-                "returnPolicyUrl": "https://saks.com"
+                "mobileReturnPolicyUrl": "https://m.saks.com/shipReturnTax.jsp",
+                "name": "Saks Fifth Avenue"
             }
         ]
     },
