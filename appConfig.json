@@ -92,7 +92,7 @@
             "name": "Macy's"
         }
     ],
-    "retailerListLabel": "Target",
+    "retailerListLabel": "Macy's, Bloomingdale's, Saks Fifth Avenue and Target",
     "stripePublishableKey": "pk_live_WhTnRynD8XjG6Pr2x3u1eLI2",
     "userAgentOverrides": {}
 }
