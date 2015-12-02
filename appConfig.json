@@ -19,6 +19,24 @@
                 "internalOnly": true,
                 "mobileReturnPolicyUrl": "https://m.saks.com/shipReturnTax.jsp",
                 "name": "Saks Fifth Avenue"
+            },
+            {
+                "contactEmail": "help@macys.com",
+                "couponSupported": false,
+                "cvvRequired": true,
+                "id": "2",
+                "internalOnly": true,
+                "mobileReturnPolicyUrl": "http://www.macys.com",
+                "name": "Macy's"
+            },
+            {
+                "contactEmail": "help@bloomingdales.com",
+                "couponSupported": false,
+                "cvvRequired": true,
+                "id": "8",
+                "internalOnly": true,
+                "mobileReturnPolicyUrl": "http://www.bloomingdales.com",
+                "name": "Bloomingdale's"
             }
         ]
     },
