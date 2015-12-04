@@ -3,12 +3,12 @@
     "checkoutRetailerConfigurations": {
         "4.9.3": [
             {
-                "contactEmail": "help@macys.com",
+                "contactEmail": "customerservice@macys.com",
                 "couponSupported": false,
                 "cvvRequired": true,
                 "id": "2",
-                "internalOnly": true,
-                "mobileReturnPolicyUrl": "http://www.macys.com",
+                "internalOnly": false,
+                "mobileReturnPolicyUrl": "https://customerservice.macys.com",
                 "name": "Macy's"
             }
         ]
