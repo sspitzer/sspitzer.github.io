@@ -1,6 +1,28 @@
 {
     "chatEnabled": true,
     "checkoutRetailerConfigurations": {
+        "4.9.1": [
+            {
+                "contactEmail": "help@target.com",
+                "couponSupported": false,
+                "cvvRequired": true,
+                "id": "3",
+                "internalOnly": true,
+                "name": "Target",
+                "returnPolicyUrl": "https://www-secure.target.com/mobile/spot/contact-us"
+            }
+        ],
+        "4.9.2": [
+            {
+                "contactEmail": "help@target.com",
+                "couponSupported": false,
+                "cvvRequired": true,
+                "id": "3",
+                "internalOnly": true,
+                "name": "Target",
+                "returnPolicyUrl": "https://www-secure.target.com/mobile/spot/contact-us"
+            }
+        ],
         "4.9.3": [
             {
                 "contactEmail": "help@target.com",
@@ -19,26 +41,158 @@
                 "internalOnly": true,
                 "mobileReturnPolicyUrl": "https://m.saks.com/shipReturnTax.jsp",
                 "name": "Saks Fifth Avenue"
-            },
+            }
+        ],
+        "4.9.4": [
             {
-                "contactEmail": "help@macys.com",
+                "contactEmail": "help@target.com",
                 "couponSupported": false,
                 "cvvRequired": true,
-                "id": "2",
+                "id": "3",
                 "internalOnly": true,
-                "mobileReturnPolicyUrl": "http://www.macys.com",
-                "name": "Macy's"
+                "name": "Target",
+                "returnPolicyUrl": "https://www-secure.target.com/mobile/spot/contact-us"
             },
             {
-                "contactEmail": "help@bloomingdales.com",
+                "contactEmail": "service@saks.com",
                 "couponSupported": false,
                 "cvvRequired": true,
-                "id": "8",
+                "id": "7",
                 "internalOnly": true,
-                "mobileReturnPolicyUrl": "http://www.bloomingdales.com",
-                "name": "Bloomingdale's"
+                "mobileReturnPolicyUrl": "https://m.saks.com/shipReturnTax.jsp",
+                "name": "Saks Fifth Avenue"
+            }
+        ],
+        "4.9.5": [
+            {
+                "contactEmail": "help@target.com",
+                "couponSupported": false,
+                "cvvRequired": true,
+                "id": "3",
+                "internalOnly": true,
+                "name": "Target",
+                "returnPolicyUrl": "https://www-secure.target.com/mobile/spot/contact-us"
+            },
+            {
+                "contactEmail": "service@saks.com",
+                "couponSupported": false,
+                "cvvRequired": true,
+                "id": "7",
+                "internalOnly": true,
+                "mobileReturnPolicyUrl": "https://m.saks.com/shipReturnTax.jsp",
+                "name": "Saks Fifth Avenue"
+            }
+        ],
+        "4.9.6": [
+            {
+                "contactEmail": "help@target.com",
+                "couponSupported": false,
+                "cvvRequired": true,
+                "id": "3",
+                "internalOnly": true,
+                "name": "Target",
+                "returnPolicyUrl": "https://www-secure.target.com/mobile/spot/contact-us"
+            },
+            {
+                "contactEmail": "service@saks.com",
+                "couponSupported": false,
+                "cvvRequired": true,
+                "id": "7",
+                "internalOnly": true,
+                "mobileReturnPolicyUrl": "https://m.saks.com/shipReturnTax.jsp",
+                "name": "Saks Fifth Avenue"
+            }
+        ],
+        "4.9.7": [
+            {
+                "contactEmail": "help@target.com",
+                "couponSupported": false,
+                "cvvRequired": true,
+                "id": "3",
+                "internalOnly": true,
+                "name": "Target",
+                "returnPolicyUrl": "https://www-secure.target.com/mobile/spot/contact-us"
+            },
+            {
+                "contactEmail": "service@saks.com",
+                "couponSupported": false,
+                "cvvRequired": true,
+                "id": "7",
+                "internalOnly": true,
+                "mobileReturnPolicyUrl": "https://m.saks.com/shipReturnTax.jsp",
+                "name": "Saks Fifth Avenue"
+            }
+        ],
+        "4.9.8": [
+            {
+                "contactEmail": "help@target.com",
+                "couponSupported": false,
+                "cvvRequired": true,
+                "id": "3",
+                "internalOnly": true,
+                "name": "Target",
+                "returnPolicyUrl": "https://www-secure.target.com/mobile/spot/contact-us"
+            },
+            {
+                "contactEmail": "service@saks.com",
+                "couponSupported": false,
+                "cvvRequired": true,
+                "id": "7",
+                "internalOnly": true,
+                "mobileReturnPolicyUrl": "https://m.saks.com/shipReturnTax.jsp",
+                "name": "Saks Fifth Avenue"
+            }
+        ],
+        "4.9.9": [
+            {
+                "contactEmail": "help@target.com",
+                "couponSupported": false,
+                "cvvRequired": true,
+                "id": "3",
+                "internalOnly": true,
+                "name": "Target",
+                "returnPolicyUrl": "https://www-secure.target.com/mobile/spot/contact-us"
+            },
+            {
+                "contactEmail": "service@saks.com",
+                "couponSupported": false,
+                "cvvRequired": true,
+                "id": "7",
+                "internalOnly": true,
+                "mobileReturnPolicyUrl": "https://m.saks.com/shipReturnTax.jsp",
+                "name": "Saks Fifth Avenue"
             }
         ]
+    },
+    "checkoutRetailerListLabel": {
+        "4.9.3": {
+            "external": "",
+            "internal": "Target and Saks"
+        },
+        "4.9.4": {
+            "external": "",
+            "internal": "Target and Saks"
+        },
+        "4.9.5": {
+            "external": "",
+            "internal": "Target and Saks"
+        },
+        "4.9.6": {
+            "external": "",
+            "internal": "Target and Saks"
+        },
+        "4.9.7": {
+            "external": "",
+            "internal": "Target and Saks"
+        },
+        "4.9.8": {
+            "external": "",
+            "internal": "Target and Saks"
+        },
+        "4.9.9": {
+            "external": "",
+            "internal": "Target and Saks"
+        }
     },
     "cosmicPublishableKey": "8e020ede-6e5a-4d26-819d-45da9881cf17",
     "excludedRetailers": [
@@ -92,7 +246,7 @@
             "name": "Macy's"
         }
     ],
-    "retailerListLabel": "Macy's, Bloomingdale's, Saks Fifth Avenue and Target",
+    "retailerListLabel": "Target",
     "stripePublishableKey": "pk_live_WhTnRynD8XjG6Pr2x3u1eLI2",
     "userAgentOverrides": {}
 }
