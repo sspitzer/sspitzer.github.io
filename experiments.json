@@ -15,14 +15,20 @@
         {
             "id": "647A3012-6652-4F86-ADAD-D61AFD3A5AEC",
             "name": "recommendationsinhome",
-            "percent": 20,
-            "title": "20% show recommendations in home tab"
+            "percent": 50,
+            "title": "50% show recommendations in home tab"
         },
         {
             "id": "DF9E216B-9D8D-4BF3-91E4-BB456D05432D",
             "name": "personalizednavbar",
             "percent": 50,
             "title": "50% show personalized navigation bar in home tab"
+        },
+        {
+            "id": "0100E3FA-5006-4F25-AB9C-BC40FB936DF3",
+            "name": "mybrandsonsale",
+            "percent": 50,
+            "title": "50% show my brands on sale in home tab"
         }
     ]
 }
