@@ -1,0 +1,133 @@
+{
+    "browseDepartments": [
+        {
+            "categoryId": "women",
+            "imageId": "Women-All",
+            "merchandisedCategories": [
+                {
+                    "categoryId": "womens-shoes",
+                    "imageId": "Women-Shoes"
+                },
+                {
+                    "categoryId": "handbags",
+                    "imageId": "Women-Bags"
+                },
+                {
+                    "categoryId": "dresses",
+                    "imageId": "Women-Dresses"
+                },
+                {
+                    "categoryId": "womens-beauty",
+                    "imageId": "Women-Beauty"
+                },
+                {
+                    "categoryId": "jewelry",
+                    "imageId": "Women-Jewelry"
+                },
+                {
+                    "categoryId": "womens-tops",
+                    "imageId": "Women-Tops"
+                },
+                {
+                    "categoryId": "womens-outerwear",
+                    "imageId": "Women-Outerwear"
+                },
+                {
+                    "categoryId": "womens-accessories",
+                    "imageId": "Women-Accessories"
+                }
+            ]
+        },
+        {
+            "categoryId": "men",
+            "imageId": "Men-All",
+            "merchandisedCategories": [
+                {
+                    "categoryId": "mens-shoes",
+                    "imageId": "Men-Shoes"
+                },
+                {
+                    "categoryId": "mens-shirts",
+                    "imageId": "Men-Shirts"
+                },
+                {
+                    "categoryId": "mens-outerwear",
+                    "imageId": "Men-Outerwear"
+                },
+                {
+                    "categoryId": "mens-accessories",
+                    "imageId": "Men-Accessories"
+                },
+                {
+                    "categoryId": "mens-jeans",
+                    "imageId": "Men-Jeans"
+                },
+                {
+                    "categoryId": "mens-bags",
+                    "imageId": "Men-Bags"
+                }
+            ]
+        },
+        {
+            "categoryId": "kids-and-baby",
+            "imageId": "Kids-All",
+            "merchandisedCategories": [
+                {
+                    "categoryId": "baby-gear",
+                    "imageId": "Kids-BabyGear"
+                },
+                {
+                    "categoryId": "kids-bath-and-body",
+                    "imageId": "Kids-BathBody"
+                },
+                {
+                    "categoryId": "kids-bedroom",
+                    "imageId": "Kids-Bedroom"
+                },
+                {
+                    "categoryId": "nursery-kids-and-baby",
+                    "imageId": "Kids-Nursery"
+                },
+                {
+                    "categoryId": "kids-and-baby-clothing",
+                    "imageId": "Kids-Clothing"
+                },
+                {
+                    "categoryId": "kids-toys",
+                    "imageId": "Kids-ToysAndActivity"
+                }
+            ]
+        },
+        {
+            "categoryId": "living",
+            "imageId": "Home-All",
+            "merchandisedCategories": [
+                {
+                    "categoryId": "bath",
+                    "imageId": "Home-Bath"
+                },
+                {
+                    "categoryId": "bedding",
+                    "imageId": "Home-Bedding"
+                },
+                {
+                    "categoryId": "accents",
+                    "imageId": "Home-Decor"
+                },
+                {
+                    "categoryId": "furniture",
+                    "imageId": "Home-Furniture"
+                },
+                {
+                    "categoryId": "kitchen",
+                    "imageId": "Home-Kitchen"
+                },
+                {
+                    "categoryId": "dining",
+                    "imageId": "Home-Tabletop"
+                }
+            ]
+        }
+    ],
+    "imageUrlPrefix": "https://www.shopstyle.com/static/mobile/v4/images/"
+}
