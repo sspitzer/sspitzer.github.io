@@ -1,0 +1,40 @@
+{
+    "experiments": [
+        {
+            "id": "54922BD2-AB41-45C4-A8C0-5E3733309E5E",
+            "name": "checkout1",
+            "percent": 50,
+            "title": "50% checkout enabled"
+        },
+        {
+            "id": "620A67EE-3068-4B16-AD34-DC8E7439EA27",
+            "name": "showonsale1",
+            "percent": 100,
+            "title": "100% show on sale"
+        },
+        {
+            "id": "8F1A4114-6D17-4073-A3F1-C6EA7D89D704",
+            "name": "percentoff1",
+            "percent": 50,
+            "title": "50% show percent off"
+        },
+        {
+            "id": "647A3012-6652-4F86-ADAD-D61AFD3A5AEC",
+            "name": "recommendationsinhome1",
+            "percent": 50,
+            "title": "50% show recommendations in home tab"
+        },
+        {
+            "id": "DF9E216B-9D8D-4BF3-91E4-BB456D05432D",
+            "name": "personalizednavbar1",
+            "percent": 50,
+            "title": "50% show personalized navigation bar in home tab"
+        },
+        {
+            "id": "0100E3FA-5006-4F25-AB9C-BC40FB936DF3",
+            "name": "mybrandsonsale1",
+            "percent": 50,
+            "title": "50% show my brands on sale in home tab"
+        }
+    ]
+}
