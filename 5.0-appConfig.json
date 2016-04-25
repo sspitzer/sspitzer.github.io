@@ -23,7 +23,7 @@
             {
                 "contactEmail": "customerservice@macys.com",
                 "couponSupported": false,
-                "cvvRequired": false,
+                "cvvRequired": true,
                 "id": "2",
                 "internalOnly": true,
                 "mobileReturnPolicyUrl": "https://customerservice.macys.com/app/answers/detail/a_id/140",
