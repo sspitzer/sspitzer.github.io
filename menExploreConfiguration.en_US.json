@@ -1,0 +1,114 @@
+{
+	"contentItems": [
+		{
+			"type": "AppPromo",
+			"configuration": {
+				"uuid": "B7711EF6-33BC-4803-B944-6A05E3A59E61",
+				"appStoreURL": "http://smarturl.it/KandK",
+				"headerImageID": "Explore-AppPromo-KendallKylie",
+				"headerTitle": "Sponsored Content\nTap to download Kendall & Kylie app",
+				"title": "Seen in Kendall & Kylie App",
+				"prompt": "See More From Kendall & Kylie App",
+				"productIDs": [
+					512317054,
+					526383136,
+					526508825,
+					525531793,
+					472904349,
+					526578269,
+					469721358,
+					526388310,
+					520187735,
+					457532619,
+					510928380,
+					525623963,
+					504617115,
+					522576746
+				]
+			}
+		},
+		{
+			"type": "Brand",
+			"configuration": {
+				"name": "Todd Snyder",
+				"brandID": 30953,
+				"imageID": "Explore-Brand-Todd-Snyder"
+			}
+		},
+		{
+			"type": "Product",
+			"configuration": {
+				"title": "La Dolce Vita: Gucci",
+				"subtitle": "Explore the latest from Gucci",
+				"productID": 497501953
+			}
+		},
+		{
+			"type": "Products",
+			"configuration": {
+				"title": "The Getaway",
+				"subtitle": "Our favorite packing list this season",
+				"productIDs": [
+					482650722,
+					441825260,
+					479577516,
+					517936714,
+					209530090,
+					501562432,
+					508209635,
+					519805156,
+					477713258,
+					522218627,
+					522096486,
+					516585687,
+					511438613,
+					512309525,
+					486752526,
+					517685373
+				]
+			}
+		},
+		{
+			"type": "Brand",
+			"configuration": {
+				"name": "Nike",
+				"brandID": 422,
+				"imageID": "Explore-Brand-Nike"
+			}
+		},
+		{
+			"type": "Product",
+			"configuration": {
+				"title": "Aesop",
+				"subtitle": "Because your skin deserves it.",
+				"productID": 518381821
+			}
+		}
+	],
+	"footerCategoryItems": [
+		{
+			"categoryID": "mens-shoes",
+			"imageID": "Explore-Men-Shoes"
+		},
+		{
+			"categoryID": "mens-bags",
+			"imageID": "Explore-Men-Bags"
+		},
+		{
+			"categoryID": "mens-outerwear",
+			"imageID": "Explore-Men-Outerwear"
+		},
+		{
+			"categoryID": "mens-accessories",
+			"imageID": "Explore-Men-Accessories"
+		},
+		{
+			"categoryID": "mens-grooming",
+			"imageID": "Explore-Men-Grooming"
+		},
+		{
+			"categoryID": "mens-tees-and-tshirts",
+			"imageID": "Explore-Men-Tees"
+		}
+	]
+}
