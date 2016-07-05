@@ -1,6 +1,7 @@
 {
     "alert": {
-        "6.0.4": "Buy in App is disabled, please upgrade"
+        "6": "Buy in App is disabled, please upgrade",
+        "6.0.5": ""
     },
     "chatEnabled": true,
     "cosmicPublishableKey": "8e020ede-6e5a-4d26-819d-45da9881cf17",
@@ -28,8 +29,8 @@
     ],
     "faq": "https://shopstyle.zendesk.com/hc/en-us",
     "hasCheckoutFeature": {
-	"6": true,
-        "6.0.4": false
+        "6": false,
+        "6.0.5": true
     },
     "hasCheckoutProducts": false,
     "popularBrandsShoppingProfileIDs": {
