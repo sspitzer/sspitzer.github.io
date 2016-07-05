@@ -2,8 +2,7 @@
     "alert": {
         "5": "hi",
         "6": "foo",
-        "6.0": "bar",
-        "6.0.5": "cheese"
+        "6.0.4": "cheese"
     },
     "chatEnabled": true,
     "cosmicPublishableKey": "8e020ede-6e5a-4d26-819d-45da9881cf17",
@@ -31,9 +30,8 @@
     ],
     "faq": "https://shopstyle.zendesk.com/hc/en-us",
     "hasCheckoutFeature": {
-        "6": true,
-        "6.0": false,
-        "6.0.6": true,
+        "6": false,
+        "6.0.4": true,
         "6.1": true,
         "7": true
     },
