@@ -1,4 +1,10 @@
 {
+    "alert": {
+        "5": "hi",
+        "6": "foo",
+        "6.0": "bar",
+        "6.0.5": "cheese"
+    },
     "chatEnabled": true,
     "cosmicPublishableKey": "8e020ede-6e5a-4d26-819d-45da9881cf17",
     "emoticodeEnabled": true,
