@@ -1,200 +1,7 @@
 {
     "chatEnabled": true,
-    "checkoutRetailerConfigurations": {
-        "4.9.1": [
-            {
-                "contactEmail": "help@target.com",
-                "couponSupported": false,
-                "cvvRequired": true,
-                "id": "3",
-                "internalOnly": true,
-                "name": "Target",
-                "returnPolicyUrl": "https://www-secure.target.com/mobile/spot/contact-us"
-            }
-        ],
-        "4.9.2": [
-            {
-                "contactEmail": "help@target.com",
-                "couponSupported": false,
-                "cvvRequired": true,
-                "id": "3",
-                "internalOnly": true,
-                "name": "Target",
-                "returnPolicyUrl": "https://www-secure.target.com/mobile/spot/contact-us"
-            }
-        ],
-        "4.9.3": [
-            {
-                "contactEmail": "help@target.com",
-                "couponSupported": false,
-                "cvvRequired": true,
-                "id": "3",
-                "internalOnly": true,
-                "name": "Target",
-                "returnPolicyUrl": "https://www-secure.target.com/mobile/spot/contact-us"
-            },
-            {
-                "contactEmail": "service@saks.com",
-                "couponSupported": false,
-                "cvvRequired": true,
-                "id": "7",
-                "internalOnly": true,
-                "mobileReturnPolicyUrl": "https://m.saks.com/shipReturnTax.jsp",
-                "name": "Saks Fifth Avenue"
-            }
-        ],
-        "4.9.4": [
-            {
-                "contactEmail": "help@target.com",
-                "couponSupported": false,
-                "cvvRequired": true,
-                "id": "3",
-                "internalOnly": true,
-                "name": "Target",
-                "returnPolicyUrl": "https://www-secure.target.com/mobile/spot/contact-us"
-            },
-            {
-                "contactEmail": "service@saks.com",
-                "couponSupported": false,
-                "cvvRequired": true,
-                "id": "7",
-                "internalOnly": true,
-                "mobileReturnPolicyUrl": "https://m.saks.com/shipReturnTax.jsp",
-                "name": "Saks Fifth Avenue"
-            }
-        ],
-        "4.9.5": [
-            {
-                "contactEmail": "help@target.com",
-                "couponSupported": false,
-                "cvvRequired": true,
-                "id": "3",
-                "internalOnly": true,
-                "name": "Target",
-                "returnPolicyUrl": "https://www-secure.target.com/mobile/spot/contact-us"
-            },
-            {
-                "contactEmail": "service@saks.com",
-                "couponSupported": false,
-                "cvvRequired": true,
-                "id": "7",
-                "internalOnly": true,
-                "mobileReturnPolicyUrl": "https://m.saks.com/shipReturnTax.jsp",
-                "name": "Saks Fifth Avenue"
-            }
-        ],
-        "4.9.6": [
-            {
-                "contactEmail": "help@target.com",
-                "couponSupported": false,
-                "cvvRequired": true,
-                "id": "3",
-                "internalOnly": true,
-                "name": "Target",
-                "returnPolicyUrl": "https://www-secure.target.com/mobile/spot/contact-us"
-            },
-            {
-                "contactEmail": "service@saks.com",
-                "couponSupported": false,
-                "cvvRequired": true,
-                "id": "7",
-                "internalOnly": true,
-                "mobileReturnPolicyUrl": "https://m.saks.com/shipReturnTax.jsp",
-                "name": "Saks Fifth Avenue"
-            }
-        ],
-        "4.9.7": [
-            {
-                "contactEmail": "help@target.com",
-                "couponSupported": false,
-                "cvvRequired": true,
-                "id": "3",
-                "internalOnly": true,
-                "name": "Target",
-                "returnPolicyUrl": "https://www-secure.target.com/mobile/spot/contact-us"
-            },
-            {
-                "contactEmail": "service@saks.com",
-                "couponSupported": false,
-                "cvvRequired": true,
-                "id": "7",
-                "internalOnly": true,
-                "mobileReturnPolicyUrl": "https://m.saks.com/shipReturnTax.jsp",
-                "name": "Saks Fifth Avenue"
-            }
-        ],
-        "4.9.8": [
-            {
-                "contactEmail": "help@target.com",
-                "couponSupported": false,
-                "cvvRequired": true,
-                "id": "3",
-                "internalOnly": true,
-                "name": "Target",
-                "returnPolicyUrl": "https://www-secure.target.com/mobile/spot/contact-us"
-            },
-            {
-                "contactEmail": "service@saks.com",
-                "couponSupported": false,
-                "cvvRequired": true,
-                "id": "7",
-                "internalOnly": true,
-                "mobileReturnPolicyUrl": "https://m.saks.com/shipReturnTax.jsp",
-                "name": "Saks Fifth Avenue"
-            }
-        ],
-        "4.9.9": [
-            {
-                "contactEmail": "help@target.com",
-                "couponSupported": false,
-                "cvvRequired": true,
-                "id": "3",
-                "internalOnly": true,
-                "name": "Target",
-                "returnPolicyUrl": "https://www-secure.target.com/mobile/spot/contact-us"
-            },
-            {
-                "contactEmail": "service@saks.com",
-                "couponSupported": false,
-                "cvvRequired": true,
-                "id": "7",
-                "internalOnly": true,
-                "mobileReturnPolicyUrl": "https://m.saks.com/shipReturnTax.jsp",
-                "name": "Saks Fifth Avenue"
-            }
-        ]
-    },
-    "checkoutRetailerListLabel": {
-        "4.9.3": {
-            "external": "",
-            "internal": "Target and Saks"
-        },
-        "4.9.4": {
-            "external": "",
-            "internal": "Target and Saks"
-        },
-        "4.9.5": {
-            "external": "",
-            "internal": "Target and Saks"
-        },
-        "4.9.6": {
-            "external": "",
-            "internal": "Target and Saks"
-        },
-        "4.9.7": {
-            "external": "",
-            "internal": "Target and Saks"
-        },
-        "4.9.8": {
-            "external": "",
-            "internal": "Target and Saks"
-        },
-        "4.9.9": {
-            "external": "",
-            "internal": "Target and Saks"
-        }
-    },
     "cosmicPublishableKey": "8e020ede-6e5a-4d26-819d-45da9881cf17",
+    "emoticodeEnabled": true,
     "excludedRetailers": [
         "921",
         "1862",
@@ -205,7 +12,6 @@
         "391",
         "1751",
         "1923",
-        "1369",
         "1018",
         "19",
         "25",
@@ -213,44 +19,49 @@
         "1944",
         "1304",
         "1369",
-        "2344"
+        "2344",
+        "876",
+        "2451"
     ],
     "faq": "https://shopstyle.zendesk.com/hc/en-us",
-    "offlineRetailers": [
-        "Levi's",
-        "Neiman Marcus",
-        "Saks Fifth Avenue",
-        "Kohl's",
-        "JCPenney",
-        "Macy's"
-    ],
-    "offlineRetailersConfigurations": [
-        {
-            "id": "992",
-            "name": "Levi's"
-        },
-        {
-            "id": "6",
-            "name": "Neiman Marcus"
-        },
-        {
-            "id": "7",
-            "name": "Saks Fifth Avenue"
-        },
-        {
-            "id": "133",
-            "name": "Kohl's"
-        },
-        {
-            "id": "150",
-            "name": "JCPenney"
-        },
-        {
-            "id": "2",
-            "name": "Macy's"
-        }
-    ],
-    "retailerListLabel": "Target",
+    "hasCheckoutFeature": {
+        "6": true,
+        "6.0": false,
+        "6.0.6": true,
+        "6.1": true,
+        "7": true
+    },
+    "hasCheckoutProducts": false,
+    "popularBrandsShoppingProfileIDs": {
+        "men": "6680966",
+        "women": "6681751"
+    },
     "stripePublishableKey": "pk_live_WhTnRynD8XjG6Pr2x3u1eLI2",
+    "suggestedCategoryIDs": {
+        "men": [
+            "mens-sneakers",
+            "mens-jackets",
+            "mens-boots",
+            "mens-shirts",
+            "mens-backpacks",
+            "mens-accessories",
+            "mens-outerwear",
+            "mens-jeans",
+            "mens-shoes",
+            "mens-sunglasses"
+        ],
+        "women": [
+            "womens-shoes",
+            "dresses",
+            "handbags",
+            "womens-tops",
+            "skirts",
+            "womens-accessories",
+            "jackets",
+            "jewelry",
+            "womens-pants",
+            "jeans"
+        ]
+    },
     "userAgentOverrides": {}
 }
