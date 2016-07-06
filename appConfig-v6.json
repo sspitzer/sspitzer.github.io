@@ -1,6 +1,6 @@
 {
     "alertMessage": {
-        "6.0.4": "Buy in App is disabled, please upgrade"
+        "6.0.4": ""
     },
     "chatEnabled": true,
     "cosmicPublishableKey": "8e020ede-6e5a-4d26-819d-45da9881cf17",
@@ -28,7 +28,7 @@
     ],
     "faq": "https://shopstyle.zendesk.com/hc/en-us",
     "disableCheckoutFeature": {
-        "6.0.4": true
+        "6.0.4": false 
     },
     "hasCheckoutProducts": false,
     "popularBrandsShoppingProfileIDs": {
@@ -62,5 +62,7 @@
             "jeans"
         ]
     },
+    "trustCheckoutPortal": true,
+    "trustPortal": false,
     "userAgentOverrides": {}
 }
