@@ -1,5 +1,5 @@
 {
-    "alert": {
+    "alertMessage": {
         "6.0.4": "Buy in App is disabled, please upgrade"
     },
     "chatEnabled": true,
