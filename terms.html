@@ -2,7 +2,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Terms of Service</title>
+    <title>Loading...</title>
 
     <style type="text/css" media="screen">
         body {
@@ -23,24 +23,15 @@
 <body>
     <div id="content" class="content-container"></div>
 
-    <script src="https://npmcdn.com/contentful@3.3.5/browser-dist/contentful.js" charset="utf-8"></script>
-    <script src="https://npmcdn.com/marked@0.3.5/marked.min.js" charset="utf-8"></script>
-
     <script type="text/javascript">
-        var contentfulClient = contentful.createClient({
-            accessToken: 'b0a439c7ef9fd8f1f1e9cc195b9e8e3fe61a91eb291e09a799f50c40a9a1612e',
-            space: 'qvttt5g99qxi'
-        })
+        const url = "https://cdn.contentful.com/spaces/qvttt5g99qxi/entries?access_token=b0a439c7ef9fd8f1f1e9cc195b9e8e3fe61a91eb291e09a799f50c40a9a1612e&content_type=content&limit=1&fields.urlIdentifier=tos";
 
-        var container = document.getElementById('content')
-
-        contentfulClient.getEntries({
-                'content_type': 'content',
-                'fields.urlIdentifier': 'tos'
-            })
-            .then(function(entries) {
-                container.innerHTML = entries.items[0].fields.body
-            })
+        fetch(url).then((resp) => resp.json())
+            .then(function(data) {
+                var container = document.getElementById('content');
+                container.innerHTML = data.items[0].fields.body;
+                document.title = data.items[0].fields.title;
+            });
     </script>
 
 </body>
