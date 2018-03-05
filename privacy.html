@@ -1,0 +1,48 @@
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Privacy Policy</title>
+
+    <style type="text/css" media="screen">
+        body {
+            padding: 0;
+            margin: 0;
+            border: none;
+            font-family: 'Avenir', sans-serif;
+        }
+        
+        a {
+            border-bottom: 1px dotted #5B9FEF;
+            color: #4A90E2;
+            text-decoration: none;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="content" class="content-container"></div>
+
+    <script src="https://npmcdn.com/contentful@3.3.5/browser-dist/contentful.js" charset="utf-8"></script>
+    <script src="https://npmcdn.com/marked@0.3.5/marked.min.js" charset="utf-8"></script>
+
+    <script type="text/javascript">
+        var contentfulClient = contentful.createClient({
+            accessToken: 'b0a439c7ef9fd8f1f1e9cc195b9e8e3fe61a91eb291e09a799f50c40a9a1612e',
+            space: 'qvttt5g99qxi'
+        })
+
+        var container = document.getElementById('content')
+
+        contentfulClient.getEntries({
+                'content_type': 'content',
+                'fields.urlIdentifier': 'privacy'
+            })
+            .then(function(entries) {
+                container.innerHTML = entries.items[0].fields.body
+            })
+    </script>
+
+</body>
+
+</html>
