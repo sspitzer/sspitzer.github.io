@@ -142,12 +142,12 @@
             
         </div>
     
-    <script>
         <!--
         Make the confirm click call as early as possible.
         Logs the click id in the click_confirmation table.
         Clicks that arent found in the click_confirmation table are considered invalid.
         -->
+    <script>
         var xmlHttp = new XMLHttpRequest();
         xmlHttp.open( "GET", "/action/apiConfirmClick?clickId=4328170245");
         xmlHttp.send( null );
