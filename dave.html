@@ -1,2 +1,30 @@
-<h1><a href="https://www.shopstyle.com/action/loadRetailerProductPage?device=desktop&project=shopstyle+web&version=ng5-8.2.1-5dcc3b18&searchId=f88486e7-9bcc-492b-8443-939dbf85cc19&extra=%7B%22stack%22:%22node%22,%22page.name%22:%22browse+products%22,%22page.fromUrl%22:%22/browse?fts=nordstrom%22%7D&userId=23425584&id=791070242&exit=ProductCell-Image&skipInterstitial=true">click here to skip</a></h1>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  setTimeout(function() {
+    // Create a new div element to hold the window properties
+    var windowPropertiesDiv = document.createElement('div');
 
+    // Iterate over the properties of the window object
+    for (var prop in window) {
+      // Check if the property is a direct property of the window object
+      if (window.hasOwnProperty(prop)) {
+        // Create a new p element
+        var p = document.createElement('p');
+
+        // Set the text of the p element to the name and value of the property
+        try {
+          p.textContent = prop + ": " + window[prop];
+        } catch (e) {
+          p.textContent = prop + ": [Access Error]";
+        }
+
+        // Append the p element to the div
+        windowPropertiesDiv.appendChild(p);
+      }
+    }
+
+    // Append the div element to the body of the document
+    document.body.appendChild(windowPropertiesDiv);
+  }, 500); // Delay execution for 500 milliseconds
+});
+</script>
