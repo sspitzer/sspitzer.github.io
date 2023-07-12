@@ -1,30 +1,37 @@
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  setTimeout(function() {
-    // Create a new div element to hold the window properties
-    var windowPropertiesDiv = document.createElement('div');
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Display Location and Navigator Objects</title>
+    </head>
+    <body>
+        <h2>Location Object:</h2>
+        <pre id="location-output"></pre>
+        
+        <h2>Navigator Object:</h2>
+        <pre id="navigator-output"></pre>
 
-    // Iterate over the properties of the window object
-    for (var prop in window) {
-      // Check if the property is a direct property of the window object
-      if (window.hasOwnProperty(prop)) {
-        // Create a new p element
-        var p = document.createElement('p');
+        <script>
+            // Get the pre tags
+            const locationPreTag = document.getElementById('location-output');
+            const navigatorPreTag = document.getElementById('navigator-output');
 
-        // Set the text of the p element to the name and value of the property
-        try {
-          p.textContent = prop + ": " + window[prop];
-        } catch (e) {
-          p.textContent = prop + ": [Access Error]";
-        }
+            // Get all properties of the location object
+            let locationProperties = '';
+            for (let property in window.location) {
+                locationProperties += `${property}: ${window.location[property]}\n`;
+            }
 
-        // Append the p element to the div
-        windowPropertiesDiv.appendChild(p);
-      }
-    }
+            // Get all properties of the navigator object
+            let navigatorProperties = '';
+            for (let property in window.navigator) {
+                navigatorProperties += `${property}: ${window.navigator[property]}\n`;
+            }
 
-    // Append the div element to the body of the document
-    document.body.appendChild(windowPropertiesDiv);
-  }, 500); // Delay execution for 500 milliseconds
-});
-</script>
+            // Display the location object's properties in a human-readable format
+            locationPreTag.textContent = locationProperties;
+            
+            // Display the navigator object's properties in a human-readable format
+            navigatorPreTag.textContent = navigatorProperties;
+        </script>
+    </body>
+</html>
